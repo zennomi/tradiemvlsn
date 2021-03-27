@@ -1,0 +1,81 @@
+extends ./layout.pug
+block head
+block content
+    .d-flex.flex-column.flex-column-fluid
+        .content.fs-6.d-flex.flex-column-fluid
+            .container
+                .row.g-0.g-xl-5.xxl-8
+                    .col-xl-6
+                        .card.card-custom.card-stretch.mb-xxl-8
+                            .card-header.border-0.pt-5
+                                .card-title.align-items-start.flex-column
+                                    .card-label.fw-bolder.text-dark.fs-3 Thông tin học sinh
+                            .card-body.pt-0
+                                .d-flex.justify-content-around.flex-column-fluid
+                                    .symbol.symbol-65px.mb-2
+                                        .symbol-label.bg-light-primary.p-3
+                                            i.fad.fa-user-circle.text-primary.fs-3x
+                                    table.table.table-borderless.align-middle
+                                        thead
+                                            tr
+                                                th.p-0
+                                                th.p-0
+                                                th.p-0
+                                        tbody
+                                            tr
+                                                td
+                                                td.text-primary Họ tên: 
+                                                td Nguyễn Đăng Tuấn Anh
+                                            tr
+                                                td
+                                                td.text-primary Số báo danh: 
+                                                td 20194472
+                                            tr
+                                                td
+                                                td.text-primary Ngày sinh: 
+                                                td 25/11/2001
+                                            tr
+                                                td
+                                                td.text-primary Trường: 
+                                                td THPT Chuyên Nguyễn Huệ
+                    .col-xl-6
+                        .card.card-custom.card-stretch.mb-xxl-8
+                            .card-header.border-0.pt-xl-5
+                                .card-title.align-items-start.flex-column
+                                    .card-label.fw-bolder.text-dark.fs-3 Kết quả thi
+                            .card-body.pt-0
+                                .d-flex.justify-content-around.flex-column-fluid
+                                    .symbol.symbol-65px.mb-2
+                                        .symbol-label.bg-light-primary.p-3
+                                            .fs-3x.text-primary 10
+                                    table.table.table-borderless.align-middle
+                                        thead
+                                            tr
+                                                th.p-0
+                                                th.p-0
+                                                th.p-0
+                                        tbody
+                                            tr
+                                                td
+                                                td.fw-bold.text-primary Mã đề
+                                                td 69
+                                            tr
+                                                td
+                                                td.fw-bold.text-primary Ngày thi
+                                                td 30/03/2021
+                                            tr
+                                                td
+                                                td.fw-bold.text-primary Kíp thi: 
+                                                td 15h00 - 16h00
+                                            tr
+                                                td
+                                                td.fw-bold.text-primary Số câu đúng: 
+                                                td 40/40
+                    .col-xl-4
+                        .card.card-custom.card-stretch.mb-xxl-8
+                            .card-header.border-0.pt-xl-5
+                                .card-title.align-items-start.flex-column
+                                    .card-label.fw-bolder.text-dark.fs-3 Skill
+                            .card-body.pt-0
+                                canvas#radarchart(width="400" height="400")
+    script(src="/assets/js/chart.js") 

@@ -1,0 +1,1 @@
+chrome-extension://ogmnaimimemjmbakcfefmnahgdfhfami/js/language/text-scanner.js

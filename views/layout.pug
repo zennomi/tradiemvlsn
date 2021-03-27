@@ -1,0 +1,155 @@
+doctype html
+html(lang='en')
+    head
+        meta(charset='utf-8')
+        title Tra điểm thi thử VLSN
+        meta(name="viewport" content="width=device-width, initial-scale=1.0")
+        link(rel="shortcut icon" href="/public/assets/media/logos/favicon.ico", type="image/x-icon")
+        link(rel="preconnect" href="https://fonts.gstatic.com")
+        link(href="https://fonts.googleapis.com/css2?family=Comfortaa:wght@300;400;500;600;700&display=swap" rel="stylesheet")
+        link(rel='stylesheet', type='text/css', href='//cdn.jsdelivr.net/gh/hung1001/font-awesome-pro@8af0edd/css/all.css')
+        link(href="./assets/plugins/global/plugins.bundle.css" rel="stylesheet" type="text/css")
+        link(href="./assets/css/style.bundle.css" rel="stylesheet" type="text/css")
+        script(src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.9.4/Chart.min.js" integrity="sha512-d9xgZrVZpmmQlfonhQUvTR7lMPtO7NkZMkA0ABN3PHCbKA5nqylQ/yWlFAyY6hYgdF1Qh6nYiuADWwKB4C2WSw==" crossorigin="anonymous") 
+        block head
+        
+    body
+        .d-flex.flex-column.flex-root
+            .page.d-flex.flex-row.flex-column-fluid
+                .wrapper.d-flex.flex-column.flex-row-fluid
+                    .header(id="kt_header" data-kt-sticky="true" data-kt-sticky-name="header" data-kt-sticky-offset="{default: '200px', lg: '300px'}")
+                        // begin::Container
+                        .container.d-flex.align-items-stretch.justify-content-between
+                            // begin::Left
+                            .d-flex.align-items-center
+                                // begin::Mega Menu Toggler
+                                button.btn.btn-icon.btn-accent.me-2.me-lg-6(id="kt_mega_menu_toggle" data-bs-toggle="modal" data-bs-target="#kt_mega_menu_modal")
+                                    // begin::Svg Icon | path: icons/stockholm/Text/Article.svg
+                                    i.fad.fa-search.fs-2x
+                                    // end::Svg Icon
+                                // end::Mega Menu Toggler
+                                // begin::Logo
+                                a(href="./assets/index.html")
+                                    .fs-3x.text-dark VLSN
+                                // end::Logo
+                            // end::Left
+                            // begin::Right
+                            .d-flex.align-items-center
+                                // begin::Search
+                                button.btn.btn-icon.btn-sm.btn-active-bg-accent.ms-1.ms-lg-6(data-bs-toggle="modal" data-bs-target="#kt_header_search_modal")
+                                    // begin::Svg Icon
+                                    i.fab.fa-facebook.fs-2
+                                    // end::Svg Icon
+                                // end::Search
+                                // begin::Message
+                                button.btn.btn-icon.btn-sm.btn-active-bg-accent.ms-1.ms-lg-6(data-bs-toggle="modal" data-bs-target="#kt_inbox_compose")
+                                    // begin::Svg
+                                    i.fab.fa-facebook-messenger.fs-2
+                                    // end::Svg Icon
+                                // end::Message
+                                button.btn.btn-icon.btn-sm.btn-active-bg-accent.ms-1.ms-lg-6(data-bs-toggle="modal" data-bs-target="#kt_inbox_compose")
+                                    // begin::Svg
+                                    i.fad.fa-search.fs-2
+                                    // end::Svg Icon
+                                // end::Message
+                                // begin::User
+                                .ms-1.ms-lg-6
+                                    // begin::Toggle
+                                    .btn.btn-icon.btn-sm.btn-active-bg-accent(data-kt-menu-trigger="click" data-kt-menu-placement="bottom-end")
+                                        // begin::Svg
+                                        // end::Svg Icon
+                                    // begin::Menu
+                                    .menu.menu-sub.menu-sub-dropdown.menu-column.menu-rounded.menu-gray-600.menu-state-bg-light-primary.fw-bold.w-300px(data-kt-menu="true")
+                                        .menu-content.fw-bold.d-flex.align-items-center.bgi-no-repeat.bgi-position-y-top.rounded-top(style="background-image: url('./assets/media//misc/dropdown-header-bg.jpg');")
+                                            .symbol.symbol-45px.mx-5.py-5
+                                                span.symbol-label.bg-primary.align-items-end
+                                                    img.mh-35px(src="./assets/media/svg/avatars/001-boy.svg" alt="Logo")
+                                            div
+                                                span.text-white.fw-bolder.fs-4 Hello, James
+                                                span.text-white.fw-bold.fs-7.d-block CRM Product Designer
+                                        // begin::Row
+                                        .row.row-cols-2.g-0
+                                            a.border-bottom.border-end.text-center.py-10.btn.btn-active-color-primary.rounded-0(href="./assets/profile/overview.html")
+                                                // begin::Svg Icon | path: icons/stockholm/Layout/Layout-4-blocks.svg
+                                                // end::Svg Icon
+                                                span.fw-bolder.fs-6.d-block.pt-3 My Profile
+                                            a.col.border-bottom.text-center.py-10.btn.btn-active-color-primary.rounded-0(href="./assets/profile/account.html")
+                                                // begin::Svg Icon | path: icons/stockholm/General/Settings-1.svg
+                                                // end::Svg Icon
+                                                span.fw-bolder.fs-6.d-block.pt-3 Settings
+                                            a.col.text-center.border-end.py-10.btn.btn-active-color-primary.rounded-0(href="./assets/profile/settings.html")
+                                                // begin::Svg Icon | path: icons/stockholm/Shopping/Euro.svg
+                                                // end::Svg Icon
+                                                span.fw-bolder.fs-6.d-block.pt-3 Subscriptions
+                                            a.col.text-center.py-10.btn.btn-active-color-primary.rounded-0(href="./assets/general/login.html")
+                                                // begin::Svg Icon | path: icons/stockholm/Navigation/Sign-out.svg
+                                                // end::Svg Icon
+                                                span.fw-bolder.fs-6.d-block.pt-3 Sign Out
+                                        // end::Row
+                                    // end::Menu
+                                // end::User
+                                // begin::Notifications
+                                .ms-1.ms-lg-6
+                                    // begin::Dropdown
+                                    button.btn.btn-icon.btn-sm.btn-light-danger.fw-bolder.pulse.pulse-danger(data-kt-menu-trigger="click" data-kt-menu-placement="bottom-end")
+                                        span.position-absolute.fs-6 3
+                                    // begin::Menu
+                                    .menu.menu-sub.menu-sub-dropdown.menu-column.menu-rounded.fw-bold.menu-title-gray-800.menu-hover-bg.menu-state-title-primary.w-250px.w-md-300px(data-kt-menu="true")
+                                        .menu-item.mx-3
+                                            .menu-content.fs-6.text-dark.fw-bolder.py-6 4 New Notifications
+                                        .separator.mb-3
+                                        .menu-item.mx-3
+                                            .symbol.symbol-35px
+                                                span.symbol-label.bg-light-info
+                                                    // begin::Svg Icon | path: icons/stockholm/Home/Library.svg
+                                                    // end::Svg Icon
+                                            .ps-4
+                                                span.menu-title.fw-bold.mb-1 New Uer Library Added
+                                                span.text-muted.fw-bold.d-block.fs-7 3 Hours ago
+                                        .menu-item.mx-3
+                                            .symbol.symbol-35px
+                                                span.symbol-label.bg-light-warning
+                                                    // begin::Svg Icon | path: icons/stockholm/Devices/Mic.svg
+                                                    // end::Svg Icon
+                                            .ps-4
+                                                span.menu-title.fw-bold.mb-1 Clean Microphone
+                                                span.text-muted.fw-bold.d-block.fs-7 5 Hours ago
+                                        .menu-item.mx-3
+                                            .symbol.symbol-35px
+                                                span.symbol-label.bg-light-primary
+                                                    // begin::Svg Icon | path: icons/stockholm/Communication/Group-chat.svg
+                                                    // end::Svg Icon
+                                            .ps-4
+                                                span.menu-title.fw-bold.mb-1 Quick Chat Created
+                                                span.text-muted.fw-bold.d-block.fs-7 A Day ago
+                                        .menu-item.mx-3
+                                            .symbol.symbol-35px
+                                                span.symbol-label.bg-light-danger
+                                                    // begin::Svg Icon | path: icons/stockholm/General/Attachment2.svg
+                                                    // end::Svg Icon
+                                            .ps-4
+                                                span.menu-title.fw-bold.mb-1 32 New Attachements
+                                                span.text-muted.fw-bold.d-block.fs-7 2 Day ago
+                                        .separator.mt-3
+                                        .menu-item.mx-2
+                                            .menu-content.py-5
+                                                a.btn.btn-primary.fw-bolder.me-2.px-5(href="#") Report
+                                                a.btn.btn-light.fw-bolder.px-5(href="#") Reset
+                                    // end::Menu
+                                    // end::Dropdown
+                                // end::Notifications
+                                // begin::Aside Toggler
+                                // end::Aside Toggler
+                                // begin::Sidebar Toggler
+                                button.btn.btn-icon.btn-sm.btn-active-bg-accent.d-lg-none.ms-1.ms-lg-6(id="kt_sidebar_toggler")
+                                    // begin::Svg Icon | path: icons/stockholm/Text/Menu.svg
+                                    // end::Svg Icon
+                                // end::Sidebar Toggler
+                            // end::Right
+                        // end::Container
+                    block content
+        script(src="./assets/plugins/global/plugins.bundle.js")
+        script(src="./assets/js/scripts.bundle.js")
+        // end::Global Javascript Bundle
+        // begin::Page Custom Javascript(used by this page)
+        script(src="./assets/js/custom/widgets.js")

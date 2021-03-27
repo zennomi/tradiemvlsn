@@ -1,0 +1,1 @@
+chrome-extension://ogmnaimimemjmbakcfefmnahgdfhfami/js/app/popup-proxy.js
