@@ -6,17 +6,17 @@ block content
             .container
                 .row.g-0.g-xl-5.xxl-8
                     .col-xl-4
-                        .card.card-custom.card-stretch.mb-xxl-8
+                        .card.card-custom.card-stretch.mb-2.mb-xxl-8
                             .card-body
                                 .d-flex.flex-column.h-100
                                     h2.text-dark.text-center.fw-bolder.lh-lg
                                         | Tra cứu điểm
-                                    form(action="/") 
+                                    form(action="/viewresult") 
                                         input.form-control(type="text" placeholder="Số báo danh")
                                         .text-center.py-7
                                             button.btn.btn-primary.fw-bolder.fs-6.px-7.py-3(type="submit") Tìm kiếm kết quả
                     .col-xl-8
-                        .card.card-custom.card-stretch.mb-xxl-8
+                        .card.card-custom.card-stretch.mb-2.mb-xxl-8
                             .card-body.text-center
                                 .symbol.symbol-65px.mb-2
                                     .symbol-label.bg-light-primary
@@ -26,7 +26,7 @@ block content
                                 .text-muted.fw-bold.fs-6.mb-2
                                     | Ngày 30-31/03/2021
                     .col-xl-8
-                        .card.card-custom.card-stretch.mb-xxl-8
+                        .card.card-custom.card-stretch.mb-2.mb-xxl-8
                             .card-body.text-center
                                 .symbol.symbol-65px.mb-2
                                     .symbol-label.bg-light-warning
@@ -38,16 +38,16 @@ block content
                                         thead
                                             tr
                                                 th.p-0
-                                                th.p-0.w-50px
+                                                th.p-0
                                                 th.p-0.min-w-100px
-                                                th.p-0.min-w-120px
+                                                th.p-0.min-w-100px
                                                 th.p-0.min-50px
                                         tbody
                                             each _, i in Array(10)
                                                 tr
                                                     td= i+1
                                                     td.px-0.py-3
-                                                        .symbol.symbol-55px.mt-1.me-5
+                                                        .symbol.symbol-30px.mt-1.me-5
                                                             span.symbol-label.bg-light-primary
                                                                 i.fad.fa-user-circle.text-primary.fs-2x
                                                     td.px-0

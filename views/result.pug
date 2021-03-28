@@ -5,12 +5,12 @@ block content
         .content.fs-6.d-flex.flex-column-fluid
             .container
                 .row.g-0.g-xl-5.xxl-8
-                    .col-xl-6
-                        .card.card-custom.card-stretch.mb-xxl-8
-                            .card-header.border-0.pt-5
-                                .card-title.align-items-start.flex-column
-                                    .card-label.fw-bolder.text-dark.fs-3 Thông tin học sinh
-                            .card-body.pt-0
+                    .col-xl-6.mb-2
+                        .card.card-custom.card-stretch
+                            .bg-light-primary.border-0.p-5
+                                .align-items-start.flex-column
+                                    .m-0.fw-bolder.text-dark.fs-3 Thông tin học sinh
+                            .card-body.py-3
                                 .d-flex.justify-content-around.flex-column-fluid
                                     .symbol.symbol-65px.mb-2
                                         .symbol-label.bg-light-primary.p-3
@@ -38,12 +38,12 @@ block content
                                                 td
                                                 td.text-primary Trường: 
                                                 td THPT Chuyên Nguyễn Huệ
-                    .col-xl-6
-                        .card.card-custom.card-stretch.mb-xxl-8
-                            .card-header.border-0.pt-xl-5
+                    .col-xl-6.mb-2
+                        .card.card-custom.card-stretch
+                            .bg-light-primary.border-0.p-5
                                 .card-title.align-items-start.flex-column
                                     .card-label.fw-bolder.text-dark.fs-3 Kết quả thi
-                            .card-body.pt-0
+                            .card-body.py-3
                                 .d-flex.justify-content-around.flex-column-fluid
                                     .symbol.symbol-65px.mb-2
                                         .symbol-label.bg-light-primary.p-3
@@ -57,11 +57,11 @@ block content
                                         tbody
                                             tr
                                                 td
-                                                td.fw-bold.text-primary Mã đề
+                                                td.fw-bold.text-primary Mã đề:
                                                 td 69
                                             tr
                                                 td
-                                                td.fw-bold.text-primary Ngày thi
+                                                td.fw-bold.text-primary Ngày thi:
                                                 td 30/03/2021
                                             tr
                                                 td
@@ -71,11 +71,42 @@ block content
                                                 td
                                                 td.fw-bold.text-primary Số câu đúng: 
                                                 td 40/40
-                    .col-xl-4
-                        .card.card-custom.card-stretch.mb-xxl-8
-                            .card-header.border-0.pt-xl-5
+                    .col-xl-6.mb-2
+                        .card.card-custom.card-stretch
+                            .bg-light-primary.border-0.p-5
                                 .card-title.align-items-start.flex-column
-                                    .card-label.fw-bolder.text-dark.fs-3 Skill
-                            .card-body.pt-0
+                                    .card-label.fw-bolder.text-dark.fs-3 Kỹ năng theo chương
+                            .card-body.py-3
                                 canvas#radarchart(width="400" height="400")
+                    .col-xl-6.mb-2
+                        .card.card-custom.card-stretch
+                            .bg-light-primary.border-0.p-5
+                                .card-title.align-items-start.flex-column
+                                    .card-label.fw-bolder.text-dark.fs-3 Kỹ năng theo dạng
+                            .card-body.py-3
+                                canvas#barchart(width="400" height="400")
+                    .col.mb-2
+                        .card.card-custom.card-stretch
+                            .bg-light-primary.border-0.p-5
+                                .card-title.align-items-start.flex-column
+                                    .card-label.fw-bolder.text-dark.fs-3 Lời khuyên cho học sinh
+                            .card-body
+                                for _, i in Array(5)
+                                    .d-flex.flex-wrap.mb-2
+                                        div
+                                            .badge.badge-light Câu #{i+1}
+                                            | &nbsp;
+                                        .progress.h-20px.w-100px.bg-light-primary
+                                            .progress-bar.bg-primary(style="width: 50%;")
+                                        | &nbsp;
+                                        div
+                                            .badge.badge-success Dao động cơ
+                                            | &nbsp;
+                                        div
+                                            .badge.badge-info Đồ thị
+                                            | &nbsp;
+                                    .mb-2.px-2
+                                        | Câu này lừa ngôn từ. Có thể em đã sai ngu.
+                                    .separator.border-primary.my-2
+
     script(src="/assets/js/chart.js") 
