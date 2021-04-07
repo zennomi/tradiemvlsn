@@ -25,19 +25,19 @@ block content
                                             tr
                                                 td
                                                 td.text-primary Họ tên: 
-                                                td Nguyễn Đăng Tuấn Anh
+                                                td= student.name
                                             tr
                                                 td
                                                 td.text-primary Số báo danh: 
-                                                td 20194472
+                                                td= student.student_id
                                             tr
                                                 td
                                                 td.text-primary Ngày sinh: 
-                                                td 25/11/2001
+                                                td= student.dob
                                             tr
                                                 td
                                                 td.text-primary Trường: 
-                                                td THPT Chuyên Nguyễn Huệ
+                                                td= student.school
                     .col-xl-6.mb-2
                         .card.card-custom.card-stretch
                             .bg-light-primary.border-0.p-5
@@ -47,7 +47,7 @@ block content
                                 .d-flex.justify-content-around.flex-column-fluid
                                     .symbol.symbol-65px.mb-2
                                         .symbol-label.bg-light-primary.p-3
-                                            .fs-3x.text-primary 10
+                                            .fs-3x.text-primary= student.mark
                                     table.table.table-borderless.align-middle
                                         thead
                                             tr
@@ -58,19 +58,19 @@ block content
                                             tr
                                                 td
                                                 td.fw-bold.text-primary Mã đề:
-                                                td 69
+                                                td= student.test_id
                                             tr
                                                 td
                                                 td.fw-bold.text-primary Ngày thi:
-                                                td 30/03/2021
+                                                td= student.getDate()
                                             tr
                                                 td
                                                 td.fw-bold.text-primary Kíp thi: 
-                                                td 15h00 - 16h00
+                                                td= student.getTime()
                                             tr
                                                 td
                                                 td.fw-bold.text-primary Số câu đúng: 
-                                                td 40/40
+                                                td= student.getTrueAnswers() + "/40"
                     .col-xl-6.mb-2
                         .card.card-custom.card-stretch
                             .bg-light-primary.border-0.p-5

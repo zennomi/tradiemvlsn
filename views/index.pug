@@ -12,7 +12,7 @@ block content
                                     h2.text-dark.text-center.fw-bolder.lh-lg
                                         | Tra cứu điểm
                                     form(action="/viewresult") 
-                                        input.form-control(type="text" placeholder="Số báo danh")
+                                        input.form-control(name="id" type="number" placeholder="Số báo danh" min=303000 max=313100)
                                         .text-center.py-7
                                             button.btn.btn-primary.fw-bolder.fs-6.px-7.py-3(type="submit") Tìm kiếm kết quả
                     .col-xl-8
@@ -25,7 +25,7 @@ block content
                                     | Kỳ thi thử Vật Lý THPT Quốc Gia lần 1 năm 2021
                                 .text-muted.fw-bold.fs-6.mb-2
                                     | Ngày 30-31/03/2021
-                    .col-xl-8
+                    .col-xl-12
                         .card.card-custom.card-stretch.mb-2.mb-xxl-8
                             .card-body.text-center
                                 .symbol.symbol-65px.mb-2
@@ -43,7 +43,7 @@ block content
                                                 th.p-0.min-w-100px
                                                 th.p-0.min-50px
                                         tbody
-                                            each _, i in Array(10)
+                                            each student, i in topStudents
                                                 tr
                                                     td= i+1
                                                     td.px-0.py-3
@@ -51,10 +51,10 @@ block content
                                                             span.symbol-label.bg-light-primary
                                                                 i.fad.fa-user-circle.text-primary.fs-2x
                                                     td.px-0
-                                                        a.text-gray-800.fw-bolder.text-hover-primary.fs-6(href="#") Đinh Tuấn Anh
+                                                        a.text-gray-800.fw-bolder.text-hover-primary.fs-6(href="/viewresult?id="+student.student_id)= student.name
                                                     td.text-end
-                                                        span.text-muted.fw-bold.d-block.mt-1 Trường THPT Chuyên Nguyễn Huệ
+                                                        span.text-muted.fw-bold.d-block.mt-1= student.school
                                                     td.text-end
-                                                        span.fw-bolder.text-primary.fs-2 10
+                                                        span.fw-bolder.text-primary.fs-2= student.mark
 
 

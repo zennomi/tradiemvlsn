@@ -14,6 +14,8 @@ app.use(express.static('public'));
 app.use(bodyParser.json());
 app.use(bodyParser.urlencoded({ extended: true }));
 
+const Student = require('./models/mocktest_1_student');
+
 mongoose.connect(process.env.MONGODB_URL, {
     useNewUrlParser: true,
     useUnifiedTopology: true,
@@ -25,12 +27,27 @@ mongoose.connect(process.env.MONGODB_URL, {
     console.log('Error occurred connecting to MongoDB Atlas');
 });
 
-app.get('/', (req, res) => {
-    res.render('index');
+app.get('/', async (req, res) => {
+    let topStudents;
+    try {
+        topStudents = await Student.find({}).sort({"mark": -1}).limit(10);
+    } catch (err) {
+        console.log(err);
+        res.redirect('/');
+    }
+    res.render('index', {topStudents});
 })
 
-app.get('/viewresult', (req, res) => {
-    res.render('result');
+app.get('/viewresult', async (req, res) => {
+    let student;
+    try {
+        student = await Student.findOne({student_id: req.query.id});
+        if (!student) throw ("Not Found Student.");
+    } catch (err) {
+        console.log(err);
+        res.redirect('/');
+    }
+    res.render('result', {student});
 })
 
 app.listen(port, () => {
