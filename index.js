@@ -15,6 +15,7 @@ app.use(bodyParser.json());
 app.use(bodyParser.urlencoded({ extended: true }));
 
 const Student = require('./models/mocktest_1_student');
+const Test = require('./models/mocktest_1_test');
 
 mongoose.connect(process.env.MONGODB_URL, {
     useNewUrlParser: true,
@@ -39,10 +40,26 @@ app.get('/', async (req, res) => {
 })
 
 app.get('/viewresult', async (req, res) => {
-    let student;
+    let student, test;
     try {
         student = await Student.findOne({student_id: req.query.id});
         if (!student) throw ("Not Found Student.");
+        test = await Test.findOne({test_id: student.test_id});
+        student.topic = {
+        };
+        student.answers.forEach((a,i) => {
+            let ques = test.questions[i]
+            if (a) {
+                student.topic[ques.topic] = student.topic[ques.topic] || {total: 0, count: 0};
+                student.topic[ques.topic].total += ques.level;
+                student.topic[ques.topic].count ++;
+            } else {
+                student.topic[ques.topic] = student.topic[ques.topic] || {total: 0, count: 0};
+                student.topic[ques.topic].total -= ques.level;
+                student.topic[ques.topic].count ++;
+            }
+        })
+        console.log(student.topic);
     } catch (err) {
         console.log(err);
         res.redirect('/');
