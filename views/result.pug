@@ -85,28 +85,29 @@ block content
                                     .card-label.fw-bolder.text-dark.fs-3 Kỹ năng theo dạng
                             .card-body.py-3
                                 canvas#barchart(width="400" height="400")
-                    .col.mb-2
-                        .card.card-custom.card-stretch
-                            .bg-light-primary.border-0.p-5
-                                .card-title.align-items-start.flex-column
-                                    .card-label.fw-bolder.text-dark.fs-3 Lời khuyên cho học sinh
-                            .card-body
-                                for _, i in Array(5)
-                                    .d-flex.flex-wrap.mb-2
-                                        div
-                                            .badge.badge-light Câu #{i+1}
-                                            | &nbsp;
-                                        .progress.h-20px.w-100px.bg-light-primary
-                                            .progress-bar.bg-primary(style="width: 50%;")
-                                        | &nbsp;
-                                        div
-                                            .badge.badge-success Dao động cơ
-                                            | &nbsp;
-                                        div
-                                            .badge.badge-info Đồ thị
-                                            | &nbsp;
-                                    .mb-2.px-2
-                                        | Câu này lừa ngôn từ. Có thể em đã sai ngu.
-                                    .separator.border-primary.my-2
-
+                    //- .col.mb-2
+                    //-     .card.card-custom.card-stretch
+                    //-         .bg-light-primary.border-0.p-5
+                    //-             .card-title.align-items-start.flex-column
+                    //-                 .card-label.fw-bolder.text-dark.fs-3 Lời khuyên cho học sinh
+                    //-         .card-body
+                    //-             for _, i in Array(5)
+                    //-                 .d-flex.flex-wrap.mb-2
+                    //-                     div
+                    //-                         .badge.badge-light Câu #{i+1}
+                    //-                         | &nbsp;
+                    //-                     .progress.h-20px.w-100px.bg-light-primary
+                    //-                         .progress-bar.bg-primary(style="width: 50%;")
+                    //-                     | &nbsp;
+                    //-                     div
+                    //-                         .badge.badge-success Dao động cơ
+                    //-                         | &nbsp;
+                    //-                     div
+                    //-                         .badge.badge-info Đồ thị
+                    //-                         | &nbsp;
+                    //-                 .mb-2.px-2
+                    //-                     | Câu này lừa ngôn từ. Có thể em đã sai ngu.
+                    //-                 .separator.border-primary.my-2
+    script.
+        var studentId = #{student.student_id};
     script(src="/assets/js/chart.js") 
