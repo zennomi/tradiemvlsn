@@ -1,0 +1,3497 @@
+﻿{
+    "Students": [
+        {
+            "SBD": "313013",
+            "Họ và tên": "Nguyễn Minh Đức",
+            "Ngày sinh": "01/12/2003",
+            "Trường": "Hoàng Văn Thụ",
+            "Ca thi": "3",
+            "Phòng thi": "1",
+            "Điểm": "8.75",
+            "Mã đề": "169"
+        },
+        {
+            "SBD": "313081",
+            "Họ và tên": "Phùng Huy Phong",
+            "Ngày sinh": "01/10/2003",
+            "Trường": "Ngọc Hồi",
+            "Ca thi": "3",
+            "Phòng thi": "1",
+            "Điểm": "8.25",
+            "Mã đề": "326"
+        },
+        {
+            "SBD": "313001",
+            "Họ và tên": "Nguyễn Thúy An",
+            "Ngày sinh": "12-10-2003",
+            "Trường": "Đoàn Kết - Hai Bà Trưng",
+            "Ca thi": "3",
+            "Phòng thi": "1",
+            "Điểm": "7.75",
+            "Mã đề": "493"
+        },
+        {
+            "SBD": "313096",
+            "Họ và tên": "Phạm Đức Minh",
+            "Ngày sinh": "17/05/2003",
+            "Ca thi": "3",
+            "Phòng thi": "1",
+            "Điểm": "7.75",
+            "Mã đề": "493"
+        },
+        {
+            "SBD": "313024",
+            "Họ và tên": "Trịnh Hà My",
+            "Ngày sinh": "01/07/2003",
+            "Trường": "Trần Nhân Tông",
+            "Ca thi": "3",
+            "Phòng thi": "2",
+            "Điểm": "7.75",
+            "Mã đề": "169"
+        },
+        {
+            "SBD": "313030",
+            "Họ và tên": "Vũ Trường Thành",
+            "Ngày sinh": "12/04/2003",
+            "Trường": "Hoàng Văn Thụ",
+            "Ca thi": "3",
+            "Phòng thi": "2",
+            "Điểm": "7.75",
+            "Mã đề": "245"
+        },
+        {
+            "SBD": "313064",
+            "Họ và tên": "Nguyễn Quang Hưng",
+            "Ngày sinh": "28/05/2003",
+            "Trường": "Việt Đức",
+            "Ca thi": "4",
+            "Phòng thi": "1",
+            "Điểm": "7.5",
+            "Mã đề": "207"
+        },
+        {
+            "SBD": "313003",
+            "Họ và tên": "Nguyễn Phương Anh",
+            "Ngày sinh": "08/12/2003",
+            "Trường": "Trương Định",
+            "Ca thi": "3",
+            "Phòng thi": "1",
+            "Điểm": "7.25",
+            "Mã đề": "169"
+        },
+        {
+            "SBD": "303016",
+            "Họ và tên": "Nguyễn Thảo Linh",
+            "Ngày sinh": "2/15/03",
+            "Trường": "Nguyễn Văn Cư ",
+            "Ca thi": "3",
+            "Phòng thi": "1",
+            "Điểm": "7.25",
+            "Mã đề": "245"
+        },
+        {
+            "SBD": "313025",
+            "Họ và tên": "Lê Hải Nam",
+            "Ngày sinh": "20/09/2003",
+            "Trường": "Trần Phú - Hoàn kiếm",
+            "Ca thi": "3",
+            "Phòng thi": "2",
+            "Điểm": "7.25",
+            "Mã đề": "245"
+        },
+        {
+            "SBD": "313035",
+            "Họ và tên": "Nguyễn Tuấn Trung",
+            "Ngày sinh": "01/08/2003",
+            "Trường": "Trần Nhân Tông",
+            "Ca thi": "3",
+            "Phòng thi": "2",
+            "Điểm": "7.25",
+            "Mã đề": "326"
+        },
+        {
+            "SBD": "303060",
+            "Họ và tên": "Phạm Trà My",
+            "Ngày sinh": "03/08/2003",
+            "Trường": "Lê Quý Đôn - Đống Đa",
+            "Ca thi": "2",
+            "Phòng thi": "1",
+            "Điểm": "7",
+            "Mã đề": "136"
+        },
+        {
+            "SBD": "303072",
+            "Họ và tên": "Trương Thùy Trang",
+            "Ngày sinh": "07/02/2003",
+            "Trường": "Lê Quý Đôn - Đống Đa",
+            "Ca thi": "2",
+            "Phòng thi": "1",
+            "Điểm": "7",
+            "Mã đề": "483"
+        },
+        {
+            "SBD": "313014",
+            "Họ và tên": "Trần Quý Đức",
+            "Ngày sinh": "05/05/2003",
+            "Trường": "Tạ Quang Bửu",
+            "Ca thi": "3",
+            "Phòng thi": "1",
+            "Điểm": "7",
+            "Mã đề": "493"
+        },
+        {
+            "SBD": "313019",
+            "Họ và tên": "Vũ Gia Khoa",
+            "Ngày sinh": "22/11/2003",
+            "Trường": "Thăng Long",
+            "Ca thi": "3",
+            "Phòng thi": "1",
+            "Điểm": "7",
+            "Mã đề": "245"
+        },
+        {
+            "SBD": "313026",
+            "Họ và tên": "Nguyễn Hoàng Nam",
+            "Ngày sinh": "27/12/2003",
+            "Trường": "Trần Phú - Hoàn kiếm",
+            "Ca thi": "3",
+            "Phòng thi": "2",
+            "Điểm": "7",
+            "Mã đề": "169"
+        },
+        {
+            "SBD": "313069",
+            "Họ và tên": "Mẫn Nguyễn An Khanh",
+            "Ngày sinh": "2/4/03",
+            "Trường": "Trần Phú - Hoàn kiếm",
+            "Ca thi": "4",
+            "Phòng thi": "1",
+            "Điểm": "7",
+            "Mã đề": "482"
+        },
+        {
+            "SBD": "313076",
+            "Họ và tên": "Nguyễn Thành Long",
+            "Ngày sinh": "19/01/2003",
+            "Trường": "Trần Nhân Tông",
+            "Ca thi": "4",
+            "Phòng thi": "3",
+            "Điểm": "7",
+            "Mã đề": "207"
+        },
+        {
+            "SBD": "313006",
+            "Họ và tên": "Vũ Quốc Anh",
+            "Ngày sinh": "2/6/03",
+            "Trường": "Hoàng Cầu",
+            "Ca thi": "3",
+            "Phòng thi": "1",
+            "Điểm": "6.75",
+            "Mã đề": "326"
+        },
+        {
+            "SBD": "313009",
+            "Họ và tên": "Đinh Lan Chi",
+            "Ngày sinh": "4/15/03",
+            "Trường": "Việt Đức",
+            "Ca thi": "3",
+            "Phòng thi": "1",
+            "Điểm": "6.75",
+            "Mã đề": "169"
+        },
+        {
+            "SBD": "313099",
+            "Họ và tên": "Phạm Đại Phong",
+            "Ngày sinh": "11/14/03",
+            "Ca thi": "3",
+            "Phòng thi": "1",
+            "Điểm": "6.75",
+            "Mã đề": "493"
+        },
+        {
+            "SBD": "303027",
+            "Họ và tên": "Vũ Lan Quỳnh",
+            "Ngày sinh": "23/10/2003",
+            "Trường": "Trần Nhân Tông",
+            "Ca thi": "3",
+            "Phòng thi": "2",
+            "Điểm": "6.75",
+            "Mã đề": "326"
+        },
+        {
+            "SBD": "313036",
+            "Họ và tên": "Nguyễn Việt Trung",
+            "Ngày sinh": "23/11/2003",
+            "Trường": "Việt Nam - Ba Lan",
+            "Ca thi": "3",
+            "Phòng thi": "2",
+            "Điểm": "6.75",
+            "Mã đề": "169"
+        },
+        {
+            "SBD": "313050",
+            "Họ và tên": "Nguyễn Thị Minh Châu",
+            "Ngày sinh": "3/22/03",
+            "Trường": "Phan Đình Phùng",
+            "Ca thi": "4",
+            "Phòng thi": "1",
+            "Điểm": "6.75",
+            "Mã đề": "482"
+        },
+        {
+            "SBD": "313051",
+            "Họ và tên": "Phạm Đức Chính",
+            "Ngày sinh": "13/12/2003",
+            "Trường": "Việt Đức",
+            "Ca thi": "4",
+            "Phòng thi": "1",
+            "Điểm": "6.75",
+            "Mã đề": "356"
+        },
+        {
+            "SBD": "313073",
+            "Họ và tên": "Nguyễn Hà Linh",
+            "Ngày sinh": "18/12/2003",
+            "Trường": "Thăng Long",
+            "Ca thi": "4",
+            "Phòng thi": "3",
+            "Điểm": "6.75",
+            "Mã đề": "207"
+        },
+        {
+            "SBD": "313085",
+            "Họ và tên": "Phạm Băng Tâm",
+            "Ngày sinh": "26/12/2003",
+            "Trường": "Việt Đức",
+            "Ca thi": "4",
+            "Phòng thi": "3",
+            "Điểm": "6.75",
+            "Mã đề": "138"
+        },
+        {
+            "SBD": "313086",
+            "Họ và tên": "Nguyễn Thái Thịnh",
+            "Ngày sinh": "18/03/2003",
+            "Trường": "Trần Phú - Hoàn kiếm",
+            "Ca thi": "4",
+            "Phòng thi": "3",
+            "Điểm": "6.75",
+            "Mã đề": "207"
+        },
+        {
+            "SBD": "303048",
+            "Họ và tên": "Đặng Minh Hiếu",
+            "Ngày sinh": "10/12/2003",
+            "Trường": "Trần Phú - Hoàn kiếm",
+            "Ca thi": "2",
+            "Phòng thi": "1",
+            "Điểm": "6.5",
+            "Mã đề": "136"
+        },
+        {
+            "SBD": "303068",
+            "Họ và tên": "Phạm Đỗ Minh Phương",
+            "Ngày sinh": "22/01/2003",
+            "Trường": "Lê Quý Đôn - Đống Đa",
+            "Ca thi": "2",
+            "Phòng thi": "1",
+            "Điểm": "6.5",
+            "Mã đề": "136"
+        },
+        {
+            "SBD": "313016",
+            "Họ và tên": "Bùi Mạnh Hùng",
+            "Ngày sinh": "11/8/03",
+            "Trường": "Tạ Quang Bùi",
+            "Ca thi": "3",
+            "Phòng thi": "1",
+            "Điểm": "6.5",
+            "Mã đề": "169"
+        },
+        {
+            "SBD": "313053",
+            "Họ và tên": "Vũ Hải Đăng",
+            "Ngày sinh": "6/1/03",
+            "Trường": "Trần Quốc Tuấn",
+            "Ca thi": "4",
+            "Phòng thi": "1",
+            "Điểm": "6.5",
+            "Mã đề": "207"
+        },
+        {
+            "SBD": "313088",
+            "Họ và tên": "Lê Huyền Trang",
+            "Ngày sinh": "15/04/2003",
+            "Trường": "Kim Liên ",
+            "Ca thi": "4",
+            "Phòng thi": "3",
+            "Điểm": "6.5",
+            "Mã đề": "207"
+        },
+        {
+            "SBD": "303066",
+            "Họ và tên": "Đoàn Vũ Quang Phú",
+            "Ngày sinh": "21/12/2003",
+            "Trường": "Trần Phú - Hoàn kiếm",
+            "Ca thi": "2",
+            "Phòng thi": "1",
+            "Điểm": "6.25",
+            "Mã đề": "358"
+        },
+        {
+            "SBD": "313020",
+            "Họ và tên": "Hoàng Mỹ Linh",
+            "Ngày sinh": "2/11/03",
+            "Trường": "Chuyên Nguyễn Huệ ",
+            "Ca thi": "3",
+            "Phòng thi": "1",
+            "Điểm": "6.25",
+            "Mã đề": "326"
+        },
+        {
+            "SBD": "313029",
+            "Họ và tên": "Nguyễn Hoàng Tâm",
+            "Ngày sinh": "10/06/2003",
+            "Trường": "Phạm Hồng Thái ",
+            "Ca thi": "3",
+            "Phòng thi": "2",
+            "Điểm": "6.25",
+            "Mã đề": "169"
+        },
+        {
+            "SBD": "313034",
+            "Họ và tên": "Nguyên Đặng Đức Trung",
+            "Ngày sinh": "8/9/03",
+            "Trường": "Việt Đức",
+            "Ca thi": "3",
+            "Phòng thi": "2",
+            "Điểm": "6.25",
+            "Mã đề": "493"
+        },
+        {
+            "SBD": "313058",
+            "Họ và tên": "Lê Hoàng Dương",
+            "Ngày sinh": "02/10/2003",
+            "Trường": "Trần Nhân Tông ",
+            "Ca thi": "4",
+            "Phòng thi": "1",
+            "Điểm": "6.25",
+            "Mã đề": "356"
+        },
+        {
+            "SBD": "303005",
+            "Họ và tên": "Vũ Hoa Đức",
+            "Ngày sinh": "24/12/2003",
+            "Trường": "Chu Văn An",
+            "Ca thi": "1",
+            "Phòng thi": "1",
+            "Điểm": "6",
+            "Mã đề": "137"
+        },
+        {
+            "SBD": "313015",
+            "Họ và tên": "Phạm Minh Hằng",
+            "Ngày sinh": "7/29/03",
+            "Trường": "Trần Nhân Tông",
+            "Ca thi": "3",
+            "Phòng thi": "1",
+            "Điểm": "6",
+            "Mã đề": "245"
+        },
+        {
+            "SBD": "313018",
+            "Họ và tên": "Nguyễn Quỳnh Hương",
+            "Ngày sinh": "13/10/2003",
+            "Trường": "Trần Nhân Tông",
+            "Ca thi": "3",
+            "Phòng thi": "1",
+            "Điểm": "6",
+            "Mã đề": "326"
+        },
+        {
+            "SBD": "313021",
+            "Họ và tên": "Nguyễn Đức Long",
+            "Ngày sinh": "1/25/03",
+            "Trường": "Đoàn Kết - Hai Bà Trưng",
+            "Ca thi": "3",
+            "Phòng thi": "2",
+            "Điểm": "6",
+            "Mã đề": "326"
+        },
+        {
+            "SBD": "313044",
+            "Họ và tên": "Trần Việt Anh",
+            "Ngày sinh": "12/11/2003",
+            "Trường": "Nguyễn Trãi - Ba Đình",
+            "Ca thi": "4",
+            "Phòng thi": "1",
+            "Điểm": "6",
+            "Mã đề": "138"
+        },
+        {
+            "SBD": "313059",
+            "Họ và tên": "Phan Lâm Hải",
+            "Ngày sinh": "7/24/03",
+            "Trường": "Trần Nhân Tông",
+            "Ca thi": "4",
+            "Phòng thi": "1",
+            "Điểm": "6",
+            "Mã đề": "482"
+        },
+        {
+            "SBD": "313079",
+            "Họ và tên": "Phan Huỳnh Nghĩa",
+            "Trường": "Trần Nhân Tông",
+            "Ca thi": "4",
+            "Phòng thi": "3",
+            "Điểm": "6",
+            "Mã đề": "245"
+        },
+        {
+            "SBD": "313083",
+            "Họ và tên": "Nhữ Đặng Minh Quân",
+            "Ngày sinh": "7/1/03",
+            "Trường": "Trần Phú - Hoàn kiếm",
+            "Ca thi": "4",
+            "Phòng thi": "3",
+            "Điểm": "6",
+            "Mã đề": "356"
+        },
+        {
+            "SBD": "313090",
+            "Họ và tên": "Nguyễn Minh Tú",
+            "Ngày sinh": "12/11/2003",
+            "Trường": "Hoàng Văn Thụ",
+            "Ca thi": "4",
+            "Phòng thi": "3",
+            "Điểm": "6",
+            "Mã đề": "482"
+        },
+        {
+            "SBD": "303012",
+            "Họ và tên": "Ngô Hà Khuê",
+            "Ngày sinh": "22/11/2003",
+            "Trường": "Trần Phú - Hoàn kiếm",
+            "Ca thi": "1",
+            "Phòng thi": "1",
+            "Điểm": "5.75",
+            "Mã đề": "326"
+        },
+        {
+            "SBD": "303071",
+            "Họ và tên": "Bùi Thị Trang",
+            "Ngày sinh": "7/15/03",
+            "Trường": "Huỳnh Thúc Kháng",
+            "Ca thi": "2",
+            "Phòng thi": "1",
+            "Điểm": "5.75",
+            "Mã đề": "210"
+        },
+        {
+            "SBD": "303074",
+            "Họ và tên": "Tạ Thu Vân",
+            "Ngày sinh": "06/01/2003",
+            "Trường": "Lê Quý Đôn - Đống Đa",
+            "Ca thi": "2",
+            "Phòng thi": "1",
+            "Điểm": "5.75",
+            "Mã đề": "483"
+        },
+        {
+            "SBD": "313011",
+            "Họ và tên": "Lê Minh Đức",
+            "Ngày sinh": "16/10/2003",
+            "Trường": "Phạm Hồng Thái",
+            "Ca thi": "3",
+            "Phòng thi": "1",
+            "Điểm": "5.75",
+            "Mã đề": "493"
+        },
+        {
+            "SBD": "313022",
+            "Họ và tên": "Trần Đức Long",
+            "Ngày sinh": "8/7/03",
+            "Trường": "Trần Nhân Tông",
+            "Ca thi": "3",
+            "Phòng thi": "2",
+            "Điểm": "5.75",
+            "Mã đề": "493"
+        },
+        {
+            "SBD": "313039",
+            "Họ và tên": "Hoàng Tiến Anh",
+            "Ngày sinh": "12/4/03",
+            "Trường": "Vinschool",
+            "Ca thi": "4",
+            "Phòng thi": "1",
+            "Điểm": "5.75",
+            "Mã đề": "138"
+        },
+        {
+            "SBD": "313052",
+            "Họ và tên": "Phạm Hải Đăng",
+            "Ngày sinh": "4/6/03",
+            "Trường": "Phương Nam",
+            "Ca thi": "4",
+            "Phòng thi": "1",
+            "Điểm": "5.75",
+            "Mã đề": "138"
+        },
+        {
+            "SBD": "313055",
+            "Họ và tên": "Nguyễn Trọng Đông",
+            "Ngày sinh": "6/10/03",
+            "Trường": "Trần Quốc Tuấn",
+            "Ca thi": "4",
+            "Phòng thi": "1",
+            "Điểm": "5.75",
+            "Mã đề": "482"
+        },
+        {
+            "SBD": "313067",
+            "Họ và tên": "Nguyễn Việt Huy",
+            "Ngày sinh": "13/07/2003",
+            "Trường": "Đoàn Kết - Hai Bà Trưng",
+            "Ca thi": "4",
+            "Phòng thi": "1",
+            "Điểm": "5.75",
+            "Mã đề": "138"
+        },
+        {
+            "SBD": "303002",
+            "Họ và tên": "Nguyễn Quang Anh",
+            "Ngày sinh": "10/12/2003",
+            "Trường": "Chuyên KHTN",
+            "Ca thi": "1",
+            "Phòng thi": "1",
+            "Điểm": "5.5",
+            "Mã đề": "486"
+        },
+        {
+            "SBD": "303042",
+            "Họ và tên": "Hoàng Tuấn Dũng",
+            "Ngày sinh": "16/10/2003",
+            "Trường": "Trần Phú - Hoàn kiếm",
+            "Ca thi": "2",
+            "Phòng thi": "1",
+            "Điểm": "5.5",
+            "Mã đề": "358"
+        },
+        {
+            "SBD": "303049",
+            "Họ và tên": "Ngô Minh Hiếu",
+            "Ngày sinh": "6/16/03",
+            "Trường": "Hoàng Văn Thụ",
+            "Ca thi": "2",
+            "Phòng thi": "1",
+            "Điểm": "5.5",
+            "Mã đề": "483"
+        },
+        {
+            "SBD": "303052",
+            "Họ và tên": "Nguyễn Việt Hoàn",
+            "Ngày sinh": "6/28/03",
+            "Trường": "Phan Huy Chú",
+            "Ca thi": "2",
+            "Phòng thi": "1",
+            "Điểm": "5.5",
+            "Mã đề": "136"
+        },
+        {
+            "SBD": "303073",
+            "Họ và tên": "Tạ Anh Tú",
+            "Ngày sinh": "9/18/03",
+            "Trường": "Quang Trung",
+            "Ca thi": "2",
+            "Phòng thi": "1",
+            "Điểm": "5.5",
+            "Mã đề": "136"
+        },
+        {
+            "SBD": "313004",
+            "Họ và tên": "Nguyễn Thế Anh",
+            "Ngày sinh": "3/21/03",
+            "Trường": "Đoàn Kết - Hai Bà Trưng",
+            "Ca thi": "3",
+            "Phòng thi": "1",
+            "Điểm": "5.5",
+            "Mã đề": "245"
+        },
+        {
+            "SBD": "303047",
+            "Họ và tên": "Vũ Tuấn Hải",
+            "Ngày sinh": "3/12/03",
+            "Ca thi": "4",
+            "Phòng thi": "3",
+            "Điểm": "5.5",
+            "Mã đề": "138"
+        },
+        {
+            "SBD": "313075",
+            "Họ và tên": "Vũ Khánh Linh",
+            "Ngày sinh": "25/11/2003",
+            "Trường": "Thăng Long ",
+            "Ca thi": "4",
+            "Phòng thi": "3",
+            "Điểm": "5.5",
+            "Mã đề": "482"
+        },
+        {
+            "SBD": "313089",
+            "Họ và tên": "Lê Thành Trung",
+            "Ngày sinh": "11/1/03",
+            "Trường": "Phan Huy Chú",
+            "Ca thi": "4",
+            "Phòng thi": "3",
+            "Điểm": "5.5",
+            "Mã đề": "356"
+        },
+        {
+            "SBD": "303006",
+            "Họ và tên": "Nguyễn Trí Dũng",
+            "Ngày sinh": "10/6/03",
+            "Trường": "Trần Nhân Tông",
+            "Ca thi": "1",
+            "Phòng thi": "1",
+            "Điểm": "5.25",
+            "Mã đề": "486"
+        },
+        {
+            "SBD": "303024",
+            "Họ và tên": "Nguyễn Ngọc Phương",
+            "Ngày sinh": "05/11/2003",
+            "Trường": "Việt Đức",
+            "Ca thi": "1",
+            "Phòng thi": "2",
+            "Điểm": "5.25",
+            "Mã đề": "486"
+        },
+        {
+            "SBD": "303029",
+            "Họ và tên": "Lê Ngọc Kim Thi",
+            "Ngày sinh": "3/14/03",
+            "Trường": "Hồng Hà",
+            "Ca thi": "1",
+            "Phòng thi": "2",
+            "Điểm": "5.25",
+            "Mã đề": "486"
+        },
+        {
+            "SBD": "303041",
+            "Họ và tên": "Nguyễn Minh Đức",
+            "Ngày sinh": "30/12/2003",
+            "Trường": "Hồng Hà",
+            "Ca thi": "2",
+            "Phòng thi": "1",
+            "Điểm": "5.25",
+            "Mã đề": "210"
+        },
+        {
+            "SBD": "303050",
+            "Họ và tên": "Nguyễn Minh Hiếu",
+            "Ngày sinh": "6/11/03",
+            "Trường": "Hoàng Văn Thụ",
+            "Ca thi": "2",
+            "Phòng thi": "1",
+            "Điểm": "5.25",
+            "Mã đề": "358"
+        },
+        {
+            "SBD": "313095",
+            "Họ và tên": "Thân Hoàng Dương",
+            "Ngày sinh": "23/09/2003",
+            "Trường": "THPT Chuyên Nguyễn Huệ",
+            "Ca thi": "3",
+            "Phòng thi": "2",
+            "Điểm": "5.25",
+            "Mã đề": "493"
+        },
+        {
+            "SBD": "313012",
+            "Họ và tên": "Nguyễn Huy Thái Đức",
+            "Ngày sinh": "6/7/03",
+            "Trường": "Chuyên KHTN",
+            "Ca thi": "3",
+            "Phòng thi": "1",
+            "Điểm": "5.25",
+            "Mã đề": "493"
+        },
+        {
+            "SBD": "313049",
+            "Họ và tên": "Bùi Thị Bích",
+            "Ngày sinh": "2/27/03",
+            "Trường": "Hồng Hà",
+            "Ca thi": "4",
+            "Phòng thi": "1",
+            "Điểm": "5.25",
+            "Mã đề": "207"
+        },
+        {
+            "SBD": "313056",
+            "Họ và tên": "Nguyễn Danh Minh Đức",
+            "Ngày sinh": "2/20/03",
+            "Trường": "Hồng Hà",
+            "Ca thi": "4",
+            "Phòng thi": "1",
+            "Điểm": "5.25",
+            "Mã đề": "207"
+        },
+        {
+            "SBD": "313071",
+            "Họ và tên": "Dương Hà Linh",
+            "Ngày sinh": "09/06/2003",
+            "Ca thi": "4",
+            "Phòng thi": "3",
+            "Điểm": "5.25",
+            "Mã đề": "356"
+        },
+        {
+            "SBD": "303008",
+            "Họ và tên": "Nguyễn Việt Hoàng",
+            "Ngày sinh": "4/11/03",
+            "Trường": "Tây Hồ ",
+            "Ca thi": "1",
+            "Phòng thi": "1",
+            "Điểm": "5",
+            "Mã đề": "208"
+        },
+        {
+            "SBD": "303011",
+            "Họ và tên": "Nguyễn Thanh Huyền",
+            "Ngày sinh": "9/22/03",
+            "Trường": "Lê Quý Đôn - Đống Đa",
+            "Ca thi": "1",
+            "Phòng thi": "1",
+            "Điểm": "5",
+            "Mã đề": "208"
+        },
+        {
+            "SBD": "303031",
+            "Họ và tên": "Trần Thị Hương Trà",
+            "Ngày sinh": "12/12/2003",
+            "Trường": "Trần Nhân Tông",
+            "Ca thi": "1",
+            "Phòng thi": "2",
+            "Điểm": "5",
+            "Mã đề": "208"
+        },
+        {
+            "SBD": "303033",
+            "Họ và tên": "Mai Thành Vinh",
+            "Ngày sinh": "9/2/03",
+            "Trường": "Trần Phú - Hoàn kiếm",
+            "Ca thi": "1",
+            "Phòng thi": "2",
+            "Điểm": "5",
+            "Mã đề": "483"
+        },
+        {
+            "SBD": "303034",
+            "Họ và tên": "Đỗ Hoàng Anh",
+            "Ngày sinh": "9/11/03",
+            "Trường": "Huỳnh Thúc Kháng",
+            "Ca thi": "2",
+            "Phòng thi": "1",
+            "Điểm": "5",
+            "Mã đề": "210"
+        },
+        {
+            "SBD": "303064",
+            "Họ và tên": "Nguyễn Lê Nguyên",
+            "Ngày sinh": "12/3/03",
+            "Trường": "ML.Lomonoxcop",
+            "Ca thi": "2",
+            "Phòng thi": "1",
+            "Điểm": "5",
+            "Mã đề": "483"
+        },
+        {
+            "SBD": "313027",
+            "Họ và tên": "Ninh Thanh Nam",
+            "Ngày sinh": "22/12/2003",
+            "Trường": "Trần Nhân Tông ",
+            "Ca thi": "3",
+            "Phòng thi": "2",
+            "Điểm": "5",
+            "Mã đề": "245"
+        },
+        {
+            "SBD": "313057",
+            "Họ và tên": "Nguyễn Hữu Quý Đức",
+            "Ngày sinh": "06/07/2003",
+            "Trường": "Trần Nhân Tông ",
+            "Ca thi": "4",
+            "Phòng thi": "1",
+            "Điểm": "5",
+            "Mã đề": "138"
+        },
+        {
+            "SBD": "313061",
+            "Họ và tên": "Nguyễn Trọng Hiếu",
+            "Ngày sinh": "9/24/03",
+            "Trường": "Hoàng Văn Thụ",
+            "Ca thi": "4",
+            "Phòng thi": "1",
+            "Điểm": "5",
+            "Mã đề": "138"
+        },
+        {
+            "SBD": "313084",
+            "Họ và tên": "Đỗ Trọng Quý",
+            "Ngày sinh": "22/11/2003",
+            "Trường": "Huỳnh Thúc Kháng",
+            "Ca thi": "4",
+            "Phòng thi": "3",
+            "Điểm": "5",
+            "Mã đề": "482"
+        },
+        {
+            "SBD": "303004",
+            "Họ và tên": "Lê Mnh Đức",
+            "Ngày sinh": "7/1/03",
+            "Trường": "Tây Hồ ",
+            "Ca thi": "1",
+            "Phòng thi": "1",
+            "Điểm": "4.75",
+            "Mã đề": "486"
+        },
+        {
+            "SBD": "303009",
+            "Họ và tên": "Phạm Quỳnh Hương",
+            "Ngày sinh": "2/26/03",
+            "Trường": "Việt Đức",
+            "Ca thi": "1",
+            "Phòng thi": "1",
+            "Điểm": "4.75",
+            "Mã đề": "208"
+        },
+        {
+            "SBD": "303026",
+            "Họ và tên": "Trần Dương Anh Quân",
+            "Ngày sinh": "09/02/2003",
+            "Trường": "Phạm Hồng Thái",
+            "Ca thi": "1",
+            "Phòng thi": "2",
+            "Điểm": "4.75",
+            "Mã đề": "208"
+        },
+        {
+            "SBD": "303063",
+            "Họ và tên": "Đỗ Doãn Khôi Nguyên",
+            "Ngày sinh": "7/27/03",
+            "Trường": "Vinschool",
+            "Ca thi": "2",
+            "Phòng thi": "1",
+            "Điểm": "4.75",
+            "Mã đề": "358"
+        },
+        {
+            "SBD": "303067",
+            "Họ và tên": "Lê Minh Phương",
+            "Trường": "Lê Quý Đôn - Đống Đa",
+            "Ca thi": "2",
+            "Phòng thi": "1",
+            "Điểm": "4.75",
+            "Mã đề": "210"
+        },
+        {
+            "SBD": "303076",
+            "Họ và tên": "Đỗ Đức Vượng",
+            "Ngày sinh": "20/02/2003",
+            "Trường": "Phạm Hồng Thái",
+            "Ca thi": "2",
+            "Phòng thi": "1",
+            "Điểm": "4.75",
+            "Mã đề": "483"
+        },
+        {
+            "SBD": "313062",
+            "Họ và tên": "Vũ Tiến Hoàng",
+            "Ngày sinh": "29/12/2003",
+            "Trường": "Trần Nhân Tông",
+            "Ca thi": "4",
+            "Phòng thi": "1",
+            "Điểm": "4.75",
+            "Mã đề": "356"
+        },
+        {
+            "SBD": "303003",
+            "Họ và tên": "Phan Ngọc Chi",
+            "Ngày sinh": "05/11/2003",
+            "Trường": "Việt Đức ",
+            "Ca thi": "1",
+            "Phòng thi": "1",
+            "Điểm": "4.5",
+            "Mã đề": "137"
+        },
+        {
+            "SBD": "303019",
+            "Họ và tên": "Triệu Quang Minh",
+            "Ngày sinh": "12/7/03",
+            "Trường": "Trần Nhân Tông",
+            "Ca thi": "1",
+            "Phòng thi": "1",
+            "Điểm": "4.5",
+            "Mã đề": "137"
+        },
+        {
+            "SBD": "303051",
+            "Họ và tên": "Nguyễn Trung Hiếu",
+            "Ngày sinh": "5/9/03",
+            "Trường": "Hoàng Văn Thụ",
+            "Ca thi": "2",
+            "Phòng thi": "1",
+            "Điểm": "4.5",
+            "Mã đề": "210"
+        },
+        {
+            "SBD": "303053",
+            "Họ và tên": "Vũ Lê Huân",
+            "Ngày sinh": "6/27/03",
+            "Trường": "Hồng Hà",
+            "Ca thi": "2",
+            "Phòng thi": "1",
+            "Điểm": "4.5",
+            "Mã đề": "210"
+        },
+        {
+            "SBD": "303062",
+            "Họ và tên": "Phan Hải Nam",
+            "Ngày sinh": "2/2/03",
+            "Trường": "Trần Phú - Hoàn kiếm",
+            "Ca thi": "2",
+            "Phòng thi": "1",
+            "Điểm": "4.5",
+            "Mã đề": "483"
+        },
+        {
+            "SBD": "303065",
+            "Họ và tên": "Trần Khôi Nguyên",
+            "Ngày sinh": "1/19/03",
+            "Trường": "Hồng Hà",
+            "Ca thi": "2",
+            "Phòng thi": "1",
+            "Điểm": "4.5",
+            "Mã đề": "136"
+        },
+        {
+            "SBD": "303075",
+            "Họ và tên": "Nguyễn Quang Vinh",
+            "Ngày sinh": "20/12/2003",
+            "Trường": "Hoàng Cầu",
+            "Ca thi": "2",
+            "Phòng thi": "1",
+            "Điểm": "4.5",
+            "Mã đề": "358"
+        },
+        {
+            "SBD": "313010",
+            "Họ và tên": "Phạm Thị Phương Chi",
+            "Ngày sinh": "2/1/03",
+            "Trường": "Việt Đức ",
+            "Ca thi": "3",
+            "Phòng thi": "1",
+            "Điểm": "4.5",
+            "Mã đề": "245"
+        },
+        {
+            "SBD": "313023",
+            "Họ và tên": "Nguyễn Anh Minh",
+            "Ngày sinh": "7/25/03",
+            "Trường": "Trần Nhân Tông",
+            "Ca thi": "3",
+            "Phòng thi": "2",
+            "Điểm": "4.5",
+            "Mã đề": "245"
+        },
+        {
+            "SBD": "313078",
+            "Họ và tên": "Lưu Hoàng Minh",
+            "Ngày sinh": "20/06/2003",
+            "Trường": "Trần Nhân Tông",
+            "Ca thi": "4",
+            "Phòng thi": "3",
+            "Điểm": "4.5",
+            "Mã đề": "356"
+        },
+        {
+            "SBD": "313091",
+            "Họ và tên": "Lê Sơn Tùng",
+            "Ngày sinh": "9/25/03",
+            "Trường": "Phạm Hồng Thái",
+            "Ca thi": "4",
+            "Phòng thi": "3",
+            "Điểm": "4.5",
+            "Mã đề": "207"
+        },
+        {
+            "SBD": "313092",
+            "Họ và tên": "Phạm Anh Tường",
+            "Ngày sinh": "4/14/03",
+            "Trường": "Việt Đức",
+            "Ca thi": "4",
+            "Phòng thi": "3",
+            "Điểm": "4.5",
+            "Mã đề": "482"
+        },
+        {
+            "SBD": "313094",
+            "Họ và tên": "Đặng Thành Vinh",
+            "Ngày sinh": "06/04/2003",
+            "Trường": "Thăng Long ",
+            "Ca thi": "4",
+            "Phòng thi": "3",
+            "Điểm": "4.5",
+            "Mã đề": "356"
+        },
+        {
+            "SBD": "303013",
+            "Họ và tên": "Trần Đặng Hoàng Kiên",
+            "Ngày sinh": "2/14/03",
+            "Trường": "Trần Nhân Tông",
+            "Ca thi": "1",
+            "Phòng thi": "1",
+            "Điểm": "4.25",
+            "Mã đề": "208"
+        },
+        {
+            "SBD": "303014",
+            "Họ và tên": "Lê Tuấn Kiệt",
+            "Ngày sinh": "17/10/2003",
+            "Trường": "Trần Nhân Tông",
+            "Ca thi": "1",
+            "Phòng thi": "1",
+            "Điểm": "4.25",
+            "Mã đề": "137"
+        },
+        {
+            "SBD": "303018",
+            "Họ và tên": "Luyện Nguyễn Đàm Minh",
+            "Ngày sinh": "20/10/2003",
+            "Trường": "Đoàn Kết - Hai Bà Trưng",
+            "Ca thi": "1",
+            "Phòng thi": "1",
+            "Điểm": "4.25",
+            "Mã đề": "208"
+        },
+        {
+            "SBD": "303035",
+            "Họ và tên": "Nguyễn Lê Quỳnh Anh",
+            "Ngày sinh": "5/29/03",
+            "Trường": "Thực Nghiệm",
+            "Ca thi": "2",
+            "Phòng thi": "1",
+            "Điểm": "4.25",
+            "Mã đề": "136"
+        },
+        {
+            "SBD": "303036",
+            "Họ và tên": "Nguyễn Quang Anh",
+            "Ngày sinh": "10/1/03",
+            "Trường": "Trần Nhân Tông",
+            "Ca thi": "2",
+            "Phòng thi": "1",
+            "Điểm": "4.25",
+            "Mã đề": "210"
+        },
+        {
+            "SBD": "303069",
+            "Họ và tên": "Dương Đông Sơn",
+            "Ngày sinh": "8/14/03",
+            "Trường": "Đoàn Kết - Hai Bà Trưng",
+            "Ca thi": "3",
+            "Phòng thi": "1",
+            "Điểm": "4.25",
+            "Mã đề": "493"
+        },
+        {
+            "SBD": "313043",
+            "Họ và tên": "Nguyễn Minh Anh",
+            "Ngày sinh": "01/06/2003",
+            "Trường": "Trần Nhân Tông ",
+            "Ca thi": "4",
+            "Phòng thi": "1",
+            "Điểm": "4.25",
+            "Mã đề": "356"
+        },
+        {
+            "SBD": "303007",
+            "Họ và tên": "Tạ Thu Hà",
+            "Ngày sinh": "2/22/03",
+            "Trường": "Việt Đức",
+            "Ca thi": "1",
+            "Phòng thi": "1",
+            "Điểm": "4",
+            "Mã đề": "359"
+        },
+        {
+            "SBD": "303017",
+            "Họ và tên": "Phùng Hà Linh",
+            "Ngày sinh": "25/10/2003",
+            "Trường": "Việt Đức",
+            "Ca thi": "1",
+            "Phòng thi": "1",
+            "Điểm": "4",
+            "Mã đề": "359"
+        },
+        {
+            "SBD": "303023",
+            "Họ và tên": "Trần Quỳnh Nhi",
+            "Ngày sinh": "8/11/03",
+            "Trường": "Lê Quý Đôn - Đống Đa",
+            "Ca thi": "1",
+            "Phòng thi": "2",
+            "Điểm": "4",
+            "Mã đề": "208"
+        },
+        {
+            "SBD": "303078",
+            "Họ và tên": "Lê Toàn Thắng",
+            "Ca thi": "1",
+            "Phòng thi": "2",
+            "Điểm": "4",
+            "Mã đề": "137"
+        },
+        {
+            "SBD": "303032",
+            "Họ và tên": "Lê Thị Hoài Trang",
+            "Ngày sinh": "8/17/03",
+            "Trường": "Chuyên KHTN",
+            "Ca thi": "1",
+            "Phòng thi": "2",
+            "Điểm": "4",
+            "Mã đề": "359"
+        },
+        {
+            "SBD": "303056",
+            "Họ và tên": "Tường Duy Kiên",
+            "Ngày sinh": "11/1/03",
+            "Trường": "Hồng Hà",
+            "Ca thi": "2",
+            "Phòng thi": "1",
+            "Điểm": "4",
+            "Mã đề": "136"
+        },
+        {
+            "SBD": "303059",
+            "Họ và tên": "Trần Quang Minh",
+            "Ngày sinh": "22/12/2003",
+            "Trường": "Phạm Hồng Thái ",
+            "Ca thi": "2",
+            "Phòng thi": "1",
+            "Điểm": "4",
+            "Mã đề": "210"
+        },
+        {
+            "SBD": "313047",
+            "Họ và tên": "Nguyễn Hoàng Tuấn Bảo",
+            "Ngày sinh": "4/13/03",
+            "Trường": "Hồng Hà",
+            "Ca thi": "4",
+            "Phòng thi": "1",
+            "Điểm": "4",
+            "Mã đề": "356"
+        },
+        {
+            "SBD": "313068",
+            "Họ và tên": "Nguyễn Thu Huyền",
+            "Ngày sinh": "16/09/2003",
+            "Trường": "Trần Nhân Tông",
+            "Ca thi": "4",
+            "Phòng thi": "1",
+            "Điểm": "4",
+            "Mã đề": "207"
+        },
+        {
+            "SBD": "313082",
+            "Họ và tên": "Đặng Hồ Thiên Phúc",
+            "Ngày sinh": "2/7/03",
+            "Trường": "Trần Nhân Tông",
+            "Ca thi": "4",
+            "Phòng thi": "3",
+            "Điểm": "4",
+            "Mã đề": "482"
+        },
+        {
+            "SBD": "303022",
+            "Họ và tên": "Ngô Khôi Nguyên",
+            "Ngày sinh": "9/26/03",
+            "Trường": "Trần Nhân Tông",
+            "Ca thi": "1",
+            "Phòng thi": "2",
+            "Điểm": "3.75",
+            "Mã đề": "359"
+        },
+        {
+            "SBD": "303025",
+            "Họ và tên": "Nguyễn Đàm Quân",
+            "Ngày sinh": "14/11/2003",
+            "Trường": "Trần Nhân Tông",
+            "Ca thi": "1",
+            "Phòng thi": "2",
+            "Điểm": "3.75",
+            "Mã đề": "137"
+        },
+        {
+            "SBD": "303037",
+            "Họ và tên": "Phạm Đức Anh",
+            "Ngày sinh": "5/13/03",
+            "Trường": "Hồng Hà",
+            "Ca thi": "2",
+            "Phòng thi": "1",
+            "Điểm": "3.75",
+            "Mã đề": "358"
+        },
+        {
+            "SBD": "303040",
+            "Họ và tên": "Nguyễn Minh Đức",
+            "Ngày sinh": "1/20/03",
+            "Trường": "Đoàn Kết - Hai Bà Trưng",
+            "Ca thi": "2",
+            "Phòng thi": "1",
+            "Điểm": "3.75",
+            "Mã đề": "136"
+        },
+        {
+            "SBD": "303070",
+            "Họ và tên": "Chu Đoàn Chí Thành",
+            "Ngày sinh": "10/11/2003",
+            "Trường": "Tây Hồ",
+            "Ca thi": "2",
+            "Phòng thi": "1",
+            "Điểm": "3.75",
+            "Mã đề": "358"
+        },
+        {
+            "SBD": "313054",
+            "Họ và tên": "Nguyễn Tiến Đạt",
+            "Ngày sinh": "6/9/03",
+            "Trường": "Nguyễn Văn Cư",
+            "Ca thi": "4",
+            "Phòng thi": "1",
+            "Điểm": "3.75",
+            "Mã đề": "482"
+        },
+        {
+            "SBD": "313060",
+            "Họ và tên": "Phí Mai Hạnh",
+            "Ngày sinh": "8/21/03",
+            "Trường": "Hồng Hà",
+            "Ca thi": "4",
+            "Phòng thi": "1",
+            "Điểm": "3.75",
+            "Mã đề": "207"
+        },
+        {
+            "SBD": "313031",
+            "Họ và tên": "Nguyễn Quốc Thịnh",
+            "Ngày sinh": "8/10/03",
+            "Trường": "Trần Nhân Tông",
+            "Ca thi": "1",
+            "Phòng thi": "2",
+            "Điểm": "3.5",
+            "Mã đề": "486"
+        },
+        {
+            "SBD": "303046",
+            "Họ và tên": "Trần Phúc Duy",
+            "Ngày sinh": "6/1/03",
+            "Trường": "Tây Hồ",
+            "Ca thi": "2",
+            "Phòng thi": "1",
+            "Điểm": "3.5",
+            "Mã đề": "210"
+        },
+        {
+            "SBD": "303054",
+            "Họ và tên": "Dương Ngọc Hưng",
+            "Ngày sinh": "7/9/03",
+            "Trường": "Hoàng Văn Thụ",
+            "Ca thi": "2",
+            "Phòng thi": "1",
+            "Điểm": "3.5",
+            "Mã đề": "358"
+        },
+        {
+            "SBD": "313041",
+            "Họ và tên": "Nguyễn Đức Anh",
+            "Ngày sinh": "20/12/2003",
+            "Trường": "Vinschool",
+            "Ca thi": "4",
+            "Phòng thi": "1",
+            "Điểm": "3.5",
+            "Mã đề": "356"
+        },
+        {
+            "SBD": "313045",
+            "Họ và tên": "Vũ Quỳnh Anh",
+            "Ngày sinh": "23/10/2003",
+            "Trường": "Trần Nhân Tông",
+            "Ca thi": "4",
+            "Phòng thi": "1",
+            "Điểm": "3.5",
+            "Mã đề": "207"
+        },
+        {
+            "SBD": "303001",
+            "Họ và tên": "Nghiêm Phi Anh",
+            "Ngày sinh": "12/5/03",
+            "Trường": "Trần Nhân Tông",
+            "Ca thi": "1",
+            "Phòng thi": "1",
+            "Điểm": "3.25",
+            "Mã đề": "359"
+        },
+        {
+            "SBD": "303028",
+            "Họ và tên": "Vũ Tiến Thành",
+            "Ngày sinh": "9/5/03",
+            "Trường": "Trần Nhân Tông",
+            "Ca thi": "1",
+            "Phòng thi": "2",
+            "Điểm": "3.25",
+            "Mã đề": "137"
+        },
+        {
+            "SBD": "313038",
+            "Họ và tên": "Đỗ Minh Anh",
+            "Ngày sinh": "1/11/03",
+            "Trường": "Thăng Long",
+            "Ca thi": "4",
+            "Phòng thi": "1",
+            "Điểm": "3.25",
+            "Mã đề": "482"
+        },
+        {
+            "SBD": "303021",
+            "Họ và tên": "Nguyễn Kim Ngân",
+            "Ngày sinh": "8/3/03",
+            "Trường": "Kim Liên",
+            "Ca thi": "1",
+            "Phòng thi": "2",
+            "Điểm": "3",
+            "Mã đề": "137"
+        },
+        {
+            "SBD": "303045",
+            "Họ và tên": "Phạm Tiến Duy",
+            "Ngày sinh": "7/1/03",
+            "Trường": "Hoàng Văn Thụ",
+            "Ca thi": "2",
+            "Phòng thi": "1",
+            "Điểm": "3",
+            "Mã đề": "136"
+        },
+        {
+            "SBD": "303061",
+            "Họ và tên": "Đỗ Hải Nam",
+            "Ngày sinh": "22/07/2003",
+            "Ca thi": "2",
+            "Phòng thi": "1",
+            "Điểm": "3",
+            "Mã đề": "483"
+        },
+        {
+            "SBD": "313017",
+            "Họ và tên": "Nguyễn Việt Hùng",
+            "Ngày sinh": "4/8/03",
+            "Trường": "Việt Đức",
+            "Ca thi": "3",
+            "Phòng thi": "1",
+            "Điểm": "3",
+            "Mã đề": "169"
+        },
+        {
+            "SBD": "303015",
+            "Họ và tên": "Lương Anh Kiệt",
+            "Ngày sinh": "6/13/03",
+            "Trường": "Lê Quý Đôn - Đống Đa",
+            "Ca thi": "1",
+            "Phòng thi": "1",
+            "Điểm": "2.75",
+            "Mã đề": "486"
+        },
+        {
+            "SBD": "303044",
+            "Họ và tên": "Đỗ Mạnh Duy",
+            "Ngày sinh": "3/22/03",
+            "Trường": "Hồng Hà",
+            "Ca thi": "2",
+            "Phòng thi": "1",
+            "Điểm": "2.75",
+            "Mã đề": "483"
+        },
+        {
+            "SBD": "303058",
+            "Họ và tên": "Phan Hoàng Minh",
+            "Ngày sinh": "1/23/03",
+            "Trường": "Hoàng Long",
+            "Ca thi": "2",
+            "Phòng thi": "1",
+            "Điểm": "2.75",
+            "Mã đề": "358"
+        },
+        {
+            "SBD": "303043",
+            "Họ và tên": "Nguyễn Tuấn Dương",
+            "Ngày sinh": "12/11/2003",
+            "Trường": "Hoàng Long",
+            "Ca thi": "2",
+            "Phòng thi": "1",
+            "Điểm": "2.5",
+            "Mã đề": "483"
+        },
+        {
+            "SBD": "303030",
+            "Họ và tên": "Cao Thanh Thương",
+            "Ngày sinh": "24/10/2003",
+            "Trường": "Việt Đức",
+            "Ca thi": "1",
+            "Phòng thi": "2",
+            "Điểm": "2.25",
+            "Mã đề": "359"
+        },
+        {
+            "SBD": "303010",
+            "Họ và tên": "Bùi Trần Gia Huy",
+            "Ngày sinh": "9/7/03",
+            "Trường": "Thăng Long",
+            "Ca thi": "1",
+            "Phòng thi": "1",
+            "Điểm": "-1",
+            "Mã đề": "0"
+        },
+        {
+            "SBD": "303020",
+            "Họ và tên": "Nguyễn Hoàng Nam",
+            "Ngày sinh": "27/12/2003",
+            "Trường": "Trần Phú - Hoàn kiếm",
+            "Ca thi": "1",
+            "Phòng thi": "1",
+            "Điểm": "-1",
+            "Mã đề": "0"
+        },
+        {
+            "SBD": "303038",
+            "Họ và tên": "Văn Quỳnh Anh",
+            "Ngày sinh": "05/11/2003",
+            "Trường": "Mỹ Đức B",
+            "Ca thi": "2",
+            "Phòng thi": "1",
+            "Điểm": "-1",
+            "Mã đề": "0"
+        },
+        {
+            "SBD": "303039",
+            "Họ và tên": "Hà Đình Đạt",
+            "Ngày sinh": "9/8/03",
+            "Trường": "Hồng Hà",
+            "Ca thi": "2",
+            "Phòng thi": "1",
+            "Điểm": "-1",
+            "Mã đề": "0"
+        },
+        {
+            "SBD": "303055",
+            "Họ và tên": "Nguyễn Tuấn Huy",
+            "Ngày sinh": "7/2/03",
+            "Trường": "Việt Đức",
+            "Ca thi": "2",
+            "Phòng thi": "1",
+            "Điểm": "-1",
+            "Mã đề": "0"
+        },
+        {
+            "SBD": "303057",
+            "Họ và tên": "Trịnh Hải Long",
+            "Ngày sinh": "7/1/03",
+            "Trường": "Trương Định",
+            "Ca thi": "2",
+            "Phòng thi": "1",
+            "Điểm": "-1",
+            "Mã đề": "0"
+        },
+        {
+            "SBD": "313002",
+            "Họ và tên": "Nguyễn Mai Anh",
+            "Ngày sinh": "11/8/03",
+            "Trường": "Trần Nhân Tông",
+            "Ca thi": "3",
+            "Phòng thi": "1",
+            "Điểm": "-1",
+            "Mã đề": "0"
+        },
+        {
+            "SBD": "313005",
+            "Họ và tên": "Phương Tuấn Anh",
+            "Ngày sinh": "20/04/2003",
+            "Trường": "Phạm Hồng Thái",
+            "Ca thi": "3",
+            "Phòng thi": "1",
+            "Điểm": "-1",
+            "Mã đề": "0"
+        },
+        {
+            "SBD": "313007",
+            "Họ và tên": "Tô Nguyên Bảo",
+            "Ngày sinh": "11/3/03",
+            "Trường": "Marie Curie",
+            "Ca thi": "3",
+            "Phòng thi": "1",
+            "Điểm": "-1",
+            "Mã đề": "0"
+        },
+        {
+            "SBD": "313008",
+            "Họ và tên": "Bùi Quỳnh Chi",
+            "Ngày sinh": "28/10/2003",
+            "Trường": "Marie Curie",
+            "Ca thi": "3",
+            "Phòng thi": "1",
+            "Điểm": "-1",
+            "Mã đề": "0"
+        },
+        {
+            "SBD": "313028",
+            "Họ và tên": "Phạm Hồng Phúc",
+            "Ngày sinh": "30/12/2003",
+            "Trường": "Kim Liên",
+            "Ca thi": "3",
+            "Phòng thi": "2",
+            "Điểm": "-1",
+            "Mã đề": "211"
+        },
+        {
+            "SBD": "313032",
+            "Họ và tên": "Đỗ Thu Thủy",
+            "Ngày sinh": "25/11/2003",
+            "Trường": "Trần Nhân Tông",
+            "Ca thi": "3",
+            "Phòng thi": "2",
+            "Điểm": "-1",
+            "Mã đề": "0"
+        },
+        {
+            "SBD": "313033",
+            "Họ và tên": "Mai Thu Trang",
+            "Ngày sinh": "26/11/2003",
+            "Trường": "Đoàn Kết - Hai Bà Trưng",
+            "Ca thi": "3",
+            "Phòng thi": "2",
+            "Điểm": "-1",
+            "Mã đề": "0"
+        },
+        {
+            "SBD": "313037",
+            "Họ và tên": "Nguyễn Quang Vinh",
+            "Trường": "Trần Nhân Tông",
+            "Ca thi": "3",
+            "Phòng thi": "2",
+            "Điểm": "-1",
+            "Mã đề": "0"
+        },
+        {
+            "SBD": "313040",
+            "Họ và tên": "Nguyễn Đức Anh",
+            "Ngày sinh": "12/9/03",
+            "Trường": "Mai Hắc Đế ",
+            "Ca thi": "4",
+            "Phòng thi": "1",
+            "Điểm": "-1",
+            "Mã đề": "0"
+        },
+        {
+            "SBD": "313042",
+            "Họ và tên": "Nguyễn Đức Duy Anh",
+            "Ngày sinh": "12/22/03",
+            "Trường": "Đoàn Kết - Hai Bà Trưng",
+            "Ca thi": "4",
+            "Phòng thi": "1",
+            "Điểm": "-1",
+            "Mã đề": "0"
+        },
+        {
+            "SBD": "313046",
+            "Họ và tên": "Trương Hồ Bách",
+            "Ngày sinh": "1/8/03",
+            "Trường": "Đoàn Kết - Hai Bà Trưng",
+            "Ca thi": "4",
+            "Phòng thi": "1",
+            "Điểm": "-1",
+            "Mã đề": "0"
+        },
+        {
+            "SBD": "313048",
+            "Họ và tên": "Phạm Ngọc Bảo",
+            "Ca thi": "4",
+            "Phòng thi": "1",
+            "Điểm": "-1",
+            "Mã đề": "0"
+        },
+        {
+            "SBD": "313063",
+            "Họ và tên": "Nguyễn Duy Hung",
+            "Ngày sinh": "20/10/2003",
+            "Trường": "Vinschool ",
+            "Ca thi": "4",
+            "Phòng thi": "1",
+            "Điểm": "-1",
+            "Mã đề": "0"
+        },
+        {
+            "SBD": "313066",
+            "Họ và tên": "Dương Quang Huy",
+            "Ngày sinh": "8/29/03",
+            "Trường": "Vinschool",
+            "Ca thi": "4",
+            "Phòng thi": "1",
+            "Điểm": "-1",
+            "Mã đề": "0"
+        },
+        {
+            "SBD": "313065",
+            "Họ và tên": "Nguyễn Thu Hường",
+            "Ngày sinh": "10/08/2003",
+            "Trường": "Trần Nhân Tông",
+            "Ca thi": "4",
+            "Phòng thi": "1",
+            "Điểm": "-1",
+            "Mã đề": "0"
+        },
+        {
+            "SBD": "313070",
+            "Họ và tên": "Ngô Thế Kiên",
+            "Ngày sinh": "5/13/03",
+            "Trường": "Vinschool",
+            "Ca thi": "4",
+            "Phòng thi": "1",
+            "Điểm": "-1",
+            "Mã đề": "0"
+        },
+        {
+            "SBD": "313072",
+            "Họ và tên": "Lê Hiểu Linh",
+            "Ngày sinh": "28/12/2003",
+            "Trường": "Trần Nhân Tông",
+            "Ca thi": "4",
+            "Phòng thi": "3",
+            "Điểm": "-1",
+            "Mã đề": "0"
+        },
+        {
+            "SBD": "313074",
+            "Họ và tên": "Nguyễn Thùy Linh",
+            "Ngày sinh": "30/12/2003",
+            "Trường": "Thăng Long",
+            "Ca thi": "4",
+            "Phòng thi": "3",
+            "Điểm": "-1",
+            "Mã đề": "0"
+        },
+        {
+            "SBD": "313077",
+            "Họ và tên": "Bùi Trần Quang Minh",
+            "Ngày sinh": "25/12/2003",
+            "Trường": "Trương Định",
+            "Ca thi": "4",
+            "Phòng thi": "3",
+            "Điểm": "-1",
+            "Mã đề": "0"
+        },
+        {
+            "SBD": "313080",
+            "Họ và tên": "Nguyễn Tuấn Phong",
+            "Ngày sinh": "2/26/03",
+            "Trường": "Huỳnh Thúc Kháng",
+            "Ca thi": "4",
+            "Phòng thi": "3",
+            "Điểm": "-1",
+            "Mã đề": "0"
+        },
+        {
+            "SBD": "313087",
+            "Họ và tên": "Lê Thanh Thư",
+            "Ngày sinh": "6/2/03",
+            "Trường": "Trần Nhân Tông",
+            "Ca thi": "4",
+            "Phòng thi": "3",
+            "Điểm": "-1",
+            "Mã đề": "0"
+        },
+        {
+            "SBD": "313093",
+            "Họ và tên": "Nguyễn Việt",
+            "Ngày sinh": "25/09/2003",
+            "Trường": "Trần Phú - Hoàn kiếm",
+            "Ca thi": "4",
+            "Phòng thi": "3",
+            "Điểm": "-1",
+            "Mã đề": "0"
+        }
+    ],
+    "data": [
+        {
+            "Kíp": "1",
+            "Ngày thi": "15h15",
+            "Giờ thi": "30/03/2021"
+        },
+        {
+            "Kíp": "2",
+            "Ngày thi": "18h45",
+            "Giờ thi": "30/03/2021"
+        },
+        {
+            "Kíp": "3",
+            "Ngày thi": "15h15",
+            "Giờ thi": "31/03/2021"
+        },
+        {
+            "Kíp": "4",
+            "Ngày thi": "18h45",
+            "Giờ thi": "31/03/2021"
+        }
+    ],
+    "Sheet1": [
+        {
+            "SBD": "303001",
+            "HỌ VÀ TÊN": "tnmaker",
+            "MÃ ĐỀ": "359",
+            "ĐIỂM": "3.25"
+        },
+        {
+            "SBD": "303002",
+            "HỌ VÀ TÊN": "tnmaker",
+            "MÃ ĐỀ": "486",
+            "ĐIỂM": "5.50"
+        },
+        {
+            "SBD": "303003",
+            "HỌ VÀ TÊN": "tnmaker",
+            "MÃ ĐỀ": "137",
+            "ĐIỂM": "4.50"
+        },
+        {
+            "SBD": "303004",
+            "HỌ VÀ TÊN": "tnmaker",
+            "MÃ ĐỀ": "486",
+            "ĐIỂM": "4.75"
+        },
+        {
+            "SBD": "303005",
+            "HỌ VÀ TÊN": "tnmaker",
+            "MÃ ĐỀ": "137",
+            "ĐIỂM": "6.00"
+        },
+        {
+            "SBD": "303006",
+            "HỌ VÀ TÊN": "tnmaker",
+            "MÃ ĐỀ": "486",
+            "ĐIỂM": "5.25"
+        },
+        {
+            "SBD": "303007",
+            "HỌ VÀ TÊN": "tnmaker",
+            "MÃ ĐỀ": "359",
+            "ĐIỂM": "4.00"
+        },
+        {
+            "SBD": "303008",
+            "HỌ VÀ TÊN": "tnmaker",
+            "MÃ ĐỀ": "208",
+            "ĐIỂM": "5.00"
+        },
+        {
+            "SBD": "303009",
+            "HỌ VÀ TÊN": "tnmaker",
+            "MÃ ĐỀ": "208",
+            "ĐIỂM": "4.75"
+        },
+        {
+            "SBD": "303011",
+            "HỌ VÀ TÊN": "tnmaker",
+            "MÃ ĐỀ": "208",
+            "ĐIỂM": "5.00"
+        },
+        {
+            "SBD": "303012",
+            "HỌ VÀ TÊN": "tnmaker",
+            "MÃ ĐỀ": "326",
+            "ĐIỂM": "5.75"
+        },
+        {
+            "SBD": "303013",
+            "HỌ VÀ TÊN": "tnmaker",
+            "MÃ ĐỀ": "208",
+            "ĐIỂM": "4.25"
+        },
+        {
+            "SBD": "303014",
+            "HỌ VÀ TÊN": "tnmaker",
+            "MÃ ĐỀ": "137",
+            "ĐIỂM": "4.25"
+        },
+        {
+            "SBD": "303015",
+            "HỌ VÀ TÊN": "tnmaker",
+            "MÃ ĐỀ": "486",
+            "ĐIỂM": "2.75"
+        },
+        {
+            "SBD": "303016",
+            "HỌ VÀ TÊN": "tnmaker",
+            "MÃ ĐỀ": "245",
+            "ĐIỂM": "7.25"
+        },
+        {
+            "SBD": "303017",
+            "HỌ VÀ TÊN": "tnmaker",
+            "MÃ ĐỀ": "359",
+            "ĐIỂM": "4.00"
+        },
+        {
+            "SBD": "303018",
+            "HỌ VÀ TÊN": "tnmaker",
+            "MÃ ĐỀ": "208",
+            "ĐIỂM": "4.25"
+        },
+        {
+            "SBD": "303019",
+            "HỌ VÀ TÊN": "tnmaker",
+            "MÃ ĐỀ": "137",
+            "ĐIỂM": "4.50"
+        },
+        {
+            "SBD": "303020",
+            "ĐIỂM": "-1.00"
+        },
+        {
+            "SBD": "303021",
+            "HỌ VÀ TÊN": "tnmaker",
+            "MÃ ĐỀ": "137",
+            "ĐIỂM": "3.00"
+        },
+        {
+            "SBD": "303022",
+            "HỌ VÀ TÊN": "tnmaker",
+            "MÃ ĐỀ": "359",
+            "ĐIỂM": "3.75"
+        },
+        {
+            "SBD": "303023",
+            "HỌ VÀ TÊN": "tnmaker",
+            "MÃ ĐỀ": "208",
+            "ĐIỂM": "4.00"
+        },
+        {
+            "SBD": "303024",
+            "HỌ VÀ TÊN": "tnmaker",
+            "MÃ ĐỀ": "486",
+            "ĐIỂM": "5.25"
+        },
+        {
+            "SBD": "303025",
+            "HỌ VÀ TÊN": "tnmaker",
+            "MÃ ĐỀ": "137",
+            "ĐIỂM": "3.75"
+        },
+        {
+            "SBD": "303026",
+            "HỌ VÀ TÊN": "tnmaker",
+            "MÃ ĐỀ": "208",
+            "ĐIỂM": "4.75"
+        },
+        {
+            "SBD": "303027",
+            "HỌ VÀ TÊN": "tnmaker",
+            "MÃ ĐỀ": "326",
+            "ĐIỂM": "6.75"
+        },
+        {
+            "SBD": "303028",
+            "HỌ VÀ TÊN": "tnmaker",
+            "MÃ ĐỀ": "137",
+            "ĐIỂM": "3.25"
+        },
+        {
+            "SBD": "303029",
+            "HỌ VÀ TÊN": "tnmaker",
+            "MÃ ĐỀ": "486",
+            "ĐIỂM": "5.25"
+        },
+        {
+            "SBD": "303030",
+            "HỌ VÀ TÊN": "tnmaker",
+            "MÃ ĐỀ": "359",
+            "ĐIỂM": "2.25"
+        },
+        {
+            "SBD": "303031",
+            "HỌ VÀ TÊN": "tnmaker",
+            "MÃ ĐỀ": "208",
+            "ĐIỂM": "5.00"
+        },
+        {
+            "SBD": "303032",
+            "HỌ VÀ TÊN": "tnmaker",
+            "MÃ ĐỀ": "359",
+            "ĐIỂM": "4.00"
+        },
+        {
+            "SBD": "303033",
+            "HỌ VÀ TÊN": "tnmaker",
+            "MÃ ĐỀ": "483",
+            "ĐIỂM": "5.00"
+        },
+        {
+            "SBD": "303034",
+            "HỌ VÀ TÊN": "tnmaker",
+            "MÃ ĐỀ": "210",
+            "ĐIỂM": "5.00"
+        },
+        {
+            "SBD": "303035",
+            "HỌ VÀ TÊN": "tnmaker",
+            "MÃ ĐỀ": "136",
+            "ĐIỂM": "4.25"
+        },
+        {
+            "SBD": "303036",
+            "HỌ VÀ TÊN": "tnmaker",
+            "MÃ ĐỀ": "210",
+            "ĐIỂM": "4.25"
+        },
+        {
+            "SBD": "303037",
+            "HỌ VÀ TÊN": "tnmaker",
+            "MÃ ĐỀ": "358",
+            "ĐIỂM": "3.75"
+        },
+        {
+            "SBD": "303040",
+            "HỌ VÀ TÊN": "tnmaker",
+            "MÃ ĐỀ": "136",
+            "ĐIỂM": "3.75"
+        },
+        {
+            "SBD": "303041",
+            "HỌ VÀ TÊN": "tnmaker",
+            "MÃ ĐỀ": "210",
+            "ĐIỂM": "5.25"
+        },
+        {
+            "SBD": "303042",
+            "HỌ VÀ TÊN": "tnmaker",
+            "MÃ ĐỀ": "358",
+            "ĐIỂM": "5.50"
+        },
+        {
+            "SBD": "303043",
+            "HỌ VÀ TÊN": "tnmaker",
+            "MÃ ĐỀ": "483",
+            "ĐIỂM": "2.50"
+        },
+        {
+            "SBD": "303044",
+            "HỌ VÀ TÊN": "tnmaker",
+            "MÃ ĐỀ": "483",
+            "ĐIỂM": "2.75"
+        },
+        {
+            "SBD": "303045",
+            "HỌ VÀ TÊN": "tnmaker",
+            "MÃ ĐỀ": "136",
+            "ĐIỂM": "3.00"
+        },
+        {
+            "SBD": "303046",
+            "HỌ VÀ TÊN": "tnmaker",
+            "MÃ ĐỀ": "210",
+            "ĐIỂM": "3.50"
+        },
+        {
+            "SBD": "303047",
+            "HỌ VÀ TÊN": "tnmaker",
+            "MÃ ĐỀ": "138",
+            "ĐIỂM": "5.50"
+        },
+        {
+            "SBD": "303048",
+            "HỌ VÀ TÊN": "tnmaker",
+            "MÃ ĐỀ": "136",
+            "ĐIỂM": "6.50"
+        },
+        {
+            "SBD": "303049",
+            "HỌ VÀ TÊN": "tnmaker",
+            "MÃ ĐỀ": "483",
+            "ĐIỂM": "5.50"
+        },
+        {
+            "SBD": "303050",
+            "HỌ VÀ TÊN": "tnmaker",
+            "MÃ ĐỀ": "358",
+            "ĐIỂM": "5.25"
+        },
+        {
+            "SBD": "303051",
+            "HỌ VÀ TÊN": "tnmaker",
+            "MÃ ĐỀ": "210",
+            "ĐIỂM": "4.50"
+        },
+        {
+            "SBD": "303052",
+            "HỌ VÀ TÊN": "tnmaker",
+            "MÃ ĐỀ": "136",
+            "ĐIỂM": "5.50"
+        },
+        {
+            "SBD": "303053",
+            "HỌ VÀ TÊN": "tnmaker",
+            "MÃ ĐỀ": "210",
+            "ĐIỂM": "4.50"
+        },
+        {
+            "SBD": "303054",
+            "HỌ VÀ TÊN": "tnmaker",
+            "MÃ ĐỀ": "358",
+            "ĐIỂM": "3.50"
+        },
+        {
+            "SBD": "303056",
+            "HỌ VÀ TÊN": "tnmaker",
+            "MÃ ĐỀ": "136",
+            "ĐIỂM": "4.00"
+        },
+        {
+            "SBD": "303058",
+            "HỌ VÀ TÊN": "tnmaker",
+            "MÃ ĐỀ": "358",
+            "ĐIỂM": "2.75"
+        },
+        {
+            "SBD": "303059",
+            "HỌ VÀ TÊN": "tnmaker",
+            "MÃ ĐỀ": "210",
+            "ĐIỂM": "4.00"
+        },
+        {
+            "SBD": "303060",
+            "HỌ VÀ TÊN": "tnmaker",
+            "MÃ ĐỀ": "136",
+            "ĐIỂM": "7.00"
+        },
+        {
+            "SBD": "303061",
+            "HỌ VÀ TÊN": "tnmaker",
+            "MÃ ĐỀ": "483",
+            "ĐIỂM": "3.00"
+        },
+        {
+            "SBD": "303062",
+            "HỌ VÀ TÊN": "tnmaker",
+            "MÃ ĐỀ": "483",
+            "ĐIỂM": "4.50"
+        },
+        {
+            "SBD": "303063",
+            "HỌ VÀ TÊN": "tnmaker",
+            "MÃ ĐỀ": "358",
+            "ĐIỂM": "4.75"
+        },
+        {
+            "SBD": "303064",
+            "HỌ VÀ TÊN": "tnmaker",
+            "MÃ ĐỀ": "483",
+            "ĐIỂM": "5.00"
+        },
+        {
+            "SBD": "303065",
+            "HỌ VÀ TÊN": "tnmaker",
+            "MÃ ĐỀ": "136",
+            "ĐIỂM": "4.50"
+        },
+        {
+            "SBD": "303066",
+            "HỌ VÀ TÊN": "tnmaker",
+            "MÃ ĐỀ": "358",
+            "ĐIỂM": "6.25"
+        },
+        {
+            "SBD": "303067",
+            "HỌ VÀ TÊN": "tnmaker",
+            "MÃ ĐỀ": "210",
+            "ĐIỂM": "4.75"
+        },
+        {
+            "SBD": "303068",
+            "HỌ VÀ TÊN": "tnmaker",
+            "MÃ ĐỀ": "136",
+            "ĐIỂM": "6.50"
+        },
+        {
+            "SBD": "303069",
+            "HỌ VÀ TÊN": "tnmaker",
+            "MÃ ĐỀ": "493",
+            "ĐIỂM": "4.25"
+        },
+        {
+            "SBD": "303069",
+            "ĐIỂM": "-1.00"
+        },
+        {
+            "SBD": "303070",
+            "HỌ VÀ TÊN": "tnmaker",
+            "MÃ ĐỀ": "358",
+            "ĐIỂM": "3.75"
+        },
+        {
+            "SBD": "303071",
+            "HỌ VÀ TÊN": "tnmaker",
+            "MÃ ĐỀ": "210",
+            "ĐIỂM": "5.75"
+        },
+        {
+            "SBD": "303072",
+            "HỌ VÀ TÊN": "tnmaker",
+            "MÃ ĐỀ": "483",
+            "ĐIỂM": "7.00"
+        },
+        {
+            "SBD": "303073",
+            "HỌ VÀ TÊN": "tnmaker",
+            "MÃ ĐỀ": "136",
+            "ĐIỂM": "5.50"
+        },
+        {
+            "SBD": "303074",
+            "HỌ VÀ TÊN": "tnmaker",
+            "MÃ ĐỀ": "483",
+            "ĐIỂM": "5.75"
+        },
+        {
+            "SBD": "303075",
+            "HỌ VÀ TÊN": "tnmaker",
+            "MÃ ĐỀ": "358",
+            "ĐIỂM": "4.50"
+        },
+        {
+            "SBD": "303076",
+            "HỌ VÀ TÊN": "tnmaker",
+            "MÃ ĐỀ": "483",
+            "ĐIỂM": "4.75"
+        },
+        {
+            "SBD": "303078",
+            "HỌ VÀ TÊN": "tnmaker",
+            "MÃ ĐỀ": "137",
+            "ĐIỂM": "4.00"
+        },
+        {
+            "SBD": "313001",
+            "HỌ VÀ TÊN": "tnmaker",
+            "MÃ ĐỀ": "493",
+            "ĐIỂM": "7.75"
+        },
+        {
+            "SBD": "313002",
+            "ĐIỂM": "-1.00"
+        },
+        {
+            "SBD": "313003",
+            "HỌ VÀ TÊN": "tnmaker",
+            "MÃ ĐỀ": "169",
+            "ĐIỂM": "7.25"
+        },
+        {
+            "SBD": "313004",
+            "HỌ VÀ TÊN": "tnmaker",
+            "MÃ ĐỀ": "245",
+            "ĐIỂM": "5.50"
+        },
+        {
+            "SBD": "313005",
+            "ĐIỂM": "-1.00"
+        },
+        {
+            "SBD": "313006",
+            "HỌ VÀ TÊN": "tnmaker",
+            "MÃ ĐỀ": "326",
+            "ĐIỂM": "6.75"
+        },
+        {
+            "SBD": "313007",
+            "ĐIỂM": "-1.00"
+        },
+        {
+            "SBD": "313008",
+            "ĐIỂM": "-1.00"
+        },
+        {
+            "SBD": "313009",
+            "HỌ VÀ TÊN": "tnmaker",
+            "MÃ ĐỀ": "169",
+            "ĐIỂM": "6.75"
+        },
+        {
+            "SBD": "313010",
+            "HỌ VÀ TÊN": "tnmaker",
+            "MÃ ĐỀ": "245",
+            "ĐIỂM": "4.50"
+        },
+        {
+            "SBD": "313011",
+            "HỌ VÀ TÊN": "tnmaker",
+            "MÃ ĐỀ": "493",
+            "ĐIỂM": "5.75"
+        },
+        {
+            "SBD": "313012",
+            "HỌ VÀ TÊN": "tnmaker",
+            "MÃ ĐỀ": "493",
+            "ĐIỂM": "5.25"
+        },
+        {
+            "SBD": "313013",
+            "HỌ VÀ TÊN": "tnmaker",
+            "MÃ ĐỀ": "169",
+            "ĐIỂM": "8.75"
+        },
+        {
+            "SBD": "313013",
+            "HỌ VÀ TÊN": "tnmaker",
+            "MÃ ĐỀ": "169",
+            "ĐIỂM": "8.75"
+        },
+        {
+            "SBD": "313014",
+            "HỌ VÀ TÊN": "tnmaker",
+            "MÃ ĐỀ": "493",
+            "ĐIỂM": "7.00"
+        },
+        {
+            "SBD": "313015",
+            "HỌ VÀ TÊN": "tnmaker",
+            "MÃ ĐỀ": "245",
+            "ĐIỂM": "6.00"
+        },
+        {
+            "SBD": "313016",
+            "HỌ VÀ TÊN": "tnmaker",
+            "MÃ ĐỀ": "169",
+            "ĐIỂM": "6.50"
+        },
+        {
+            "SBD": "313017",
+            "HỌ VÀ TÊN": "tnmaker",
+            "MÃ ĐỀ": "169",
+            "ĐIỂM": "3.00"
+        },
+        {
+            "SBD": "313018",
+            "HỌ VÀ TÊN": "tnmaker",
+            "MÃ ĐỀ": "326",
+            "ĐIỂM": "6.00"
+        },
+        {
+            "SBD": "313019",
+            "HỌ VÀ TÊN": "tnmaker",
+            "MÃ ĐỀ": "245",
+            "ĐIỂM": "7.00"
+        },
+        {
+            "SBD": "313020",
+            "HỌ VÀ TÊN": "tnmaker",
+            "MÃ ĐỀ": "326",
+            "ĐIỂM": "6.25"
+        },
+        {
+            "SBD": "313021",
+            "HỌ VÀ TÊN": "tnmaker",
+            "MÃ ĐỀ": "326",
+            "ĐIỂM": "6.00"
+        },
+        {
+            "SBD": "313022",
+            "HỌ VÀ TÊN": "tnmaker",
+            "MÃ ĐỀ": "493",
+            "ĐIỂM": "5.75"
+        },
+        {
+            "SBD": "313023",
+            "HỌ VÀ TÊN": "tnmaker",
+            "MÃ ĐỀ": "245",
+            "ĐIỂM": "4.50"
+        },
+        {
+            "SBD": "313024",
+            "HỌ VÀ TÊN": "tnmaker",
+            "MÃ ĐỀ": "169",
+            "ĐIỂM": "7.75"
+        },
+        {
+            "SBD": "313025",
+            "HỌ VÀ TÊN": "tnmaker",
+            "MÃ ĐỀ": "245",
+            "ĐIỂM": "7.25"
+        },
+        {
+            "SBD": "313026",
+            "HỌ VÀ TÊN": "tnmaker",
+            "MÃ ĐỀ": "169",
+            "ĐIỂM": "7.00"
+        },
+        {
+            "SBD": "313027",
+            "HỌ VÀ TÊN": "tnmaker",
+            "MÃ ĐỀ": "245",
+            "ĐIỂM": "5.00"
+        },
+        {
+            "SBD": "313028",
+            "HỌ VÀ TÊN": "tnmaker",
+            "MÃ ĐỀ": "211",
+            "ĐIỂM": "-1.00"
+        },
+        {
+            "SBD": "313029",
+            "HỌ VÀ TÊN": "tnmaker",
+            "MÃ ĐỀ": "169",
+            "ĐIỂM": "6.25"
+        },
+        {
+            "SBD": "313030",
+            "HỌ VÀ TÊN": "tnmaker",
+            "MÃ ĐỀ": "245",
+            "ĐIỂM": "7.75"
+        },
+        {
+            "SBD": "313031",
+            "HỌ VÀ TÊN": "tnmaker",
+            "MÃ ĐỀ": "486",
+            "ĐIỂM": "3.50"
+        },
+        {
+            "SBD": "313032",
+            "ĐIỂM": "-1.00"
+        },
+        {
+            "SBD": "313033",
+            "ĐIỂM": "-1.00"
+        },
+        {
+            "SBD": "313034",
+            "HỌ VÀ TÊN": "tnmaker",
+            "MÃ ĐỀ": "493",
+            "ĐIỂM": "6.25"
+        },
+        {
+            "SBD": "313035",
+            "HỌ VÀ TÊN": "tnmaker",
+            "MÃ ĐỀ": "326",
+            "ĐIỂM": "7.25"
+        },
+        {
+            "SBD": "313036",
+            "HỌ VÀ TÊN": "tnmaker",
+            "MÃ ĐỀ": "169",
+            "ĐIỂM": "6.75"
+        },
+        {
+            "SBD": "313037",
+            "ĐIỂM": "-1.00"
+        },
+        {
+            "SBD": "313038",
+            "HỌ VÀ TÊN": "tnmaker",
+            "MÃ ĐỀ": "482",
+            "ĐIỂM": "3.25"
+        },
+        {
+            "SBD": "313039",
+            "HỌ VÀ TÊN": "tnmaker",
+            "MÃ ĐỀ": "138",
+            "ĐIỂM": "5.75"
+        },
+        {
+            "SBD": "313041",
+            "HỌ VÀ TÊN": "tnmaker",
+            "MÃ ĐỀ": "356",
+            "ĐIỂM": "3.50"
+        },
+        {
+            "SBD": "313043",
+            "HỌ VÀ TÊN": "tnmaker",
+            "MÃ ĐỀ": "356",
+            "ĐIỂM": "4.25"
+        },
+        {
+            "SBD": "313044",
+            "HỌ VÀ TÊN": "tnmaker",
+            "MÃ ĐỀ": "138",
+            "ĐIỂM": "6.00"
+        },
+        {
+            "SBD": "313045",
+            "HỌ VÀ TÊN": "tnmaker",
+            "MÃ ĐỀ": "207",
+            "ĐIỂM": "3.50"
+        },
+        {
+            "SBD": "313046",
+            "ĐIỂM": "-1.00"
+        },
+        {
+            "SBD": "313047",
+            "HỌ VÀ TÊN": "tnmaker",
+            "MÃ ĐỀ": "356",
+            "ĐIỂM": "4.00"
+        },
+        {
+            "SBD": "313048",
+            "ĐIỂM": "-1.00"
+        },
+        {
+            "SBD": "313049",
+            "HỌ VÀ TÊN": "tnmaker",
+            "MÃ ĐỀ": "207",
+            "ĐIỂM": "5.25"
+        },
+        {
+            "SBD": "313050",
+            "HỌ VÀ TÊN": "tnmaker",
+            "MÃ ĐỀ": "482",
+            "ĐIỂM": "6.75"
+        },
+        {
+            "SBD": "313051",
+            "HỌ VÀ TÊN": "tnmaker",
+            "MÃ ĐỀ": "356",
+            "ĐIỂM": "6.75"
+        },
+        {
+            "SBD": "313052",
+            "HỌ VÀ TÊN": "tnmaker",
+            "MÃ ĐỀ": "138",
+            "ĐIỂM": "5.75"
+        },
+        {
+            "SBD": "313053",
+            "HỌ VÀ TÊN": "tnmaker",
+            "MÃ ĐỀ": "207",
+            "ĐIỂM": "6.50"
+        },
+        {
+            "SBD": "313054",
+            "HỌ VÀ TÊN": "tnmaker",
+            "MÃ ĐỀ": "482",
+            "ĐIỂM": "3.75"
+        },
+        {
+            "SBD": "313055",
+            "HỌ VÀ TÊN": "tnmaker",
+            "MÃ ĐỀ": "482",
+            "ĐIỂM": "5.75"
+        },
+        {
+            "SBD": "313056",
+            "HỌ VÀ TÊN": "tnmaker",
+            "MÃ ĐỀ": "207",
+            "ĐIỂM": "5.25"
+        },
+        {
+            "SBD": "313057",
+            "HỌ VÀ TÊN": "tnmaker",
+            "MÃ ĐỀ": "138",
+            "ĐIỂM": "5.00"
+        },
+        {
+            "SBD": "313058",
+            "HỌ VÀ TÊN": "tnmaker",
+            "MÃ ĐỀ": "356",
+            "ĐIỂM": "6.25"
+        },
+        {
+            "SBD": "313059",
+            "HỌ VÀ TÊN": "tnmaker",
+            "MÃ ĐỀ": "482",
+            "ĐIỂM": "6.00"
+        },
+        {
+            "SBD": "313060",
+            "HỌ VÀ TÊN": "tnmaker",
+            "MÃ ĐỀ": "207",
+            "ĐIỂM": "3.75"
+        },
+        {
+            "SBD": "313061",
+            "HỌ VÀ TÊN": "tnmaker",
+            "MÃ ĐỀ": "138",
+            "ĐIỂM": "5.00"
+        },
+        {
+            "SBD": "313062",
+            "HỌ VÀ TÊN": "tnmaker",
+            "MÃ ĐỀ": "356",
+            "ĐIỂM": "4.75"
+        },
+        {
+            "SBD": "313063",
+            "ĐIỂM": "-1.00"
+        },
+        {
+            "SBD": "313064",
+            "HỌ VÀ TÊN": "tnmaker",
+            "MÃ ĐỀ": "207",
+            "ĐIỂM": "7.50"
+        },
+        {
+            "SBD": "313065",
+            "ĐIỂM": "-1.00"
+        },
+        {
+            "SBD": "313066",
+            "ĐIỂM": "-1.00"
+        },
+        {
+            "SBD": "313067",
+            "HỌ VÀ TÊN": "tnmaker",
+            "MÃ ĐỀ": "138",
+            "ĐIỂM": "5.75"
+        },
+        {
+            "SBD": "313068",
+            "HỌ VÀ TÊN": "tnmaker",
+            "MÃ ĐỀ": "207",
+            "ĐIỂM": "4.00"
+        },
+        {
+            "SBD": "313069",
+            "HỌ VÀ TÊN": "tnmaker",
+            "MÃ ĐỀ": "482",
+            "ĐIỂM": "7.00"
+        },
+        {
+            "SBD": "313070",
+            "ĐIỂM": "-1.00"
+        },
+        {
+            "SBD": "313071",
+            "HỌ VÀ TÊN": "tnmaker",
+            "MÃ ĐỀ": "356",
+            "ĐIỂM": "5.25"
+        },
+        {
+            "SBD": "313072",
+            "ĐIỂM": "-1.00"
+        },
+        {
+            "SBD": "313073",
+            "HỌ VÀ TÊN": "tnmaker",
+            "MÃ ĐỀ": "207",
+            "ĐIỂM": "6.75"
+        },
+        {
+            "SBD": "313074",
+            "ĐIỂM": "-1.00"
+        },
+        {
+            "SBD": "313075",
+            "HỌ VÀ TÊN": "tnmaker",
+            "MÃ ĐỀ": "482",
+            "ĐIỂM": "5.50"
+        },
+        {
+            "SBD": "313076",
+            "HỌ VÀ TÊN": "tnmaker",
+            "MÃ ĐỀ": "207",
+            "ĐIỂM": "7.00"
+        },
+        {
+            "SBD": "313077",
+            "ĐIỂM": "-1.00"
+        },
+        {
+            "SBD": "313078",
+            "HỌ VÀ TÊN": "tnmaker",
+            "MÃ ĐỀ": "356",
+            "ĐIỂM": "4.50"
+        },
+        {
+            "SBD": "313079",
+            "HỌ VÀ TÊN": "tnmaker",
+            "MÃ ĐỀ": "245",
+            "ĐIỂM": "6.00"
+        },
+        {
+            "SBD": "313080",
+            "ĐIỂM": "-1.00"
+        },
+        {
+            "SBD": "313081",
+            "HỌ VÀ TÊN": "tnmaker",
+            "MÃ ĐỀ": "326",
+            "ĐIỂM": "8.25"
+        },
+        {
+            "SBD": "313082",
+            "HỌ VÀ TÊN": "tnmaker",
+            "MÃ ĐỀ": "482",
+            "ĐIỂM": "4.00"
+        },
+        {
+            "SBD": "313083",
+            "HỌ VÀ TÊN": "tnmaker",
+            "MÃ ĐỀ": "356",
+            "ĐIỂM": "6.00"
+        },
+        {
+            "SBD": "313084",
+            "HỌ VÀ TÊN": "tnmaker",
+            "MÃ ĐỀ": "482",
+            "ĐIỂM": "5.00"
+        },
+        {
+            "SBD": "313085",
+            "HỌ VÀ TÊN": "tnmaker",
+            "MÃ ĐỀ": "138",
+            "ĐIỂM": "6.75"
+        },
+        {
+            "SBD": "313086",
+            "HỌ VÀ TÊN": "tnmaker",
+            "MÃ ĐỀ": "207",
+            "ĐIỂM": "6.75"
+        },
+        {
+            "SBD": "313087",
+            "ĐIỂM": "-1.00"
+        },
+        {
+            "SBD": "313088",
+            "HỌ VÀ TÊN": "tnmaker",
+            "MÃ ĐỀ": "207",
+            "ĐIỂM": "6.50"
+        },
+        {
+            "SBD": "313089",
+            "HỌ VÀ TÊN": "tnmaker",
+            "MÃ ĐỀ": "356",
+            "ĐIỂM": "5.50"
+        },
+        {
+            "SBD": "313091",
+            "HỌ VÀ TÊN": "tnmaker",
+            "MÃ ĐỀ": "207",
+            "ĐIỂM": "4.50"
+        },
+        {
+            "SBD": "313092",
+            "HỌ VÀ TÊN": "tnmaker",
+            "MÃ ĐỀ": "482",
+            "ĐIỂM": "4.50"
+        },
+        {
+            "SBD": "313093",
+            "ĐIỂM": "-1.00"
+        },
+        {
+            "SBD": "313094",
+            "HỌ VÀ TÊN": "tnmaker",
+            "MÃ ĐỀ": "356",
+            "ĐIỂM": "4.50"
+        },
+        {
+            "SBD": "313095",
+            "HỌ VÀ TÊN": "tnmaker",
+            "MÃ ĐỀ": "493",
+            "ĐIỂM": "5.25"
+        },
+        {
+            "SBD": "313096",
+            "HỌ VÀ TÊN": "tnmaker",
+            "MÃ ĐỀ": "493",
+            "ĐIỂM": "7.75"
+        },
+        {
+            "SBD": "313097",
+            "HỌ VÀ TÊN": "tnmaker",
+            "MÃ ĐỀ": "169",
+            "ĐIỂM": "6.25"
+        },
+        {
+            "SBD": "313099",
+            "HỌ VÀ TÊN": "tnmaker",
+            "MÃ ĐỀ": "493",
+            "ĐIỂM": "6.75"
+        },
+        {
+            "SBD": "313090",
+            "HỌ VÀ TÊN": "tnmaker",
+            "MÃ ĐỀ": "482",
+            "ĐIỂM": "6.00"
+        },
+        {
+            "SBD": "-----9",
+            "HỌ VÀ TÊN": "tnmaker",
+            "MÃ ĐỀ": "-5-",
+            "ĐIỂM": "0.00"
+        },
+        {
+            "SBD": "303039",
+            "ĐIỂM": "-1.00"
+        },
+        {
+            "SBD": "303010",
+            "ĐIỂM": "-1.00"
+        },
+        {
+            "SBD": "303038",
+            "ĐIỂM": "-1.00"
+        },
+        {
+            "SBD": "303055",
+            "ĐIỂM": "-1.00"
+        },
+        {
+            "SBD": "303057",
+            "ĐIỂM": "-1.00"
+        },
+        {
+            "SBD": "313040",
+            "ĐIỂM": "-1.00"
+        },
+        {
+            "SBD": "313042",
+            "ĐIỂM": "-1.00"
+        }
+    ],
+    "Sheet2": [
+        {
+            "SỐ BÁO DANH": "313096",
+            "HỌ VÀ TÊN": "tnmaker",
+            "MÃ ĐỀ": "493",
+            "ĐIỂM": "7.75"
+        },
+        {
+            "SỐ BÁO DANH": "313027",
+            "HỌ VÀ TÊN": "tnmaker",
+            "MÃ ĐỀ": "245",
+            "ĐIỂM": "5"
+        },
+        {
+            "SỐ BÁO DANH": "313029",
+            "HỌ VÀ TÊN": "tnmaker",
+            "MÃ ĐỀ": "169",
+            "ĐIỂM": "6.25"
+        },
+        {
+            "SỐ BÁO DANH": "313034",
+            "HỌ VÀ TÊN": "tnmaker",
+            "MÃ ĐỀ": "493",
+            "ĐIỂM": "6.25"
+        },
+        {
+            "SỐ BÁO DANH": "313035",
+            "HỌ VÀ TÊN": "tnmaker",
+            "MÃ ĐỀ": "326",
+            "ĐIỂM": "7.25"
+        },
+        {
+            "SỐ BÁO DANH": "313036",
+            "HỌ VÀ TÊN": "tnmaker",
+            "MÃ ĐỀ": "169",
+            "ĐIỂM": "6.75"
+        },
+        {
+            "SỐ BÁO DANH": "303027",
+            "HỌ VÀ TÊN": "tnmaker",
+            "MÃ ĐỀ": "326",
+            "ĐIỂM": "6.75"
+        },
+        {
+            "SỐ BÁO DANH": "313095",
+            "HỌ VÀ TÊN": "tnmaker",
+            "MÃ ĐỀ": "493",
+            "ĐIỂM": "5.25"
+        },
+        {
+            "SỐ BÁO DANH": "313024",
+            "HỌ VÀ TÊN": "tnmaker",
+            "MÃ ĐỀ": "169",
+            "ĐIỂM": "7.75"
+        },
+        {
+            "SỐ BÁO DANH": "313023",
+            "HỌ VÀ TÊN": "tnmaker",
+            "MÃ ĐỀ": "245",
+            "ĐIỂM": "4.5"
+        },
+        {
+            "SỐ BÁO DANH": "313026",
+            "HỌ VÀ TÊN": "tnmaker",
+            "MÃ ĐỀ": "169",
+            "ĐIỂM": "7"
+        },
+        {
+            "SỐ BÁO DANH": "313022",
+            "HỌ VÀ TÊN": "tnmaker",
+            "MÃ ĐỀ": "493",
+            "ĐIỂM": "5.75"
+        },
+        {
+            "SỐ BÁO DANH": "313025",
+            "HỌ VÀ TÊN": "tnmaker",
+            "MÃ ĐỀ": "245",
+            "ĐIỂM": "7.25"
+        },
+        {
+            "SỐ BÁO DANH": "313021",
+            "HỌ VÀ TÊN": "tnmaker",
+            "MÃ ĐỀ": "326",
+            "ĐIỂM": "6"
+        },
+        {
+            "SỐ BÁO DANH": "313030",
+            "HỌ VÀ TÊN": "tnmaker",
+            "MÃ ĐỀ": "245",
+            "ĐIỂM": "7.75"
+        },
+        {
+            "SỐ BÁO DANH": "313009",
+            "HỌ VÀ TÊN": "tnmaker",
+            "MÃ ĐỀ": "169",
+            "ĐIỂM": "6.75"
+        },
+        {
+            "SỐ BÁO DANH": "313009",
+            "HỌ VÀ TÊN": "tnmaker",
+            "MÃ ĐỀ": "169",
+            "ĐIỂM": "6.75"
+        },
+        {
+            "SỐ BÁO DANH": "313001",
+            "HỌ VÀ TÊN": "tnmaker",
+            "MÃ ĐỀ": "493",
+            "ĐIỂM": "7.75"
+        },
+        {
+            "SỐ BÁO DANH": "313010",
+            "HỌ VÀ TÊN": "tnmaker",
+            "MÃ ĐỀ": "245",
+            "ĐIỂM": "4.5"
+        },
+        {
+            "SỐ BÁO DANH": "313003",
+            "HỌ VÀ TÊN": "tnmaker",
+            "MÃ ĐỀ": "169",
+            "ĐIỂM": "7.25"
+        },
+        {
+            "SỐ BÁO DANH": "313011",
+            "HỌ VÀ TÊN": "tnmaker",
+            "MÃ ĐỀ": "493",
+            "ĐIỂM": "5.75"
+        },
+        {
+            "SỐ BÁO DANH": "313012",
+            "HỌ VÀ TÊN": "tnmaker",
+            "MÃ ĐỀ": "493",
+            "ĐIỂM": "5.25"
+        },
+        {
+            "SỐ BÁO DANH": "313004",
+            "HỌ VÀ TÊN": "tnmaker",
+            "MÃ ĐỀ": "245",
+            "ĐIỂM": "5.5"
+        },
+        {
+            "SỐ BÁO DANH": "313013",
+            "HỌ VÀ TÊN": "tnmaker",
+            "MÃ ĐỀ": "169",
+            "ĐIỂM": "8.75"
+        },
+        {
+            "SỐ BÁO DANH": "313006",
+            "HỌ VÀ TÊN": "tnmaker",
+            "MÃ ĐỀ": "326",
+            "ĐIỂM": "6.75"
+        },
+        {
+            "SỐ BÁO DANH": "313015",
+            "HỌ VÀ TÊN": "tnmaker",
+            "MÃ ĐỀ": "245",
+            "ĐIỂM": "6"
+        },
+        {
+            "SỐ BÁO DANH": "303069",
+            "HỌ VÀ TÊN": "tnmaker",
+            "MÃ ĐỀ": "493",
+            "ĐIỂM": "4.25"
+        },
+        {
+            "SỐ BÁO DANH": "313099",
+            "HỌ VÀ TÊN": "tnmaker",
+            "MÃ ĐỀ": "493",
+            "ĐIỂM": "6.75"
+        },
+        {
+            "SỐ BÁO DANH": "313017",
+            "HỌ VÀ TÊN": "tnmaker",
+            "MÃ ĐỀ": "169",
+            "ĐIỂM": "3"
+        },
+        {
+            "SỐ BÁO DANH": "313018",
+            "HỌ VÀ TÊN": "tnmaker",
+            "MÃ ĐỀ": "326",
+            "ĐIỂM": "6"
+        },
+        {
+            "SỐ BÁO DANH": "313019",
+            "HỌ VÀ TÊN": "tnmaker",
+            "MÃ ĐỀ": "245",
+            "ĐIỂM": "7"
+        },
+        {
+            "SỐ BÁO DANH": "313020",
+            "HỌ VÀ TÊN": "tnmaker",
+            "MÃ ĐỀ": "326",
+            "ĐIỂM": "6.25"
+        },
+        {
+            "SỐ BÁO DANH": "313079",
+            "HỌ VÀ TÊN": "tnmaker",
+            "MÃ ĐỀ": "245",
+            "ĐIỂM": "6"
+        },
+        {
+            "SỐ BÁO DANH": "303012",
+            "HỌ VÀ TÊN": "tnmaker",
+            "MÃ ĐỀ": "326",
+            "ĐIỂM": "5.75"
+        },
+        {
+            "SỐ BÁO DANH": "313014",
+            "HỌ VÀ TÊN": "tnmaker",
+            "MÃ ĐỀ": "493",
+            "ĐIỂM": "7"
+        },
+        {
+            "SỐ BÁO DANH": "313081",
+            "HỌ VÀ TÊN": "tnmaker",
+            "MÃ ĐỀ": "326",
+            "ĐIỂM": "8.25"
+        },
+        {
+            "SỐ BÁO DANH": "313097",
+            "HỌ VÀ TÊN": "tnmaker",
+            "MÃ ĐỀ": "169",
+            "ĐIỂM": "6.25"
+        },
+        {
+            "SỐ BÁO DANH": "303016",
+            "HỌ VÀ TÊN": "tnmaker",
+            "MÃ ĐỀ": "245",
+            "ĐIỂM": "7.25"
+        },
+        {
+            "SỐ BÁO DANH": "313016",
+            "HỌ VÀ TÊN": "tnmaker",
+            "MÃ ĐỀ": "169",
+            "ĐIỂM": "6.5"
+        },
+        {
+            "SỐ BÁO DANH": "313013",
+            "HỌ VÀ TÊN": "tnmaker",
+            "MÃ ĐỀ": "169",
+            "ĐIỂM": "8.75"
+        }
+    ],
+    "Sheet3": [
+        {
+            "MÔN HỌC": "Mã 001-30/03",
+            "HỌ VÀ TÊN": "tnmaker",
+            "SỐ BÁO DANH": "303029",
+            "MÃ ĐỀ": "486",
+            "ĐIỂM": "5.25"
+        },
+        {
+            "MÔN HỌC": "Mã 001-30/03",
+            "HỌ VÀ TÊN": "tnmaker",
+            "SỐ BÁO DANH": "303028",
+            "MÃ ĐỀ": "137",
+            "ĐIỂM": "3.25"
+        },
+        {
+            "MÔN HỌC": "Mã 001-30/03",
+            "HỌ VÀ TÊN": "tnmaker",
+            "SỐ BÁO DANH": "303026",
+            "MÃ ĐỀ": "20-",
+            "ĐIỂM": "0"
+        },
+        {
+            "MÔN HỌC": "Mã 001-30/03",
+            "HỌ VÀ TÊN": "tnmaker",
+            "SỐ BÁO DANH": "303026",
+            "MÃ ĐỀ": "208",
+            "ĐIỂM": "4.75"
+        },
+        {
+            "MÔN HỌC": "Mã 001-30/03",
+            "HỌ VÀ TÊN": "tnmaker",
+            "SỐ BÁO DANH": "303025",
+            "MÃ ĐỀ": "137",
+            "ĐIỂM": "3.75"
+        },
+        {
+            "MÔN HỌC": "Mã 001-30/03",
+            "HỌ VÀ TÊN": "tnmaker",
+            "SỐ BÁO DANH": "303024",
+            "MÃ ĐỀ": "486",
+            "ĐIỂM": "5.25"
+        },
+        {
+            "MÔN HỌC": "Mã 001-30/03",
+            "HỌ VÀ TÊN": "tnmaker",
+            "SỐ BÁO DANH": "303023",
+            "MÃ ĐỀ": "208",
+            "ĐIỂM": "4"
+        },
+        {
+            "MÔN HỌC": "Mã 001-30/03",
+            "HỌ VÀ TÊN": "tnmaker",
+            "SỐ BÁO DANH": "303022",
+            "MÃ ĐỀ": "359",
+            "ĐIỂM": "3.75"
+        },
+        {
+            "MÔN HỌC": "Mã 001-30/03",
+            "HỌ VÀ TÊN": "tnmaker",
+            "SỐ BÁO DANH": "303021",
+            "MÃ ĐỀ": "137",
+            "ĐIỂM": "3"
+        },
+        {
+            "MÔN HỌC": "Mã 001-30/03",
+            "HỌ VÀ TÊN": "tnmaker",
+            "SỐ BÁO DANH": "303030",
+            "MÃ ĐỀ": "359",
+            "ĐIỂM": "2.25"
+        },
+        {
+            "MÔN HỌC": "Mã 001-30/03",
+            "HỌ VÀ TÊN": "tnmaker",
+            "SỐ BÁO DANH": "303078",
+            "MÃ ĐỀ": "137",
+            "ĐIỂM": "4"
+        },
+        {
+            "MÔN HỌC": "Mã 001-30/03",
+            "HỌ VÀ TÊN": "tnmaker",
+            "SỐ BÁO DANH": "313031",
+            "MÃ ĐỀ": "486",
+            "ĐIỂM": "3.5"
+        },
+        {
+            "MÔN HỌC": "Mã 001-30/03",
+            "HỌ VÀ TÊN": "tnmaker",
+            "SỐ BÁO DANH": "303032",
+            "MÃ ĐỀ": "359",
+            "ĐIỂM": "4"
+        },
+        {
+            "MÔN HỌC": "Mã 001-30/03",
+            "HỌ VÀ TÊN": "tnmaker",
+            "SỐ BÁO DANH": "303031",
+            "MÃ ĐỀ": "208",
+            "ĐIỂM": "5"
+        },
+        {
+            "MÔN HỌC": "Mã 001-30/03",
+            "HỌ VÀ TÊN": "tnmaker",
+            "SỐ BÁO DANH": "303019",
+            "MÃ ĐỀ": "137",
+            "ĐIỂM": "4.5"
+        },
+        {
+            "MÔN HỌC": "Mã 001-30/03",
+            "HỌ VÀ TÊN": "tnmaker",
+            "SỐ BÁO DANH": "303018",
+            "MÃ ĐỀ": "208",
+            "ĐIỂM": "4.25"
+        },
+        {
+            "MÔN HỌC": "Mã 001-30/03",
+            "HỌ VÀ TÊN": "tnmaker",
+            "SỐ BÁO DANH": "303017",
+            "MÃ ĐỀ": "359",
+            "ĐIỂM": "4"
+        },
+        {
+            "MÔN HỌC": "Mã 001-30/03",
+            "HỌ VÀ TÊN": "tnmaker",
+            "SỐ BÁO DANH": "303015",
+            "MÃ ĐỀ": "486",
+            "ĐIỂM": "2.75"
+        },
+        {
+            "MÔN HỌC": "Mã 001-30/03",
+            "HỌ VÀ TÊN": "tnmaker",
+            "SỐ BÁO DANH": "303014",
+            "MÃ ĐỀ": "137",
+            "ĐIỂM": "4.25"
+        },
+        {
+            "MÔN HỌC": "Mã 001-30/03",
+            "HỌ VÀ TÊN": "tnmaker",
+            "SỐ BÁO DANH": "303013",
+            "MÃ ĐỀ": "208",
+            "ĐIỂM": "4.25"
+        },
+        {
+            "MÔN HỌC": "Mã 001-30/03",
+            "HỌ VÀ TÊN": "tnmaker",
+            "SỐ BÁO DANH": "303011",
+            "MÃ ĐỀ": "208",
+            "ĐIỂM": "5"
+        },
+        {
+            "MÔN HỌC": "Mã 001-30/03",
+            "HỌ VÀ TÊN": "tnmaker",
+            "SỐ BÁO DANH": "303009",
+            "MÃ ĐỀ": "208",
+            "ĐIỂM": "4.75"
+        },
+        {
+            "MÔN HỌC": "Mã 001-30/03",
+            "HỌ VÀ TÊN": "tnmaker",
+            "SỐ BÁO DANH": "303008",
+            "MÃ ĐỀ": "208",
+            "ĐIỂM": "5"
+        },
+        {
+            "MÔN HỌC": "Mã 001-30/03",
+            "HỌ VÀ TÊN": "tnmaker",
+            "SỐ BÁO DANH": "303007",
+            "MÃ ĐỀ": "359",
+            "ĐIỂM": "4"
+        },
+        {
+            "MÔN HỌC": "Mã 001-30/03",
+            "HỌ VÀ TÊN": "tnmaker",
+            "SỐ BÁO DANH": "303006",
+            "MÃ ĐỀ": "486",
+            "ĐIỂM": "5.25"
+        },
+        {
+            "MÔN HỌC": "Mã 001-30/03",
+            "HỌ VÀ TÊN": "tnmaker",
+            "SỐ BÁO DANH": "303005",
+            "MÃ ĐỀ": "137",
+            "ĐIỂM": "6"
+        },
+        {
+            "MÔN HỌC": "Mã 001-30/03",
+            "HỌ VÀ TÊN": "tnmaker",
+            "SỐ BÁO DANH": "303004",
+            "MÃ ĐỀ": "486",
+            "ĐIỂM": "4.75"
+        },
+        {
+            "MÔN HỌC": "Mã 001-30/03",
+            "HỌ VÀ TÊN": "tnmaker",
+            "SỐ BÁO DANH": "303003",
+            "MÃ ĐỀ": "137",
+            "ĐIỂM": "4.5"
+        },
+        {
+            "MÔN HỌC": "Mã 001-30/03",
+            "HỌ VÀ TÊN": "tnmaker",
+            "SỐ BÁO DANH": "303002",
+            "MÃ ĐỀ": "486",
+            "ĐIỂM": "5.5"
+        },
+        {
+            "MÔN HỌC": "Mã 001-30/03",
+            "HỌ VÀ TÊN": "tnmaker",
+            "SỐ BÁO DANH": "303001",
+            "MÃ ĐỀ": "359",
+            "ĐIỂM": "3.25"
+        }
+    ],
+    "Sheet4": [
+        {
+            "MÔN HỌC": "Mã 002-30/03",
+            "HỌ VÀ TÊN": "tnmaker",
+            "SỐ BÁO DANH": "303033",
+            "MÃ ĐỀ": "483",
+            "ĐIỂM": "4.75"
+        },
+        {
+            "MÔN HỌC": "Mã 002-30/03",
+            "HỌ VÀ TÊN": "tnmaker",
+            "SỐ BÁO DANH": "-----9",
+            "MÃ ĐỀ": "-5-",
+            "ĐIỂM": "0"
+        },
+        {
+            "MÔN HỌC": "Mã 002-30/03",
+            "HỌ VÀ TÊN": "tnmaker",
+            "SỐ BÁO DANH": "303040",
+            "MÃ ĐỀ": "136",
+            "ĐIỂM": "3.75"
+        },
+        {
+            "MÔN HỌC": "Mã 002-30/03",
+            "HỌ VÀ TÊN": "tnmaker",
+            "SỐ BÁO DANH": "303041",
+            "MÃ ĐỀ": "210",
+            "ĐIỂM": "5"
+        },
+        {
+            "MÔN HỌC": "Mã 002-30/03",
+            "HỌ VÀ TÊN": "tnmaker",
+            "SỐ BÁO DANH": "303044",
+            "MÃ ĐỀ": "483",
+            "ĐIỂM": "2.75"
+        },
+        {
+            "MÔN HỌC": "Mã 002-30/03",
+            "HỌ VÀ TÊN": "tnmaker",
+            "SỐ BÁO DANH": "303042",
+            "MÃ ĐỀ": "358",
+            "ĐIỂM": "5.5"
+        },
+        {
+            "MÔN HỌC": "Mã 002-30/03",
+            "HỌ VÀ TÊN": "tnmaker",
+            "SỐ BÁO DANH": "303043",
+            "MÃ ĐỀ": "483",
+            "ĐIỂM": "2.5"
+        },
+        {
+            "MÔN HỌC": "Mã 002-30/03",
+            "HỌ VÀ TÊN": "tnmaker",
+            "SỐ BÁO DANH": "303053",
+            "MÃ ĐỀ": "210",
+            "ĐIỂM": "4.5"
+        },
+        {
+            "MÔN HỌC": "Mã 002-30/03",
+            "HỌ VÀ TÊN": "tnmaker",
+            "SỐ BÁO DANH": "303050",
+            "MÃ ĐỀ": "358",
+            "ĐIỂM": "5"
+        },
+        {
+            "MÔN HỌC": "Mã 002-30/03",
+            "HỌ VÀ TÊN": "tnmaker",
+            "SỐ BÁO DANH": "303051",
+            "MÃ ĐỀ": "210",
+            "ĐIỂM": "4.25"
+        },
+        {
+            "MÔN HỌC": "Mã 002-30/03",
+            "HỌ VÀ TÊN": "tnmaker",
+            "SỐ BÁO DANH": "303052",
+            "MÃ ĐỀ": "136",
+            "ĐIỂM": "5.5"
+        },
+        {
+            "MÔN HỌC": "Mã 002-30/03",
+            "HỌ VÀ TÊN": "tnmaker",
+            "SỐ BÁO DANH": "303054",
+            "MÃ ĐỀ": "358",
+            "ĐIỂM": "3.5"
+        },
+        {
+            "MÔN HỌC": "Mã 002-30/03",
+            "HỌ VÀ TÊN": "tnmaker",
+            "SỐ BÁO DANH": "303063",
+            "MÃ ĐỀ": "358",
+            "ĐIỂM": "5"
+        },
+        {
+            "MÔN HỌC": "Mã 002-30/03",
+            "HỌ VÀ TÊN": "tnmaker",
+            "SỐ BÁO DANH": "303061",
+            "MÃ ĐỀ": "483",
+            "ĐIỂM": "2.75"
+        },
+        {
+            "MÔN HỌC": "Mã 002-30/03",
+            "HỌ VÀ TÊN": "tnmaker",
+            "SỐ BÁO DANH": "303060",
+            "MÃ ĐỀ": "136",
+            "ĐIỂM": "6.75"
+        },
+        {
+            "MÔN HỌC": "Mã 002-30/03",
+            "HỌ VÀ TÊN": "tnmaker",
+            "SỐ BÁO DANH": "303034",
+            "MÃ ĐỀ": "210",
+            "ĐIỂM": "5"
+        },
+        {
+            "MÔN HỌC": "Mã 002-30/03",
+            "HỌ VÀ TÊN": "tnmaker",
+            "SỐ BÁO DANH": "303071",
+            "MÃ ĐỀ": "210",
+            "ĐIỂM": "6"
+        },
+        {
+            "MÔN HỌC": "Mã 002-30/03",
+            "HỌ VÀ TÊN": "tnmaker",
+            "SỐ BÁO DANH": "303070",
+            "MÃ ĐỀ": "358",
+            "ĐIỂM": "4"
+        },
+        {
+            "MÔN HỌC": "Mã 002-30/03",
+            "HỌ VÀ TÊN": "tnmaker",
+            "SỐ BÁO DANH": "303075",
+            "MÃ ĐỀ": "358",
+            "ĐIỂM": "4.5"
+        },
+        {
+            "MÔN HỌC": "Mã 002-30/03",
+            "HỌ VÀ TÊN": "tnmaker",
+            "SỐ BÁO DANH": "303035",
+            "MÃ ĐỀ": "136",
+            "ĐIỂM": "4.5"
+        },
+        {
+            "MÔN HỌC": "Mã 002-30/03",
+            "HỌ VÀ TÊN": "tnmaker",
+            "SỐ BÁO DANH": "303076",
+            "MÃ ĐỀ": "483",
+            "ĐIỂM": "5"
+        },
+        {
+            "MÔN HỌC": "Mã 002-30/03",
+            "HỌ VÀ TÊN": "tnmaker",
+            "SỐ BÁO DANH": "303056",
+            "MÃ ĐỀ": "136",
+            "ĐIỂM": "4"
+        },
+        {
+            "MÔN HỌC": "Mã 002-30/03",
+            "HỌ VÀ TÊN": "tnmaker",
+            "SỐ BÁO DANH": "303062",
+            "MÃ ĐỀ": "483",
+            "ĐIỂM": "4.5"
+        },
+        {
+            "MÔN HỌC": "Mã 002-30/03",
+            "HỌ VÀ TÊN": "tnmaker",
+            "SỐ BÁO DANH": "303072",
+            "MÃ ĐỀ": "483",
+            "ĐIỂM": "6.75"
+        },
+        {
+            "MÔN HỌC": "Mã 002-30/03",
+            "HỌ VÀ TÊN": "tnmaker",
+            "SỐ BÁO DANH": "303066",
+            "MÃ ĐỀ": "358",
+            "ĐIỂM": "6.25"
+        },
+        {
+            "MÔN HỌC": "Mã 002-30/03",
+            "HỌ VÀ TÊN": "tnmaker",
+            "SỐ BÁO DANH": "303074",
+            "MÃ ĐỀ": "483",
+            "ĐIỂM": "5.75"
+        },
+        {
+            "MÔN HỌC": "Mã 002-30/03",
+            "HỌ VÀ TÊN": "tnmaker",
+            "SỐ BÁO DANH": "303068",
+            "MÃ ĐỀ": "136",
+            "ĐIỂM": "6.25"
+        },
+        {
+            "MÔN HỌC": "Mã 002-30/03",
+            "HỌ VÀ TÊN": "tnmaker",
+            "SỐ BÁO DANH": "303067",
+            "MÃ ĐỀ": "210",
+            "ĐIỂM": "4.75"
+        },
+        {
+            "MÔN HỌC": "Mã 002-30/03",
+            "HỌ VÀ TÊN": "tnmaker",
+            "SỐ BÁO DANH": "303073",
+            "MÃ ĐỀ": "136",
+            "ĐIỂM": "5.25"
+        },
+        {
+            "MÔN HỌC": "Mã 002-30/03",
+            "HỌ VÀ TÊN": "tnmaker",
+            "SỐ BÁO DANH": "303064",
+            "MÃ ĐỀ": "483",
+            "ĐIỂM": "5"
+        },
+        {
+            "MÔN HỌC": "Mã 002-30/03",
+            "HỌ VÀ TÊN": "tnmaker",
+            "SỐ BÁO DANH": "303065",
+            "MÃ ĐỀ": "136",
+            "ĐIỂM": "4.5"
+        },
+        {
+            "MÔN HỌC": "Mã 002-30/03",
+            "HỌ VÀ TÊN": "tnmaker",
+            "SỐ BÁO DANH": "303059",
+            "MÃ ĐỀ": "210",
+            "ĐIỂM": "4"
+        },
+        {
+            "MÔN HỌC": "Mã 002-30/03",
+            "HỌ VÀ TÊN": "tnmaker",
+            "SỐ BÁO DANH": "303049",
+            "MÃ ĐỀ": "483",
+            "ĐIỂM": "5.5"
+        },
+        {
+            "MÔN HỌC": "Mã 002-30/03",
+            "HỌ VÀ TÊN": "tnmaker",
+            "SỐ BÁO DANH": "303058",
+            "MÃ ĐỀ": "358",
+            "ĐIỂM": "3"
+        },
+        {
+            "MÔN HỌC": "Mã 002-30/03",
+            "HỌ VÀ TÊN": "tnmaker",
+            "SỐ BÁO DANH": "303048",
+            "MÃ ĐỀ": "136",
+            "ĐIỂM": "6.5"
+        },
+        {
+            "MÔN HỌC": "Mã 002-30/03",
+            "HỌ VÀ TÊN": "tnmaker",
+            "SỐ BÁO DANH": "303045",
+            "MÃ ĐỀ": "136",
+            "ĐIỂM": "3"
+        },
+        {
+            "MÔN HỌC": "Mã 002-30/03",
+            "HỌ VÀ TÊN": "tnmaker",
+            "SỐ BÁO DANH": "303036",
+            "MÃ ĐỀ": "210",
+            "ĐIỂM": "4"
+        },
+        {
+            "MÔN HỌC": "Mã 002-30/03",
+            "HỌ VÀ TÊN": "tnmaker",
+            "SỐ BÁO DANH": "303037",
+            "MÃ ĐỀ": "358",
+            "ĐIỂM": "3.75"
+        },
+        {
+            "MÔN HỌC": "Mã 002-30/03",
+            "HỌ VÀ TÊN": "tnmaker",
+            "SỐ BÁO DANH": "303046",
+            "MÃ ĐỀ": "210",
+            "ĐIỂM": "3.75"
+        }
+    ]
+}

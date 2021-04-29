@@ -1,0 +1,3627 @@
+{
+    "136": [
+        {
+            "Câu": "1",
+            "Chủ để": "Dao động cơ",
+            "Điểm": "6",
+            "Dạng bài đặc trưng": "Lý thuyết"
+        },
+        {
+            "Câu": "2",
+            "Chủ để": "Sóng cơ",
+            "Điểm": "6",
+            "Dạng bài đặc trưng": "Lý thuyết"
+        },
+        {
+            "Câu": "3",
+            "Chủ để": "Sóng cơ",
+            "Điểm": "6",
+            "Dạng bài đặc trưng": "Lý thuyết"
+        },
+        {
+            "Câu": "4",
+            "Chủ để": "Dòng điện không đổi",
+            "Điểm": "6",
+            "Dạng bài đặc trưng": "Lý thuyết"
+        },
+        {
+            "Câu": "5",
+            "Chủ để": "Dao động cơ",
+            "Điểm": "6",
+            "Dạng bài đặc trưng": "Lý thuyết"
+        },
+        {
+            "Câu": "6",
+            "Chủ để": "Sóng cơ",
+            "Điểm": "6",
+            "Dạng bài đặc trưng": "Lý thuyết"
+        },
+        {
+            "Câu": "7",
+            "Chủ để": "Sóng ánh sáng",
+            "Điểm": "6",
+            "Dạng bài đặc trưng": "Bài tập"
+        },
+        {
+            "Câu": "8",
+            "Chủ để": "Dao động cơ",
+            "Điểm": "6",
+            "Dạng bài đặc trưng": "Lý thuyết"
+        },
+        {
+            "Câu": "9",
+            "Chủ để": "Sóng ánh sáng",
+            "Điểm": "6",
+            "Dạng bài đặc trưng": "Bài tập"
+        },
+        {
+            "Câu": "10",
+            "Chủ để": "Mạch LC - Sóng điện từ",
+            "Điểm": "6",
+            "Dạng bài đặc trưng": "Lý thuyết"
+        },
+        {
+            "Câu": "11",
+            "Chủ để": "Dao động cơ",
+            "Điểm": "6",
+            "Dạng bài đặc trưng": "Lý thuyết"
+        },
+        {
+            "Câu": "12",
+            "Chủ để": "Điện xoay chiều",
+            "Điểm": "6",
+            "Dạng bài đặc trưng": "Lý thuyết"
+        },
+        {
+            "Câu": "13",
+            "Chủ để": "Mạch LC - Sóng điện từ",
+            "Điểm": "6",
+            "Dạng bài đặc trưng": "Lý thuyết"
+        },
+        {
+            "Câu": "14",
+            "Chủ để": "Điện xoay chiều",
+            "Điểm": "6",
+            "Dạng bài đặc trưng": "Lý thuyết"
+        },
+        {
+            "Câu": "15",
+            "Chủ để": "Sóng ánh sáng",
+            "Điểm": "6",
+            "Dạng bài đặc trưng": "Lý thuyết"
+        },
+        {
+            "Câu": "16",
+            "Chủ để": "Sóng cơ",
+            "Điểm": "6",
+            "Dạng bài đặc trưng": "Lý thuyết"
+        },
+        {
+            "Câu": "17",
+            "Chủ để": "Dao động cơ",
+            "Điểm": "6",
+            "Dạng bài đặc trưng": "Bài tập"
+        },
+        {
+            "Câu": "18",
+            "Chủ để": "Điện xoay chiều",
+            "Điểm": "6",
+            "Dạng bài đặc trưng": "Lý thuyết"
+        },
+        {
+            "Câu": "19",
+            "Chủ để": "Sóng ánh sáng",
+            "Điểm": "7",
+            "Dạng bài đặc trưng": "Bẫy đơn vị "
+        },
+        {
+            "Câu": "20",
+            "Chủ để": "Điện xoay chiều",
+            "Điểm": "7",
+            "Dạng bài đặc trưng": "Bẫy ngôn ngữ "
+        },
+        {
+            "Câu": "21",
+            "Chủ để": "Dao động cơ",
+            "Điểm": "7",
+            "Dạng bài đặc trưng": "Bài tập"
+        },
+        {
+            "Câu": "22",
+            "Chủ để": "Quang học",
+            "Điểm": "6",
+            "Dạng bài đặc trưng": "Bài tập"
+        },
+        {
+            "Câu": "23",
+            "Chủ để": "Dao động cơ",
+            "Điểm": "6",
+            "Dạng bài đặc trưng": "Bài tập"
+        },
+        {
+            "Câu": "24",
+            "Chủ để": "Sóng cơ",
+            "Điểm": "6",
+            "Dạng bài đặc trưng": "Bài tập"
+        },
+        {
+            "Câu": "25",
+            "Chủ để": "Mạch LC - Sóng điện từ",
+            "Điểm": "6",
+            "Dạng bài đặc trưng": "Lý thuyết"
+        },
+        {
+            "Câu": "26",
+            "Chủ để": "Điện tích - Điện trường",
+            "Điểm": "6",
+            "Dạng bài đặc trưng": "Bẫy lý thuyết"
+        },
+        {
+            "Câu": "27",
+            "Chủ để": "Điện xoay chiều",
+            "Điểm": "7",
+            "Dạng bài đặc trưng": "Bẫy ngôn ngữ "
+        },
+        {
+            "Câu": "28",
+            "Chủ để": "Sóng cơ",
+            "Điểm": "6",
+            "Dạng bài đặc trưng": "Bẫy lý thuyết"
+        },
+        {
+            "Câu": "29",
+            "Chủ để": "Điện xoay chiều",
+            "Điểm": "8",
+            "Dạng bài đặc trưng": "Bài tập"
+        },
+        {
+            "Câu": "30",
+            "Chủ để": "Dòng điện không đổi",
+            "Điểm": "8",
+            "Dạng bài đặc trưng": "Bài tập"
+        },
+        {
+            "Câu": "31",
+            "Chủ để": "Sóng cơ",
+            "Điểm": "9",
+            "Dạng bài đặc trưng": "Đồ thị"
+        },
+        {
+            "Câu": "32",
+            "Chủ để": "Sóng ánh sáng",
+            "Điểm": "8",
+            "Dạng bài đặc trưng": "Bài tập"
+        },
+        {
+            "Câu": "33",
+            "Chủ để": "Điện xoay chiều",
+            "Điểm": "9",
+            "Dạng bài đặc trưng": "Bài tập"
+        },
+        {
+            "Câu": "34",
+            "Chủ để": "Sóng cơ",
+            "Điểm": "9",
+            "Dạng bài đặc trưng": "Bài tập"
+        },
+        {
+            "Câu": "35",
+            "Chủ để": "Sóng cơ",
+            "Điểm": "8",
+            "Dạng bài đặc trưng": "Bài tập"
+        },
+        {
+            "Câu": "36",
+            "Chủ để": "Dao động cơ",
+            "Điểm": "10",
+            "Dạng bài đặc trưng": "Bài tập khó"
+        },
+        {
+            "Câu": "37",
+            "Chủ để": "Sóng cơ",
+            "Điểm": "10",
+            "Dạng bài đặc trưng": "Bài tập khó"
+        },
+        {
+            "Câu": "38",
+            "Chủ để": "Điện xoay chiều",
+            "Điểm": "10",
+            "Dạng bài đặc trưng": "Bài tập khó"
+        },
+        {
+            "Câu": "39",
+            "Chủ để": "Điện xoay chiều",
+            "Điểm": "10",
+            "Dạng bài đặc trưng": "Bài tập khó"
+        },
+        {
+            "Câu": "40",
+            "Chủ để": "Quang học",
+            "Điểm": "9",
+            "Dạng bài đặc trưng": "Bài tập"
+        }
+    ],
+    "137": [
+        {
+            "Câu": "1",
+            "Chủ để": "Dao động cơ",
+            "Điểm": "6",
+            "Dạng bài đặc trưng": "Lý thuyết"
+        },
+        {
+            "Câu": "2",
+            "Chủ để": "Sóng ánh sáng",
+            "Điểm": "6",
+            "Dạng bài đặc trưng": "Lý thuyết"
+        },
+        {
+            "Câu": "3",
+            "Chủ để": "Sóng cơ",
+            "Điểm": "6",
+            "Dạng bài đặc trưng": "Lý thuyết"
+        },
+        {
+            "Câu": "4",
+            "Chủ để": "Dao động cơ",
+            "Điểm": "6",
+            "Dạng bài đặc trưng": "Bài tập"
+        },
+        {
+            "Câu": "5",
+            "Chủ để": "Dao động cơ",
+            "Điểm": "6",
+            "Dạng bài đặc trưng": "Lý thuyết"
+        },
+        {
+            "Câu": "6",
+            "Chủ để": "Điện xoay chiều",
+            "Điểm": "6",
+            "Dạng bài đặc trưng": "Lý thuyết"
+        },
+        {
+            "Câu": "7",
+            "Chủ để": "Mạch LC - Sóng điện từ",
+            "Điểm": "6",
+            "Dạng bài đặc trưng": "Lý thuyết"
+        },
+        {
+            "Câu": "8",
+            "Chủ để": "Sóng cơ",
+            "Điểm": "6",
+            "Dạng bài đặc trưng": "Lý thuyết"
+        },
+        {
+            "Câu": "9",
+            "Chủ để": "Sóng cơ",
+            "Điểm": "6",
+            "Dạng bài đặc trưng": "Lý thuyết"
+        },
+        {
+            "Câu": "10",
+            "Chủ để": "Điện xoay chiều",
+            "Điểm": "6",
+            "Dạng bài đặc trưng": "Bài tập"
+        },
+        {
+            "Câu": "11",
+            "Chủ để": "Điện xoay chiều",
+            "Điểm": "6",
+            "Dạng bài đặc trưng": "Lý thuyết"
+        },
+        {
+            "Câu": "12",
+            "Chủ để": "Dao động cơ",
+            "Điểm": "6",
+            "Dạng bài đặc trưng": "Lý thuyết"
+        },
+        {
+            "Câu": "13",
+            "Chủ để": "Dao động cơ",
+            "Điểm": "6",
+            "Dạng bài đặc trưng": "Lý thuyết"
+        },
+        {
+            "Câu": "14",
+            "Chủ để": "Mạch LC - Sóng điện từ",
+            "Điểm": "6",
+            "Dạng bài đặc trưng": "Bài tập"
+        },
+        {
+            "Câu": "15",
+            "Chủ để": "Sóng cơ",
+            "Điểm": "6",
+            "Dạng bài đặc trưng": "Bài tập"
+        },
+        {
+            "Câu": "16",
+            "Chủ để": "Điện xoay chiều",
+            "Điểm": "6",
+            "Dạng bài đặc trưng": "Lý thuyết"
+        },
+        {
+            "Câu": "17",
+            "Chủ để": "Sóng ánh sáng",
+            "Điểm": "6",
+            "Dạng bài đặc trưng": "Lý thuyết"
+        },
+        {
+            "Câu": "18",
+            "Chủ để": "Dao động cơ",
+            "Điểm": "6",
+            "Dạng bài đặc trưng": "Bài tập"
+        },
+        {
+            "Câu": "19",
+            "Chủ để": "Dòng điện không đổi",
+            "Điểm": "6",
+            "Dạng bài đặc trưng": "Bài tập"
+        },
+        {
+            "Câu": "20",
+            "Chủ để": "Sóng cơ",
+            "Điểm": "7",
+            "Dạng bài đặc trưng": "Bài tập"
+        },
+        {
+            "Câu": "21",
+            "Chủ để": "Mạch LC - Sóng điện từ",
+            "Điểm": "7",
+            "Dạng bài đặc trưng": "Bài tập"
+        },
+        {
+            "Câu": "22",
+            "Chủ để": "Điện xoay chiều",
+            "Điểm": "6",
+            "Dạng bài đặc trưng": "Bài tập"
+        },
+        {
+            "Câu": "23",
+            "Chủ để": "Sóng cơ",
+            "Điểm": "7",
+            "Dạng bài đặc trưng": "Tính cẩn thận"
+        },
+        {
+            "Câu": "24",
+            "Chủ để": "Sóng ánh sáng",
+            "Điểm": "6",
+            "Dạng bài đặc trưng": "Lý thuyết"
+        },
+        {
+            "Câu": "25",
+            "Chủ để": "Mạch LC - Sóng điện từ",
+            "Điểm": "7",
+            "Dạng bài đặc trưng": "Bài tập"
+        },
+        {
+            "Câu": "26",
+            "Chủ để": "Dao động cơ",
+            "Điểm": "6",
+            "Dạng bài đặc trưng": "Bài tập"
+        },
+        {
+            "Câu": "27",
+            "Chủ để": "Điện xoay chiều",
+            "Điểm": "6",
+            "Dạng bài đặc trưng": "Bài tập"
+        },
+        {
+            "Câu": "28",
+            "Chủ để": "Điện tích - Điện trường",
+            "Điểm": "6",
+            "Dạng bài đặc trưng": "Bài tập"
+        },
+        {
+            "Câu": "29",
+            "Chủ để": "Quang học",
+            "Điểm": "8",
+            "Dạng bài đặc trưng": "Bài tập"
+        },
+        {
+            "Câu": "30",
+            "Chủ để": "Sóng ánh sáng",
+            "Điểm": "9",
+            "Dạng bài đặc trưng": "Bài tập"
+        },
+        {
+            "Câu": "31",
+            "Chủ để": "Sóng cơ",
+            "Điểm": "9",
+            "Dạng bài đặc trưng": "Bài tập"
+        },
+        {
+            "Câu": "32",
+            "Chủ để": "Điện xoay chiều",
+            "Điểm": "9",
+            "Dạng bài đặc trưng": "Bài tập"
+        },
+        {
+            "Câu": "33",
+            "Chủ để": "Sóng cơ",
+            "Điểm": "8",
+            "Dạng bài đặc trưng": "Bài tập"
+        },
+        {
+            "Câu": "34",
+            "Chủ để": "Sóng ánh sáng",
+            "Điểm": "8",
+            "Dạng bài đặc trưng": "Bài tập"
+        },
+        {
+            "Câu": "35",
+            "Chủ để": "Điện xoay chiều",
+            "Điểm": "8",
+            "Dạng bài đặc trưng": "Đồ thị"
+        },
+        {
+            "Câu": "36",
+            "Chủ để": "Dao động cơ",
+            "Điểm": "10",
+            "Dạng bài đặc trưng": "Đồ thị"
+        },
+        {
+            "Câu": "37",
+            "Chủ để": "Điện xoay chiều",
+            "Điểm": "10",
+            "Dạng bài đặc trưng": "Bài tập khó"
+        },
+        {
+            "Câu": "38",
+            "Chủ để": "Dao động cơ",
+            "Điểm": "9",
+            "Dạng bài đặc trưng": "Đồ thị"
+        },
+        {
+            "Câu": "39",
+            "Chủ để": "Điện xoay chiều",
+            "Điểm": "10",
+            "Dạng bài đặc trưng": "Bài tập khó"
+        },
+        {
+            "Câu": "40",
+            "Chủ để": "Sóng cơ",
+            "Điểm": "10",
+            "Dạng bài đặc trưng": "Bài tập khó"
+        }
+    ],
+    "138": [
+        {
+            "Câu": "1",
+            "Chủ để": "Điện xoay chiều",
+            "Điểm": "3",
+            "Dạng bài đặc trưng": "Lý thuyết"
+        },
+        {
+            "Câu": "2",
+            "Chủ để": "Điện xoay chiều",
+            "Điểm": "3",
+            "Dạng bài đặc trưng": "Lý thuyết"
+        },
+        {
+            "Câu": "3",
+            "Chủ để": "Dao động cơ",
+            "Điểm": "3",
+            "Dạng bài đặc trưng": "Lý thuyết"
+        },
+        {
+            "Câu": "4",
+            "Chủ để": "Sóng cơ",
+            "Điểm": "3",
+            "Dạng bài đặc trưng": "Lý thuyết"
+        },
+        {
+            "Câu": "5",
+            "Chủ để": "Dao động cơ",
+            "Điểm": "3",
+            "Dạng bài đặc trưng": "Lý thuyết"
+        },
+        {
+            "Câu": "6",
+            "Chủ để": "Sóng cơ",
+            "Điểm": "3",
+            "Dạng bài đặc trưng": "Lý thuyết"
+        },
+        {
+            "Câu": "7",
+            "Chủ để": "Dao động cơ",
+            "Điểm": "3",
+            "Dạng bài đặc trưng": "Bẫy lý thuyết"
+        },
+        {
+            "Câu": "8",
+            "Chủ để": "Điện xoay chiều",
+            "Điểm": "3",
+            "Dạng bài đặc trưng": "Lý thuyết"
+        },
+        {
+            "Câu": "9",
+            "Chủ để": "Dao động cơ",
+            "Điểm": "3",
+            "Dạng bài đặc trưng": "Lý thuyết"
+        },
+        {
+            "Câu": "10",
+            "Chủ để": "Dao động cơ",
+            "Điểm": "3",
+            "Dạng bài đặc trưng": "Bẫy lý thuyết"
+        },
+        {
+            "Câu": "11",
+            "Chủ để": "Sóng cơ",
+            "Điểm": "3",
+            "Dạng bài đặc trưng": "Lý thuyết"
+        },
+        {
+            "Câu": "12",
+            "Chủ để": "Sóng ánh sáng",
+            "Điểm": "3",
+            "Dạng bài đặc trưng": "Lý thuyết"
+        },
+        {
+            "Câu": "13",
+            "Chủ để": "Điện xoay chiều",
+            "Điểm": "5",
+            "Dạng bài đặc trưng": "Lý thuyết"
+        },
+        {
+            "Câu": "14",
+            "Chủ để": "Mạch LC - Sóng điện từ",
+            "Điểm": "3",
+            "Dạng bài đặc trưng": "Lý thuyết"
+        },
+        {
+            "Câu": "15",
+            "Chủ để": "Mạch LC - Sóng điện từ",
+            "Điểm": "3",
+            "Dạng bài đặc trưng": "Lý thuyết"
+        },
+        {
+            "Câu": "16",
+            "Chủ để": "Mạch LC - Sóng điện từ",
+            "Điểm": "3",
+            "Dạng bài đặc trưng": "Bẫy lý thuyết"
+        },
+        {
+            "Câu": "17",
+            "Chủ để": "Dao động cơ",
+            "Điểm": "3",
+            "Dạng bài đặc trưng": "Lý thuyết"
+        },
+        {
+            "Câu": "18",
+            "Chủ để": "Điện xoay chiều",
+            "Điểm": "3",
+            "Dạng bài đặc trưng": "Bài tập"
+        },
+        {
+            "Câu": "19",
+            "Chủ để": "Sóng cơ",
+            "Điểm": "5",
+            "Dạng bài đặc trưng": "Bài tập"
+        },
+        {
+            "Câu": "20",
+            "Chủ để": "Điện xoay chiều",
+            "Điểm": "3",
+            "Dạng bài đặc trưng": "Lý thuyết"
+        },
+        {
+            "Câu": "21",
+            "Chủ để": "Quang học",
+            "Điểm": "5",
+            "Dạng bài đặc trưng": "Lý thuyết"
+        },
+        {
+            "Câu": "22",
+            "Chủ để": "Điện xoay chiều",
+            "Điểm": "5",
+            "Dạng bài đặc trưng": "Bẫy lý thuyết"
+        },
+        {
+            "Câu": "23",
+            "Chủ để": "Sóng cơ",
+            "Điểm": "3",
+            "Dạng bài đặc trưng": "Bài tập"
+        },
+        {
+            "Câu": "24",
+            "Chủ để": "Điện xoay chiều",
+            "Điểm": "5",
+            "Dạng bài đặc trưng": "Bẫy lý thuyết"
+        },
+        {
+            "Câu": "25",
+            "Chủ để": "Sóng ánh sáng",
+            "Điểm": "7",
+            "Dạng bài đặc trưng": "Lý thuyết"
+        },
+        {
+            "Câu": "26",
+            "Chủ để": "Sóng cơ",
+            "Điểm": "5",
+            "Dạng bài đặc trưng": "Bẫy đơn vị "
+        },
+        {
+            "Câu": "27",
+            "Chủ để": "Dao động cơ",
+            "Điểm": "7",
+            "Dạng bài đặc trưng": "Bài tập"
+        },
+        {
+            "Câu": "28",
+            "Chủ để": "Dao động cơ",
+            "Điểm": "5",
+            "Dạng bài đặc trưng": "Bài tập"
+        },
+        {
+            "Câu": "29",
+            "Chủ để": "Sóng ánh sáng",
+            "Điểm": "3",
+            "Dạng bài đặc trưng": "Lý thuyết"
+        },
+        {
+            "Câu": "30",
+            "Chủ để": "Quang học",
+            "Điểm": "7",
+            "Dạng bài đặc trưng": "Bài tập",
+            "Tư vấn": "Lạ chưa biết hướng làm"
+        },
+        {
+            "Câu": "31",
+            "Chủ để": "Sóng ánh sáng",
+            "Điểm": "5",
+            "Dạng bài đặc trưng": "Bài tập"
+        },
+        {
+            "Câu": "32",
+            "Chủ để": "Mạch LC - Sóng điện từ",
+            "Điểm": "5",
+            "Dạng bài đặc trưng": "Đồ thị"
+        },
+        {
+            "Câu": "33",
+            "Chủ để": "Sóng cơ",
+            "Điểm": "7",
+            "Dạng bài đặc trưng": "Bài tập"
+        },
+        {
+            "Câu": "34",
+            "Chủ để": "Dao động cơ",
+            "Điểm": "7",
+            "Dạng bài đặc trưng": "Bẫy lý thuyết",
+            "Tư vấn": "Đề dài - Nghĩ khó"
+        },
+        {
+            "Câu": "35",
+            "Chủ để": "Sóng ánh sáng",
+            "Điểm": "7",
+            "Dạng bài đặc trưng": "Bài tập"
+        },
+        {
+            "Câu": "36",
+            "Chủ để": "Điện xoay chiều",
+            "Điểm": "9",
+            "Dạng bài đặc trưng": "Bài tập khó"
+        },
+        {
+            "Câu": "37",
+            "Chủ để": "Mạch LC - Sóng điện từ",
+            "Điểm": "7",
+            "Dạng bài đặc trưng": "Bài tập khó"
+        },
+        {
+            "Câu": "38",
+            "Chủ để": "Sóng cơ",
+            "Điểm": "9",
+            "Dạng bài đặc trưng": "Bài tập khó"
+        },
+        {
+            "Câu": "39",
+            "Chủ để": "Điện xoay chiều",
+            "Điểm": "9",
+            "Dạng bài đặc trưng": "Bài tập"
+        },
+        {
+            "Câu": "40",
+            "Chủ để": "Điện xoay chiều",
+            "Điểm": "9",
+            "Dạng bài đặc trưng": "Đồ thị"
+        }
+    ],
+    "169": [
+        {
+            "Câu": "1",
+            "Chủ để": "Dao động cơ",
+            "Dạng bài đặc trưng": "Bẫy lý thuyết"
+        },
+        {
+            "Câu": "2",
+            "Chủ để": "Mạch LC - Sóng điện từ",
+            "Dạng bài đặc trưng": "Bẫy lý thuyết"
+        },
+        {
+            "Câu": "3",
+            "Chủ để": "Sóng cơ",
+            "Dạng bài đặc trưng": "Bẫy lý thuyết"
+        },
+        {
+            "Câu": "4",
+            "Chủ để": "Điện xoay chiều",
+            "Dạng bài đặc trưng": "Truyển tải điện năng"
+        },
+        {
+            "Câu": "5",
+            "Chủ để": "Dao động cơ",
+            "Dạng bài đặc trưng": "Bẫy lý thuyết"
+        },
+        {
+            "Câu": "6",
+            "Chủ để": "Sóng cơ",
+            "Dạng bài đặc trưng": "Lý thuyết"
+        },
+        {
+            "Câu": "7",
+            "Chủ để": "Điện xoay chiều",
+            "Dạng bài đặc trưng": "Lý thuyết"
+        },
+        {
+            "Câu": "8",
+            "Chủ để": "Dao động cơ",
+            "Dạng bài đặc trưng": "Lý thuyết"
+        },
+        {
+            "Câu": "9",
+            "Chủ để": "Dao động cơ",
+            "Dạng bài đặc trưng": "Bẫy đơn vị "
+        },
+        {
+            "Câu": "10",
+            "Chủ để": "Sóng cơ",
+            "Dạng bài đặc trưng": "Lý thuyết"
+        },
+        {
+            "Câu": "11",
+            "Chủ để": "Mạch LC - Sóng điện từ",
+            "Dạng bài đặc trưng": "Bẫy lý thuyết"
+        },
+        {
+            "Câu": "12",
+            "Chủ để": "Sóng ánh sáng",
+            "Dạng bài đặc trưng": "Bẫy đơn vị "
+        },
+        {
+            "Câu": "13",
+            "Chủ để": "Điện xoay chiều",
+            "Dạng bài đặc trưng": "Bài tập"
+        },
+        {
+            "Câu": "14",
+            "Chủ để": "Dao động cơ",
+            "Dạng bài đặc trưng": "Lý thuyết"
+        },
+        {
+            "Câu": "15",
+            "Chủ để": "Dao động cơ",
+            "Dạng bài đặc trưng": "Bẫy ngôn ngữ "
+        },
+        {
+            "Câu": "16",
+            "Chủ để": "Dao động cơ",
+            "Dạng bài đặc trưng": "Bẫy lý thuyết"
+        },
+        {
+            "Câu": "17",
+            "Chủ để": "Dao động cơ",
+            "Dạng bài đặc trưng": "Bài tập"
+        },
+        {
+            "Câu": "18",
+            "Chủ để": "Điện xoay chiều",
+            "Dạng bài đặc trưng": "Lý thuyết"
+        },
+        {
+            "Câu": "19",
+            "Chủ để": "Điện xoay chiều",
+            "Dạng bài đặc trưng": "Bài tập"
+        },
+        {
+            "Câu": "20",
+            "Chủ để": "Dao động cơ",
+            "Dạng bài đặc trưng": "Lý thuyết"
+        },
+        {
+            "Câu": "21",
+            "Chủ để": "Sóng cơ",
+            "Dạng bài đặc trưng": "Bài tập"
+        },
+        {
+            "Câu": "22",
+            "Chủ để": "Sóng cơ",
+            "Dạng bài đặc trưng": "Lý thuyết"
+        },
+        {
+            "Câu": "23",
+            "Chủ để": "Mạch LC - Sóng điện từ",
+            "Dạng bài đặc trưng": "Lý thuyết"
+        },
+        {
+            "Câu": "24",
+            "Chủ để": "Điện xoay chiều",
+            "Dạng bài đặc trưng": "Lý thuyết"
+        },
+        {
+            "Câu": "25",
+            "Chủ để": "Sóng ánh sáng",
+            "Dạng bài đặc trưng": "Lý thuyết"
+        },
+        {
+            "Câu": "26",
+            "Chủ để": "Dao động cơ",
+            "Dạng bài đặc trưng": "Bài tập"
+        },
+        {
+            "Câu": "27",
+            "Chủ để": "Sóng cơ",
+            "Dạng bài đặc trưng": "Bài tập"
+        },
+        {
+            "Câu": "28",
+            "Chủ để": "Mạch LC - Sóng điện từ",
+            "Dạng bài đặc trưng": "Bài tập"
+        },
+        {
+            "Câu": "29",
+            "Chủ để": "Điện xoay chiều",
+            "Dạng bài đặc trưng": "Bài tập"
+        },
+        {
+            "Câu": "30",
+            "Chủ để": "Sóng cơ",
+            "Dạng bài đặc trưng": "Bài tập"
+        },
+        {
+            "Câu": "31",
+            "Chủ để": "Điện xoay chiều",
+            "Dạng bài đặc trưng": "Bài tập"
+        },
+        {
+            "Câu": "32",
+            "Chủ để": "Sóng ánh sáng",
+            "Dạng bài đặc trưng": "Bài tập"
+        },
+        {
+            "Câu": "33",
+            "Chủ để": "Dao động cơ",
+            "Dạng bài đặc trưng": "Bài tập"
+        },
+        {
+            "Câu": "34",
+            "Chủ để": "Điện xoay chiều",
+            "Dạng bài đặc trưng": "Bài tập khó"
+        },
+        {
+            "Câu": "35",
+            "Chủ để": "Sóng cơ",
+            "Dạng bài đặc trưng": "Bài tập khó"
+        },
+        {
+            "Câu": "36",
+            "Chủ để": "Điện xoay chiều",
+            "Dạng bài đặc trưng": "Bài tập khó"
+        },
+        {
+            "Câu": "37",
+            "Chủ để": "Điện xoay chiều",
+            "Dạng bài đặc trưng": "Truyển tải điện năng"
+        },
+        {
+            "Câu": "38",
+            "Chủ để": "Dao động cơ",
+            "Dạng bài đặc trưng": "Đồ thị"
+        },
+        {
+            "Câu": "39",
+            "Chủ để": "Sóng ánh sáng",
+            "Dạng bài đặc trưng": "Bài tập"
+        },
+        {
+            "Câu": "40",
+            "Chủ để": "Sóng cơ",
+            "Dạng bài đặc trưng": "Bài tập"
+        }
+    ],
+    "207": [
+        {
+            "Câu": "1",
+            "Chủ để": "Điện xoay chiều",
+            "Điểm": "3",
+            "Dạng bài đặc trưng": "Lý thuyết"
+        },
+        {
+            "Câu": "2",
+            "Chủ để": "Dao động cơ",
+            "Điểm": "3",
+            "Dạng bài đặc trưng": "Lý thuyết"
+        },
+        {
+            "Câu": "3",
+            "Chủ để": "Dao động cơ",
+            "Điểm": "3",
+            "Dạng bài đặc trưng": "Lý thuyết"
+        },
+        {
+            "Câu": "4",
+            "Chủ để": "Sóng cơ",
+            "Điểm": "3",
+            "Dạng bài đặc trưng": "Lý thuyết"
+        },
+        {
+            "Câu": "5",
+            "Chủ để": "Dao động cơ",
+            "Điểm": "3",
+            "Dạng bài đặc trưng": "Lý thuyết"
+        },
+        {
+            "Câu": "6",
+            "Chủ để": "Điện xoay chiều",
+            "Điểm": "3",
+            "Dạng bài đặc trưng": "Bài tập"
+        },
+        {
+            "Câu": "7",
+            "Chủ để": "Sóng cơ",
+            "Điểm": "3",
+            "Dạng bài đặc trưng": "Lý thuyết"
+        },
+        {
+            "Câu": "8",
+            "Chủ để": "Điện xoay chiều",
+            "Điểm": "3",
+            "Dạng bài đặc trưng": "Lý thuyết"
+        },
+        {
+            "Câu": "9",
+            "Chủ để": "Dao động cơ",
+            "Điểm": "3",
+            "Dạng bài đặc trưng": "Bẫy lý thuyết"
+        },
+        {
+            "Câu": "10",
+            "Chủ để": "Điện xoay chiều",
+            "Điểm": "5",
+            "Dạng bài đặc trưng": "Lý thuyết"
+        },
+        {
+            "Câu": "11",
+            "Chủ để": "Sóng cơ",
+            "Điểm": "3",
+            "Dạng bài đặc trưng": "Lý thuyết"
+        },
+        {
+            "Câu": "12",
+            "Chủ để": "Sóng ánh sáng",
+            "Điểm": "5",
+            "Dạng bài đặc trưng": "Lý thuyết"
+        },
+        {
+            "Câu": "13",
+            "Chủ để": "Mạch LC - Sóng điện từ",
+            "Điểm": "3",
+            "Dạng bài đặc trưng": "Bẫy lý thuyết"
+        },
+        {
+            "Câu": "14",
+            "Chủ để": "Sóng cơ",
+            "Điểm": "5",
+            "Dạng bài đặc trưng": "Bài tập"
+        },
+        {
+            "Câu": "15",
+            "Chủ để": "Điện xoay chiều",
+            "Điểm": "3",
+            "Dạng bài đặc trưng": "Lý thuyết"
+        },
+        {
+            "Câu": "16",
+            "Chủ để": "Mạch LC - Sóng điện từ",
+            "Điểm": "3",
+            "Dạng bài đặc trưng": "Lý thuyết"
+        },
+        {
+            "Câu": "17",
+            "Chủ để": "Điện xoay chiều",
+            "Điểm": "3",
+            "Dạng bài đặc trưng": "Lý thuyết"
+        },
+        {
+            "Câu": "18",
+            "Chủ để": "Dao động cơ",
+            "Điểm": "3",
+            "Dạng bài đặc trưng": "Bài tập"
+        },
+        {
+            "Câu": "19",
+            "Chủ để": "Điện xoay chiều",
+            "Điểm": "5",
+            "Dạng bài đặc trưng": "Bài tập"
+        },
+        {
+            "Câu": "20",
+            "Chủ để": "Sóng ánh sáng",
+            "Điểm": "3",
+            "Dạng bài đặc trưng": "Lý thuyết"
+        },
+        {
+            "Câu": "21",
+            "Chủ để": "Sóng cơ",
+            "Điểm": "3",
+            "Dạng bài đặc trưng": "Lý thuyết"
+        },
+        {
+            "Câu": "22",
+            "Chủ để": "Mạch LC - Sóng điện từ",
+            "Điểm": "3",
+            "Dạng bài đặc trưng": "Lý thuyết"
+        },
+        {
+            "Câu": "23",
+            "Chủ để": "Dao động cơ",
+            "Điểm": "3",
+            "Dạng bài đặc trưng": "Lý thuyết"
+        },
+        {
+            "Câu": "24",
+            "Chủ để": "Dao động cơ",
+            "Điểm": "7",
+            "Dạng bài đặc trưng": "Bài tập khó"
+        },
+        {
+            "Câu": "25",
+            "Chủ để": "Dao động cơ",
+            "Điểm": "7",
+            "Dạng bài đặc trưng": "Bài tập",
+            "Tư vấn": "Đề dài - Nghĩ khó"
+        },
+        {
+            "Câu": "26",
+            "Chủ để": "Dao động cơ",
+            "Điểm": "5",
+            "Dạng bài đặc trưng": "Bài tập"
+        },
+        {
+            "Câu": "27",
+            "Chủ để": "Sóng ánh sáng",
+            "Điểm": "7",
+            "Dạng bài đặc trưng": "Bài tập"
+        },
+        {
+            "Câu": "28",
+            "Chủ để": "Sóng cơ",
+            "Điểm": "7",
+            "Dạng bài đặc trưng": "Bài tập"
+        },
+        {
+            "Câu": "29",
+            "Chủ để": "Dao động cơ",
+            "Điểm": "7",
+            "Dạng bài đặc trưng": "Bài tập",
+            "Tư vấn": "Dạng LẠ"
+        },
+        {
+            "Câu": "30",
+            "Chủ để": "Mạch LC - Sóng điện từ",
+            "Điểm": "5",
+            "Dạng bài đặc trưng": "Đồ thị"
+        },
+        {
+            "Câu": "31",
+            "Chủ để": "Điện xoay chiều",
+            "Điểm": "5",
+            "Dạng bài đặc trưng": "Bẫy lý thuyết"
+        },
+        {
+            "Câu": "32",
+            "Chủ để": "Sóng cơ",
+            "Điểm": "5",
+            "Dạng bài đặc trưng": "Bẫy đơn vị "
+        },
+        {
+            "Câu": "33",
+            "Chủ để": "Sóng ánh sáng",
+            "Điểm": "7",
+            "Dạng bài đặc trưng": "Bài tập"
+        },
+        {
+            "Câu": "34",
+            "Chủ để": "Sóng ánh sáng",
+            "Điểm": "3",
+            "Dạng bài đặc trưng": "Lý thuyết"
+        },
+        {
+            "Câu": "35",
+            "Chủ để": "Sóng ánh sáng",
+            "Điểm": "5",
+            "Dạng bài đặc trưng": "Bài tập"
+        },
+        {
+            "Câu": "36",
+            "Chủ để": "Mạch LC - Sóng điện từ",
+            "Điểm": "7",
+            "Dạng bài đặc trưng": "Bài tập"
+        },
+        {
+            "Câu": "37",
+            "Chủ để": "Sóng cơ",
+            "Điểm": "9",
+            "Dạng bài đặc trưng": "Bài tập khó"
+        },
+        {
+            "Câu": "38",
+            "Chủ để": "Điện xoay chiều",
+            "Điểm": "9",
+            "Dạng bài đặc trưng": "Bài tập khó"
+        },
+        {
+            "Câu": "39",
+            "Chủ để": "Điện xoay chiều",
+            "Điểm": "9",
+            "Dạng bài đặc trưng": "Bài tập khó"
+        },
+        {
+            "Câu": "40",
+            "Chủ để": "Điện xoay chiều",
+            "Điểm": "9",
+            "Dạng bài đặc trưng": "Bài tập"
+        }
+    ],
+    "208": [
+        {
+            "Câu": "1",
+            "Chủ để": "Dao động cơ",
+            "Điểm": "6",
+            "Dạng bài đặc trưng": "Lý thuyết"
+        },
+        {
+            "Câu": "2",
+            "Chủ để": "Dao động cơ",
+            "Điểm": "6",
+            "Dạng bài đặc trưng": "Lý thuyết"
+        },
+        {
+            "Câu": "3",
+            "Chủ để": "Sóng cơ",
+            "Điểm": "6",
+            "Dạng bài đặc trưng": "Lý thuyết"
+        },
+        {
+            "Câu": "4",
+            "Chủ để": "Sóng cơ",
+            "Điểm": "6",
+            "Dạng bài đặc trưng": "Bài tập"
+        },
+        {
+            "Câu": "5",
+            "Chủ để": "Điện xoay chiều",
+            "Điểm": "6",
+            "Dạng bài đặc trưng": "Lý thuyết"
+        },
+        {
+            "Câu": "6",
+            "Chủ để": "Sóng cơ",
+            "Điểm": "6",
+            "Dạng bài đặc trưng": "Lý thuyết"
+        },
+        {
+            "Câu": "7",
+            "Chủ để": "Sóng cơ",
+            "Điểm": "6",
+            "Dạng bài đặc trưng": "Lý thuyết"
+        },
+        {
+            "Câu": "8",
+            "Chủ để": "Dao động cơ",
+            "Điểm": "6",
+            "Dạng bài đặc trưng": "Lý thuyết"
+        },
+        {
+            "Câu": "9",
+            "Chủ để": "Sóng ánh sáng",
+            "Điểm": "6",
+            "Dạng bài đặc trưng": "Lý thuyết"
+        },
+        {
+            "Câu": "10",
+            "Chủ để": "Điện xoay chiều",
+            "Điểm": "6",
+            "Dạng bài đặc trưng": "Lý thuyết"
+        },
+        {
+            "Câu": "11",
+            "Chủ để": "Mạch LC - Sóng điện từ",
+            "Điểm": "6",
+            "Dạng bài đặc trưng": "Bài tập"
+        },
+        {
+            "Câu": "12",
+            "Chủ để": "Sóng ánh sáng",
+            "Điểm": "6",
+            "Dạng bài đặc trưng": "Lý thuyết"
+        },
+        {
+            "Câu": "13",
+            "Chủ để": "Dao động cơ",
+            "Điểm": "6",
+            "Dạng bài đặc trưng": "Bài tập"
+        },
+        {
+            "Câu": "14",
+            "Chủ để": "Mạch LC - Sóng điện từ",
+            "Điểm": "6",
+            "Dạng bài đặc trưng": "Lý thuyết"
+        },
+        {
+            "Câu": "15",
+            "Chủ để": "Mạch LC - Sóng điện từ",
+            "Điểm": "6",
+            "Dạng bài đặc trưng": "Lý thuyết"
+        },
+        {
+            "Câu": "16",
+            "Chủ để": "Dao động cơ",
+            "Điểm": "6",
+            "Dạng bài đặc trưng": "Bài tập"
+        },
+        {
+            "Câu": "17",
+            "Chủ để": "Dao động cơ",
+            "Điểm": "6",
+            "Dạng bài đặc trưng": "Lý thuyết"
+        },
+        {
+            "Câu": "18",
+            "Chủ để": "Điện xoay chiều",
+            "Điểm": "6",
+            "Dạng bài đặc trưng": "Bài tập"
+        },
+        {
+            "Câu": "19",
+            "Chủ để": "Sóng cơ",
+            "Điểm": "7",
+            "Dạng bài đặc trưng": "Tính cẩn thận"
+        },
+        {
+            "Câu": "20",
+            "Chủ để": "Dao động cơ",
+            "Điểm": "6",
+            "Dạng bài đặc trưng": "Bài tập"
+        },
+        {
+            "Câu": "21",
+            "Chủ để": "Mạch LC - Sóng điện từ",
+            "Điểm": "7",
+            "Dạng bài đặc trưng": "Bài tập"
+        },
+        {
+            "Câu": "22",
+            "Chủ để": "Sóng ánh sáng",
+            "Điểm": "6",
+            "Dạng bài đặc trưng": "Lý thuyết"
+        },
+        {
+            "Câu": "23",
+            "Chủ để": "Điện xoay chiều",
+            "Điểm": "6",
+            "Dạng bài đặc trưng": "Bài tập"
+        },
+        {
+            "Câu": "24",
+            "Chủ để": "Mạch LC - Sóng điện từ",
+            "Điểm": "7",
+            "Dạng bài đặc trưng": "Bài tập"
+        },
+        {
+            "Câu": "25",
+            "Chủ để": "Dòng điện không đổi",
+            "Điểm": "6",
+            "Dạng bài đặc trưng": "Bài tập"
+        },
+        {
+            "Câu": "26",
+            "Chủ để": "Điện tích - Điện trường",
+            "Điểm": "6",
+            "Dạng bài đặc trưng": "Bài tập"
+        },
+        {
+            "Câu": "27",
+            "Chủ để": "Điện xoay chiều",
+            "Điểm": "6",
+            "Dạng bài đặc trưng": "Bài tập"
+        },
+        {
+            "Câu": "28",
+            "Chủ để": "Sóng cơ",
+            "Điểm": "7",
+            "Dạng bài đặc trưng": "Bài tập"
+        },
+        {
+            "Câu": "29",
+            "Chủ để": "Sóng ánh sáng",
+            "Điểm": "8",
+            "Dạng bài đặc trưng": "Bài tập"
+        },
+        {
+            "Câu": "30",
+            "Chủ để": "Điện xoay chiều",
+            "Điểm": "8",
+            "Dạng bài đặc trưng": "Đồ thị"
+        },
+        {
+            "Câu": "31",
+            "Chủ để": "Sóng cơ",
+            "Điểm": "8",
+            "Dạng bài đặc trưng": "Bài tập"
+        },
+        {
+            "Câu": "32",
+            "Chủ để": "Quang học",
+            "Điểm": "8",
+            "Dạng bài đặc trưng": "Bài tập"
+        },
+        {
+            "Câu": "33",
+            "Chủ để": "Sóng cơ",
+            "Điểm": "9",
+            "Dạng bài đặc trưng": "Bài tập"
+        },
+        {
+            "Câu": "34",
+            "Chủ để": "Sóng ánh sáng",
+            "Điểm": "9",
+            "Dạng bài đặc trưng": "Bài tập"
+        },
+        {
+            "Câu": "35",
+            "Chủ để": "Điện xoay chiều",
+            "Điểm": "9",
+            "Dạng bài đặc trưng": "Bài tập"
+        },
+        {
+            "Câu": "36",
+            "Chủ để": "Dao động cơ",
+            "Điểm": "9",
+            "Dạng bài đặc trưng": "Đồ thị"
+        },
+        {
+            "Câu": "37",
+            "Chủ để": "Điện xoay chiều",
+            "Điểm": "10",
+            "Dạng bài đặc trưng": "Bài tập khó"
+        },
+        {
+            "Câu": "38",
+            "Chủ để": "Sóng cơ",
+            "Điểm": "10",
+            "Dạng bài đặc trưng": "Bài tập khó"
+        },
+        {
+            "Câu": "39",
+            "Chủ để": "Dao động cơ",
+            "Điểm": "10",
+            "Dạng bài đặc trưng": "Đồ thị"
+        },
+        {
+            "Câu": "40",
+            "Chủ để": "Điện xoay chiều",
+            "Điểm": "10",
+            "Dạng bài đặc trưng": "Bài tập khó"
+        }
+    ],
+    "210": [
+        {
+            "Câu": "1",
+            "Chủ để": "Dao động cơ",
+            "Điểm": "6",
+            "Dạng bài đặc trưng": "Lý thuyết"
+        },
+        {
+            "Câu": "2",
+            "Chủ để": "Điện xoay chiều",
+            "Điểm": "6",
+            "Dạng bài đặc trưng": "Lý thuyết"
+        },
+        {
+            "Câu": "3",
+            "Chủ để": "Sóng ánh sáng",
+            "Điểm": "6",
+            "Dạng bài đặc trưng": "Lý thuyết"
+        },
+        {
+            "Câu": "4",
+            "Chủ để": "Mạch LC - Sóng điện từ",
+            "Điểm": "6",
+            "Dạng bài đặc trưng": "Lý thuyết"
+        },
+        {
+            "Câu": "5",
+            "Chủ để": "Dòng điện không đổi",
+            "Điểm": "6",
+            "Dạng bài đặc trưng": "Lý thuyết"
+        },
+        {
+            "Câu": "6",
+            "Chủ để": "Dao động cơ",
+            "Điểm": "6",
+            "Dạng bài đặc trưng": "Lý thuyết"
+        },
+        {
+            "Câu": "7",
+            "Chủ để": "Mạch LC - Sóng điện từ",
+            "Điểm": "6",
+            "Dạng bài đặc trưng": "Lý thuyết"
+        },
+        {
+            "Câu": "8",
+            "Chủ để": "Điện xoay chiều",
+            "Điểm": "6",
+            "Dạng bài đặc trưng": "Lý thuyết"
+        },
+        {
+            "Câu": "9",
+            "Chủ để": "Dao động cơ",
+            "Điểm": "6",
+            "Dạng bài đặc trưng": "Lý thuyết"
+        },
+        {
+            "Câu": "10",
+            "Chủ để": "Sóng cơ",
+            "Điểm": "6",
+            "Dạng bài đặc trưng": "Lý thuyết"
+        },
+        {
+            "Câu": "11",
+            "Chủ để": "Sóng cơ",
+            "Điểm": "6",
+            "Dạng bài đặc trưng": "Bài tập"
+        },
+        {
+            "Câu": "12",
+            "Chủ để": "Sóng ánh sáng",
+            "Điểm": "6",
+            "Dạng bài đặc trưng": "Lý thuyết"
+        },
+        {
+            "Câu": "13",
+            "Chủ để": "Sóng cơ",
+            "Điểm": "6",
+            "Dạng bài đặc trưng": "Lý thuyết"
+        },
+        {
+            "Câu": "14",
+            "Chủ để": "Sóng cơ",
+            "Điểm": "6",
+            "Dạng bài đặc trưng": "Lý thuyết"
+        },
+        {
+            "Câu": "15",
+            "Chủ để": "Sóng cơ",
+            "Điểm": "6",
+            "Dạng bài đặc trưng": "Lý thuyết"
+        },
+        {
+            "Câu": "16",
+            "Chủ để": "Dao động cơ",
+            "Điểm": "6",
+            "Dạng bài đặc trưng": "Lý thuyết"
+        },
+        {
+            "Câu": "17",
+            "Chủ để": "Sóng cơ",
+            "Điểm": "6",
+            "Dạng bài đặc trưng": "Bài tập"
+        },
+        {
+            "Câu": "18",
+            "Chủ để": "Sóng cơ",
+            "Điểm": "6",
+            "Dạng bài đặc trưng": "Bẫy lý thuyết"
+        },
+        {
+            "Câu": "19",
+            "Chủ để": "Dao động cơ",
+            "Điểm": "6",
+            "Dạng bài đặc trưng": "Lý thuyết"
+        },
+        {
+            "Câu": "20",
+            "Chủ để": "Điện xoay chiều",
+            "Điểm": "7",
+            "Dạng bài đặc trưng": "Bẫy ngôn ngữ "
+        },
+        {
+            "Câu": "21",
+            "Chủ để": "Dao động cơ",
+            "Điểm": "7",
+            "Dạng bài đặc trưng": "Bài tập"
+        },
+        {
+            "Câu": "22",
+            "Chủ để": "Điện tích - Điện trường",
+            "Điểm": "6",
+            "Dạng bài đặc trưng": "Bẫy lý thuyết"
+        },
+        {
+            "Câu": "23",
+            "Chủ để": "Dao động cơ",
+            "Điểm": "6",
+            "Dạng bài đặc trưng": "Bài tập"
+        },
+        {
+            "Câu": "24",
+            "Chủ để": "Điện xoay chiều",
+            "Điểm": "6",
+            "Dạng bài đặc trưng": "Bài tập"
+        },
+        {
+            "Câu": "25",
+            "Chủ để": "Điện xoay chiều",
+            "Điểm": "7",
+            "Dạng bài đặc trưng": "Bẫy ngôn ngữ "
+        },
+        {
+            "Câu": "26",
+            "Chủ để": "Sóng ánh sáng",
+            "Điểm": "7",
+            "Dạng bài đặc trưng": "Bẫy đơn vị "
+        },
+        {
+            "Câu": "27",
+            "Chủ để": "Mạch LC - Sóng điện từ",
+            "Điểm": "6",
+            "Dạng bài đặc trưng": "Bài tập"
+        },
+        {
+            "Câu": "28",
+            "Chủ để": "Quang học",
+            "Điểm": "6",
+            "Dạng bài đặc trưng": "Bài tập"
+        },
+        {
+            "Câu": "29",
+            "Chủ để": "Điện xoay chiều",
+            "Điểm": "9",
+            "Dạng bài đặc trưng": "Bài tập"
+        },
+        {
+            "Câu": "30",
+            "Chủ để": "Sóng cơ",
+            "Điểm": "9",
+            "Dạng bài đặc trưng": "Bài tập"
+        },
+        {
+            "Câu": "31",
+            "Chủ để": "Sóng cơ",
+            "Điểm": "9",
+            "Dạng bài đặc trưng": "Đồ thị"
+        },
+        {
+            "Câu": "32",
+            "Chủ để": "Sóng cơ",
+            "Điểm": "8",
+            "Dạng bài đặc trưng": "Bài tập"
+        },
+        {
+            "Câu": "33",
+            "Chủ để": "Dòng điện không đổi",
+            "Điểm": "8",
+            "Dạng bài đặc trưng": "Bài tập"
+        },
+        {
+            "Câu": "34",
+            "Chủ để": "Sóng ánh sáng",
+            "Điểm": "8",
+            "Dạng bài đặc trưng": "Bài tập"
+        },
+        {
+            "Câu": "35",
+            "Chủ để": "Điện xoay chiều",
+            "Điểm": "8",
+            "Dạng bài đặc trưng": "Bài tập"
+        },
+        {
+            "Câu": "36",
+            "Chủ để": "Điện xoay chiều",
+            "Điểm": "10",
+            "Dạng bài đặc trưng": "Bài tập khó"
+        },
+        {
+            "Câu": "37",
+            "Chủ để": "Dao động cơ",
+            "Điểm": "10",
+            "Dạng bài đặc trưng": "Bài tập khó"
+        },
+        {
+            "Câu": "38",
+            "Chủ để": "Điện xoay chiều",
+            "Điểm": "10",
+            "Dạng bài đặc trưng": "Bài tập khó"
+        },
+        {
+            "Câu": "39",
+            "Chủ để": "Sóng cơ",
+            "Điểm": "10",
+            "Dạng bài đặc trưng": "Bài tập khó"
+        },
+        {
+            "Câu": "40",
+            "Chủ để": "Quang học",
+            "Điểm": "9",
+            "Dạng bài đặc trưng": "Đồ thị"
+        }
+    ],
+    "245": [
+        {
+            "Câu": "1",
+            "Chủ để": "Mạch LC - Sóng điện từ",
+            "Dạng bài đặc trưng": "Lý thuyết"
+        },
+        {
+            "Câu": "2",
+            "Chủ để": "Sóng cơ",
+            "Dạng bài đặc trưng": "Lý thuyết"
+        },
+        {
+            "Câu": "3",
+            "Chủ để": "Điện xoay chiều",
+            "Dạng bài đặc trưng": "Lý thuyết"
+        },
+        {
+            "Câu": "4",
+            "Chủ để": "Dao động cơ",
+            "Dạng bài đặc trưng": "Lý thuyết"
+        },
+        {
+            "Câu": "5",
+            "Chủ để": "Dao động cơ",
+            "Dạng bài đặc trưng": "Lý thuyết"
+        },
+        {
+            "Câu": "6",
+            "Chủ để": "Điện xoay chiều",
+            "Dạng bài đặc trưng": "Lý thuyết"
+        },
+        {
+            "Câu": "7",
+            "Chủ để": "Sóng cơ",
+            "Dạng bài đặc trưng": "Lý thuyết"
+        },
+        {
+            "Câu": "8",
+            "Chủ để": "Điện xoay chiều",
+            "Dạng bài đặc trưng": "Truyển tải điện năng"
+        },
+        {
+            "Câu": "9",
+            "Chủ để": "Dao động cơ",
+            "Dạng bài đặc trưng": "Lý thuyết"
+        },
+        {
+            "Câu": "10",
+            "Chủ để": "Sóng cơ",
+            "Dạng bài đặc trưng": "Lý thuyết"
+        },
+        {
+            "Câu": "11",
+            "Chủ để": "Sóng ánh sáng",
+            "Dạng bài đặc trưng": "Bài tập"
+        },
+        {
+            "Câu": "12",
+            "Chủ để": "Dao động cơ",
+            "Dạng bài đặc trưng": "Lý thuyết"
+        },
+        {
+            "Câu": "13",
+            "Chủ để": "Mạch LC - Sóng điện từ",
+            "Dạng bài đặc trưng": "Lý thuyết"
+        },
+        {
+            "Câu": "14",
+            "Chủ để": "Dao động cơ",
+            "Dạng bài đặc trưng": "Lý thuyết"
+        },
+        {
+            "Câu": "15",
+            "Chủ để": "Dao động cơ",
+            "Dạng bài đặc trưng": "Lý thuyết"
+        },
+        {
+            "Câu": "16",
+            "Chủ để": "Dao động cơ",
+            "Dạng bài đặc trưng": "Lý thuyết"
+        },
+        {
+            "Câu": "17",
+            "Chủ để": "Dao động cơ",
+            "Dạng bài đặc trưng": "Lý thuyết"
+        },
+        {
+            "Câu": "18",
+            "Chủ để": "Điện xoay chiều",
+            "Dạng bài đặc trưng": "Lý thuyết"
+        },
+        {
+            "Câu": "19",
+            "Chủ để": "Điện xoay chiều",
+            "Dạng bài đặc trưng": "Bài tập"
+        },
+        {
+            "Câu": "20",
+            "Chủ để": "Sóng ánh sáng",
+            "Dạng bài đặc trưng": "Lý thuyết"
+        },
+        {
+            "Câu": "21",
+            "Chủ để": "Sóng cơ",
+            "Dạng bài đặc trưng": "Bài tập"
+        },
+        {
+            "Câu": "22",
+            "Chủ để": "Dao động cơ",
+            "Dạng bài đặc trưng": "Bài tập"
+        },
+        {
+            "Câu": "23",
+            "Chủ để": "Điện xoay chiều",
+            "Dạng bài đặc trưng": "Lý thuyết"
+        },
+        {
+            "Câu": "24",
+            "Chủ để": "Mạch LC - Sóng điện từ",
+            "Dạng bài đặc trưng": "Lý thuyết"
+        },
+        {
+            "Câu": "25",
+            "Chủ để": "Dao động cơ",
+            "Dạng bài đặc trưng": "Bài tập"
+        },
+        {
+            "Câu": "26",
+            "Chủ để": "Sóng cơ",
+            "Dạng bài đặc trưng": "Bài tập"
+        },
+        {
+            "Câu": "27",
+            "Chủ để": "Sóng cơ",
+            "Dạng bài đặc trưng": "Bài tập"
+        },
+        {
+            "Câu": "28",
+            "Chủ để": "Điện xoay chiều",
+            "Dạng bài đặc trưng": "Bài tập"
+        },
+        {
+            "Câu": "29",
+            "Chủ để": "Mạch LC - Sóng điện từ",
+            "Dạng bài đặc trưng": "Bài tập"
+        },
+        {
+            "Câu": "30",
+            "Chủ để": "Điện xoay chiều",
+            "Dạng bài đặc trưng": "Bài tập"
+        },
+        {
+            "Câu": "31",
+            "Chủ để": "Sóng cơ",
+            "Dạng bài đặc trưng": "Bài tập khó"
+        },
+        {
+            "Câu": "32",
+            "Chủ để": "Dao động cơ",
+            "Dạng bài đặc trưng": "Bài tập"
+        },
+        {
+            "Câu": "33",
+            "Chủ để": "Điện xoay chiều",
+            "Dạng bài đặc trưng": "Bài tập"
+        },
+        {
+            "Câu": "34",
+            "Chủ để": "Sóng ánh sáng",
+            "Dạng bài đặc trưng": "Bài tập"
+        },
+        {
+            "Câu": "35",
+            "Chủ để": "Điện xoay chiều",
+            "Dạng bài đặc trưng": "Bài tập khó"
+        },
+        {
+            "Câu": "36",
+            "Chủ để": "Điện xoay chiều",
+            "Dạng bài đặc trưng": "Bài tập khó"
+        },
+        {
+            "Câu": "37",
+            "Chủ để": "Sóng cơ",
+            "Dạng bài đặc trưng": "Bài tập"
+        },
+        {
+            "Câu": "38",
+            "Chủ để": "Sóng ánh sáng",
+            "Dạng bài đặc trưng": "Bài tập"
+        },
+        {
+            "Câu": "39",
+            "Chủ để": "Dao động cơ",
+            "Dạng bài đặc trưng": "Đồ thị"
+        },
+        {
+            "Câu": "40",
+            "Chủ để": "Điện xoay chiều",
+            "Dạng bài đặc trưng": "Truyển tải điện năng"
+        }
+    ],
+    "326": [
+        {
+            "Câu": "1",
+            "Chủ để": "Dao động cơ",
+            "Dạng bài đặc trưng": "Lý thuyết"
+        },
+        {
+            "Câu": "2",
+            "Chủ để": "Mạch LC - Sóng điện từ",
+            "Dạng bài đặc trưng": "Lý thuyết"
+        },
+        {
+            "Câu": "3",
+            "Chủ để": "Mạch LC - Sóng điện từ",
+            "Dạng bài đặc trưng": "Lý thuyết"
+        },
+        {
+            "Câu": "4",
+            "Chủ để": "Dao động cơ",
+            "Dạng bài đặc trưng": "Lý thuyết"
+        },
+        {
+            "Câu": "5",
+            "Chủ để": "Điện xoay chiều",
+            "Dạng bài đặc trưng": "Truyển tải điện năng"
+        },
+        {
+            "Câu": "6",
+            "Chủ để": "Điện xoay chiều",
+            "Dạng bài đặc trưng": "Lý thuyết"
+        },
+        {
+            "Câu": "7",
+            "Chủ để": "Dao động cơ",
+            "Dạng bài đặc trưng": "Lý thuyết"
+        },
+        {
+            "Câu": "8",
+            "Chủ để": "Dao động cơ",
+            "Dạng bài đặc trưng": "Lý thuyết"
+        },
+        {
+            "Câu": "9",
+            "Chủ để": "Sóng cơ",
+            "Dạng bài đặc trưng": "Lý thuyết"
+        },
+        {
+            "Câu": "10",
+            "Chủ để": "Sóng ánh sáng",
+            "Dạng bài đặc trưng": "Bài tập"
+        },
+        {
+            "Câu": "11",
+            "Chủ để": "Điện xoay chiều",
+            "Dạng bài đặc trưng": "Lý thuyết"
+        },
+        {
+            "Câu": "12",
+            "Chủ để": "Sóng cơ",
+            "Dạng bài đặc trưng": "Lý thuyết"
+        },
+        {
+            "Câu": "13",
+            "Chủ để": "Dao động cơ",
+            "Dạng bài đặc trưng": "Lý thuyết"
+        },
+        {
+            "Câu": "14",
+            "Chủ để": "Dao động cơ",
+            "Dạng bài đặc trưng": "Lý thuyết"
+        },
+        {
+            "Câu": "15",
+            "Chủ để": "Dao động cơ",
+            "Dạng bài đặc trưng": "Lý thuyết"
+        },
+        {
+            "Câu": "16",
+            "Chủ để": "Sóng cơ",
+            "Dạng bài đặc trưng": "Lý thuyết"
+        },
+        {
+            "Câu": "17",
+            "Chủ để": "Điện xoay chiều",
+            "Dạng bài đặc trưng": "Lý thuyết"
+        },
+        {
+            "Câu": "18",
+            "Chủ để": "Điện xoay chiều",
+            "Dạng bài đặc trưng": "Bài tập"
+        },
+        {
+            "Câu": "19",
+            "Chủ để": "Mạch LC - Sóng điện từ",
+            "Dạng bài đặc trưng": "Lý thuyết"
+        },
+        {
+            "Câu": "20",
+            "Chủ để": "Sóng cơ",
+            "Dạng bài đặc trưng": "Bài tập"
+        },
+        {
+            "Câu": "21",
+            "Chủ để": "Sóng cơ",
+            "Dạng bài đặc trưng": "Bài tập"
+        },
+        {
+            "Câu": "22",
+            "Chủ để": "Dao động cơ",
+            "Dạng bài đặc trưng": "Bài tập"
+        },
+        {
+            "Câu": "23",
+            "Chủ để": "Điện xoay chiều",
+            "Dạng bài đặc trưng": "Lý thuyết"
+        },
+        {
+            "Câu": "24",
+            "Chủ để": "Sóng cơ",
+            "Dạng bài đặc trưng": "Bài tập"
+        },
+        {
+            "Câu": "25",
+            "Chủ để": "Dao động cơ",
+            "Dạng bài đặc trưng": "Lý thuyết"
+        },
+        {
+            "Câu": "26",
+            "Chủ để": "Dao động cơ",
+            "Dạng bài đặc trưng": "Bài tập"
+        },
+        {
+            "Câu": "27",
+            "Chủ để": "Sóng ánh sáng",
+            "Dạng bài đặc trưng": "Lý thuyết"
+        },
+        {
+            "Câu": "28",
+            "Chủ để": "Sóng cơ",
+            "Dạng bài đặc trưng": "Bài tập khó"
+        },
+        {
+            "Câu": "29",
+            "Chủ để": "Điện xoay chiều",
+            "Dạng bài đặc trưng": "Bài tập"
+        },
+        {
+            "Câu": "30",
+            "Chủ để": "Dao động cơ",
+            "Dạng bài đặc trưng": "Bài tập"
+        },
+        {
+            "Câu": "31",
+            "Chủ để": "Mạch LC - Sóng điện từ",
+            "Dạng bài đặc trưng": "Bài tập"
+        },
+        {
+            "Câu": "32",
+            "Chủ để": "Điện xoay chiều",
+            "Dạng bài đặc trưng": "Bài tập khó"
+        },
+        {
+            "Câu": "33",
+            "Chủ để": "Sóng ánh sáng",
+            "Dạng bài đặc trưng": "Bài tập"
+        },
+        {
+            "Câu": "34",
+            "Chủ để": "Điện xoay chiều",
+            "Dạng bài đặc trưng": "Bài tập"
+        },
+        {
+            "Câu": "35",
+            "Chủ để": "Điện xoay chiều",
+            "Dạng bài đặc trưng": "Bài tập"
+        },
+        {
+            "Câu": "36",
+            "Chủ để": "Sóng cơ",
+            "Dạng bài đặc trưng": "Bài tập"
+        },
+        {
+            "Câu": "37",
+            "Chủ để": "Sóng ánh sáng",
+            "Dạng bài đặc trưng": "Bài tập"
+        },
+        {
+            "Câu": "38",
+            "Chủ để": "Điện xoay chiều",
+            "Dạng bài đặc trưng": "Bài tập khó"
+        },
+        {
+            "Câu": "39",
+            "Chủ để": "Dao động cơ",
+            "Dạng bài đặc trưng": "Đồ thị"
+        },
+        {
+            "Câu": "40",
+            "Chủ để": "Điện xoay chiều",
+            "Dạng bài đặc trưng": "Truyển tải điện năng"
+        }
+    ],
+    "356": [
+        {
+            "Câu": "1",
+            "Chủ để": "Điện xoay chiều",
+            "Điểm": "3",
+            "Dạng bài đặc trưng": "Lý thuyết"
+        },
+        {
+            "Câu": "2",
+            "Chủ để": "Dao động cơ",
+            "Điểm": "3",
+            "Dạng bài đặc trưng": "Bẫy lý thuyết"
+        },
+        {
+            "Câu": "3",
+            "Chủ để": "Sóng cơ",
+            "Điểm": "3",
+            "Dạng bài đặc trưng": "Lý thuyết"
+        },
+        {
+            "Câu": "4",
+            "Chủ để": "Điện xoay chiều",
+            "Điểm": "3",
+            "Dạng bài đặc trưng": "Lý thuyết"
+        },
+        {
+            "Câu": "5",
+            "Chủ để": "Dao động cơ",
+            "Điểm": "3",
+            "Dạng bài đặc trưng": "Bài tập"
+        },
+        {
+            "Câu": "6",
+            "Chủ để": "Sóng cơ",
+            "Điểm": "3",
+            "Dạng bài đặc trưng": "Lý thuyết"
+        },
+        {
+            "Câu": "7",
+            "Chủ để": "Dao động cơ",
+            "Điểm": "3",
+            "Dạng bài đặc trưng": "Lý thuyết"
+        },
+        {
+            "Câu": "8",
+            "Chủ để": "Điện xoay chiều",
+            "Điểm": "3",
+            "Dạng bài đặc trưng": "Bài tập"
+        },
+        {
+            "Câu": "9",
+            "Chủ để": "Dao động cơ",
+            "Điểm": "3",
+            "Dạng bài đặc trưng": "Lý thuyết"
+        },
+        {
+            "Câu": "10",
+            "Chủ để": "Sóng cơ",
+            "Điểm": "3",
+            "Dạng bài đặc trưng": "Lý thuyết"
+        },
+        {
+            "Câu": "11",
+            "Chủ để": "Sóng cơ",
+            "Điểm": "5",
+            "Dạng bài đặc trưng": "Bài tập"
+        },
+        {
+            "Câu": "12",
+            "Chủ để": "Sóng cơ",
+            "Điểm": "3",
+            "Dạng bài đặc trưng": "Lý thuyết"
+        },
+        {
+            "Câu": "13",
+            "Chủ để": "Điện xoay chiều",
+            "Điểm": "5",
+            "Dạng bài đặc trưng": "Bẫy lý thuyết"
+        },
+        {
+            "Câu": "14",
+            "Chủ để": "Quang học",
+            "Điểm": "5",
+            "Dạng bài đặc trưng": "Lý thuyết"
+        },
+        {
+            "Câu": "15",
+            "Chủ để": "Mạch LC - Sóng điện từ",
+            "Điểm": "3",
+            "Dạng bài đặc trưng": "Lý thuyết"
+        },
+        {
+            "Câu": "16",
+            "Chủ để": "Điện xoay chiều",
+            "Điểm": "3",
+            "Dạng bài đặc trưng": "Bài tập"
+        },
+        {
+            "Câu": "17",
+            "Chủ để": "Sóng cơ",
+            "Điểm": "3",
+            "Dạng bài đặc trưng": "Bài tập"
+        },
+        {
+            "Câu": "18",
+            "Chủ để": "Điện xoay chiều",
+            "Điểm": "5",
+            "Dạng bài đặc trưng": "Lý thuyết"
+        },
+        {
+            "Câu": "19",
+            "Chủ để": "Sóng ánh sáng",
+            "Điểm": "3",
+            "Dạng bài đặc trưng": "Lý thuyết"
+        },
+        {
+            "Câu": "20",
+            "Chủ để": "Dao động cơ",
+            "Điểm": "3",
+            "Dạng bài đặc trưng": "Bẫy lý thuyết"
+        },
+        {
+            "Câu": "21",
+            "Chủ để": "Mạch LC - Sóng điện từ",
+            "Điểm": "3",
+            "Dạng bài đặc trưng": "Lý thuyết"
+        },
+        {
+            "Câu": "22",
+            "Chủ để": "Dao động cơ",
+            "Điểm": "3",
+            "Dạng bài đặc trưng": "Lý thuyết"
+        },
+        {
+            "Câu": "23",
+            "Chủ để": "Điện xoay chiều",
+            "Điểm": "3",
+            "Dạng bài đặc trưng": "Lý thuyết"
+        },
+        {
+            "Câu": "24",
+            "Chủ để": "Sóng ánh sáng",
+            "Điểm": "3",
+            "Dạng bài đặc trưng": "Lý thuyết"
+        },
+        {
+            "Câu": "25",
+            "Chủ để": "Sóng ánh sáng",
+            "Điểm": "5",
+            "Dạng bài đặc trưng": "Bài tập"
+        },
+        {
+            "Câu": "26",
+            "Chủ để": "Dao động cơ",
+            "Điểm": "7",
+            "Dạng bài đặc trưng": "Bài tập"
+        },
+        {
+            "Câu": "27",
+            "Chủ để": "Dao động cơ",
+            "Điểm": "5",
+            "Dạng bài đặc trưng": "Bài tập"
+        },
+        {
+            "Câu": "28",
+            "Chủ để": "Mạch LC - Sóng điện từ",
+            "Điểm": "5",
+            "Dạng bài đặc trưng": "Đồ thị"
+        },
+        {
+            "Câu": "29",
+            "Chủ để": "Sóng cơ",
+            "Điểm": "5",
+            "Dạng bài đặc trưng": "Bẫy đơn vị "
+        },
+        {
+            "Câu": "30",
+            "Chủ để": "Sóng ánh sáng",
+            "Điểm": "7",
+            "Dạng bài đặc trưng": "Bài tập"
+        },
+        {
+            "Câu": "31",
+            "Chủ để": "Dao động cơ",
+            "Điểm": "7",
+            "Dạng bài đặc trưng": "Bài tập",
+            "Tư vấn": "Dạng lạ"
+        },
+        {
+            "Câu": "32",
+            "Chủ để": "Sóng ánh sáng",
+            "Điểm": "7",
+            "Dạng bài đặc trưng": "Bài tập"
+        },
+        {
+            "Câu": "33",
+            "Chủ để": "Dao động cơ",
+            "Điểm": "7",
+            "Dạng bài đặc trưng": "Bài tập",
+            "Tư vấn": "Đề dài - Nghĩ khó"
+        },
+        {
+            "Câu": "34",
+            "Chủ để": "Sóng cơ",
+            "Điểm": "7",
+            "Dạng bài đặc trưng": "Bài tập"
+        },
+        {
+            "Câu": "35",
+            "Chủ để": "Điện xoay chiều",
+            "Điểm": "5",
+            "Dạng bài đặc trưng": "Bẫy lý thuyết"
+        },
+        {
+            "Câu": "36",
+            "Chủ để": "Điện xoay chiều",
+            "Điểm": "9",
+            "Dạng bài đặc trưng": "Bài tập khó"
+        },
+        {
+            "Câu": "37",
+            "Chủ để": "Điện xoay chiều",
+            "Điểm": "9",
+            "Dạng bài đặc trưng": "Bài tập khó"
+        },
+        {
+            "Câu": "38",
+            "Chủ để": "Mạch LC - Sóng điện từ",
+            "Điểm": "7",
+            "Dạng bài đặc trưng": "Bài tập"
+        },
+        {
+            "Câu": "39",
+            "Chủ để": "Điện xoay chiều",
+            "Điểm": "9",
+            "Dạng bài đặc trưng": "Bài tập khó"
+        },
+        {
+            "Câu": "40",
+            "Chủ để": "Sóng cơ",
+            "Điểm": "9",
+            "Dạng bài đặc trưng": "Bài tập"
+        }
+    ],
+    "358": [
+        {
+            "Câu": "1",
+            "Chủ để": "Sóng ánh sáng",
+            "Điểm": "6",
+            "Dạng bài đặc trưng": "Lý thuyết"
+        },
+        {
+            "Câu": "2",
+            "Chủ để": "Mạch LC - Sóng điện từ",
+            "Điểm": "6",
+            "Dạng bài đặc trưng": "Lý thuyết"
+        },
+        {
+            "Câu": "3",
+            "Chủ để": "Điện xoay chiều",
+            "Điểm": "6",
+            "Dạng bài đặc trưng": "Lý thuyết"
+        },
+        {
+            "Câu": "4",
+            "Chủ để": "Dao động cơ",
+            "Điểm": "6",
+            "Dạng bài đặc trưng": "Lý thuyết"
+        },
+        {
+            "Câu": "5",
+            "Chủ để": "Dao động cơ",
+            "Điểm": "6",
+            "Dạng bài đặc trưng": "Lý thuyết"
+        },
+        {
+            "Câu": "6",
+            "Chủ để": "Sóng cơ",
+            "Điểm": "6",
+            "Dạng bài đặc trưng": "Lý thuyết"
+        },
+        {
+            "Câu": "7",
+            "Chủ để": "Dao động cơ",
+            "Điểm": "6",
+            "Dạng bài đặc trưng": "Lý thuyết"
+        },
+        {
+            "Câu": "8",
+            "Chủ để": "Dòng điện không đổi",
+            "Điểm": "6",
+            "Dạng bài đặc trưng": "Lý thuyết"
+        },
+        {
+            "Câu": "9",
+            "Chủ để": "Sóng cơ",
+            "Điểm": "6",
+            "Dạng bài đặc trưng": "Lý thuyết"
+        },
+        {
+            "Câu": "10",
+            "Chủ để": "Mạch LC - Sóng điện từ",
+            "Điểm": "6",
+            "Dạng bài đặc trưng": "Lý thuyết"
+        },
+        {
+            "Câu": "11",
+            "Chủ để": "Sóng ánh sáng",
+            "Điểm": "6",
+            "Dạng bài đặc trưng": "Bài tập"
+        },
+        {
+            "Câu": "12",
+            "Chủ để": "Sóng cơ",
+            "Điểm": "6",
+            "Dạng bài đặc trưng": "Lý thuyết"
+        },
+        {
+            "Câu": "13",
+            "Chủ để": "Dao động cơ",
+            "Điểm": "6",
+            "Dạng bài đặc trưng": "Lý thuyết"
+        },
+        {
+            "Câu": "14",
+            "Chủ để": "Dao động cơ",
+            "Điểm": "6",
+            "Dạng bài đặc trưng": "Lý thuyết"
+        },
+        {
+            "Câu": "15",
+            "Chủ để": "Điện xoay chiều",
+            "Điểm": "6",
+            "Dạng bài đặc trưng": "Lý thuyết"
+        },
+        {
+            "Câu": "16",
+            "Chủ để": "Sóng ánh sáng",
+            "Điểm": "6",
+            "Dạng bài đặc trưng": "Lý thuyết"
+        },
+        {
+            "Câu": "17",
+            "Chủ để": "Sóng ánh sáng",
+            "Điểm": "7",
+            "Dạng bài đặc trưng": "Bẫy đơn vị "
+        },
+        {
+            "Câu": "18",
+            "Chủ để": "Sóng cơ",
+            "Điểm": "6",
+            "Dạng bài đặc trưng": "Bài tập"
+        },
+        {
+            "Câu": "19",
+            "Chủ để": "Dao động cơ",
+            "Điểm": "7",
+            "Dạng bài đặc trưng": "Bài tập"
+        },
+        {
+            "Câu": "20",
+            "Chủ để": "Điện xoay chiều",
+            "Điểm": "6",
+            "Dạng bài đặc trưng": "Bài tập"
+        },
+        {
+            "Câu": "21",
+            "Chủ để": "Sóng cơ",
+            "Điểm": "6",
+            "Dạng bài đặc trưng": "Bẫy lý thuyết"
+        },
+        {
+            "Câu": "22",
+            "Chủ để": "Dao động cơ",
+            "Điểm": "6",
+            "Dạng bài đặc trưng": "Lý thuyết"
+        },
+        {
+            "Câu": "23",
+            "Chủ để": "Điện xoay chiều",
+            "Điểm": "7",
+            "Dạng bài đặc trưng": "Bẫy ngôn ngữ "
+        },
+        {
+            "Câu": "24",
+            "Chủ để": "Điện xoay chiều",
+            "Điểm": "7",
+            "Dạng bài đặc trưng": "Bẫy ngôn ngữ "
+        },
+        {
+            "Câu": "25",
+            "Chủ để": "Quang học",
+            "Điểm": "6",
+            "Dạng bài đặc trưng": "Bài tập"
+        },
+        {
+            "Câu": "26",
+            "Chủ để": "Mạch LC - Sóng điện từ",
+            "Điểm": "6",
+            "Dạng bài đặc trưng": "Lý thuyết"
+        },
+        {
+            "Câu": "27",
+            "Chủ để": "Điện tích - Điện trường",
+            "Điểm": "6",
+            "Dạng bài đặc trưng": "Bẫy lý thuyết"
+        },
+        {
+            "Câu": "28",
+            "Chủ để": "Dao động cơ",
+            "Điểm": "6",
+            "Dạng bài đặc trưng": "Bài tập"
+        },
+        {
+            "Câu": "29",
+            "Chủ để": "Điện xoay chiều",
+            "Điểm": "9",
+            "Dạng bài đặc trưng": "Bài tập"
+        },
+        {
+            "Câu": "30",
+            "Chủ để": "Dòng điện không đổi",
+            "Điểm": "8",
+            "Dạng bài đặc trưng": "Bài tập"
+        },
+        {
+            "Câu": "31",
+            "Chủ để": "Sóng cơ",
+            "Điểm": "9",
+            "Dạng bài đặc trưng": "Bài tập"
+        },
+        {
+            "Câu": "32",
+            "Chủ để": "Sóng ánh sáng",
+            "Điểm": "8",
+            "Dạng bài đặc trưng": "Bài tập"
+        },
+        {
+            "Câu": "33",
+            "Chủ để": "Sóng cơ",
+            "Điểm": "8"
+        },
+        {
+            "Câu": "34",
+            "Chủ để": "Sóng cơ"
+        },
+        {
+            "Câu": "35",
+            "Chủ để": "Điện xoay chiều"
+        },
+        {
+            "Câu": "36",
+            "Chủ để": "Sóng cơ"
+        },
+        {
+            "Câu": "37",
+            "Chủ để": "Điện xoay chiều"
+        },
+        {
+            "Câu": "38",
+            "Chủ để": "Điện xoay chiều"
+        },
+        {
+            "Câu": "39",
+            "Chủ để": "Quang học",
+            "Dạng bài đặc trưng": "Đồ thị"
+        },
+        {
+            "Câu": "40",
+            "Chủ để": "Dao động cơ"
+        }
+    ],
+    "359": [
+        {
+            "Câu": "1",
+            "Chủ để": "Dao động cơ",
+            "Điểm": "6",
+            "Dạng bài đặc trưng": "Lý thuyết"
+        },
+        {
+            "Câu": "2",
+            "Chủ để": "Sóng cơ",
+            "Điểm": "6",
+            "Dạng bài đặc trưng": "Lý thuyết"
+        },
+        {
+            "Câu": "3",
+            "Chủ để": "Sóng cơ",
+            "Điểm": "6",
+            "Dạng bài đặc trưng": "Lý thuyết"
+        },
+        {
+            "Câu": "4",
+            "Chủ để": "Mạch LC - Sóng điện từ",
+            "Điểm": "6",
+            "Dạng bài đặc trưng": "Bài tập"
+        },
+        {
+            "Câu": "5",
+            "Chủ để": "Mạch LC - Sóng điện từ",
+            "Điểm": "6",
+            "Dạng bài đặc trưng": "Lý thuyết"
+        },
+        {
+            "Câu": "6",
+            "Chủ để": "Dao động cơ",
+            "Điểm": "6",
+            "Dạng bài đặc trưng": "Lý thuyết"
+        },
+        {
+            "Câu": "7",
+            "Chủ để": "Điện xoay chiều",
+            "Điểm": "6",
+            "Dạng bài đặc trưng": "Bài tập"
+        },
+        {
+            "Câu": "8",
+            "Chủ để": "Điện xoay chiều",
+            "Điểm": "6",
+            "Dạng bài đặc trưng": "Lý thuyết"
+        },
+        {
+            "Câu": "9",
+            "Chủ để": "Sóng ánh sáng",
+            "Điểm": "6",
+            "Dạng bài đặc trưng": "Lý thuyết"
+        },
+        {
+            "Câu": "10",
+            "Chủ để": "Điện xoay chiều",
+            "Dạng bài đặc trưng": "Lý thuyết"
+        },
+        {
+            "Câu": "11",
+            "Chủ để": "Sóng cơ",
+            "Điểm": "6",
+            "Dạng bài đặc trưng": "Lý thuyết"
+        },
+        {
+            "Câu": "12",
+            "Chủ để": "Dao động cơ",
+            "Điểm": "6",
+            "Dạng bài đặc trưng": "Bài tập"
+        },
+        {
+            "Câu": "13",
+            "Chủ để": "Mạch LC - Sóng điện từ",
+            "Điểm": "6",
+            "Dạng bài đặc trưng": "Lý thuyết"
+        },
+        {
+            "Câu": "14",
+            "Chủ để": "Sóng ánh sáng",
+            "Điểm": "6",
+            "Dạng bài đặc trưng": "Lý thuyết"
+        },
+        {
+            "Câu": "15",
+            "Chủ để": "Dao động cơ",
+            "Điểm": "6",
+            "Dạng bài đặc trưng": "Bài tập"
+        },
+        {
+            "Câu": "16",
+            "Chủ để": "Dao động cơ",
+            "Điểm": "6",
+            "Dạng bài đặc trưng": "Lý thuyết"
+        },
+        {
+            "Câu": "17",
+            "Chủ để": "Sóng cơ",
+            "Điểm": "6",
+            "Dạng bài đặc trưng": "Lý thuyết"
+        },
+        {
+            "Câu": "18",
+            "Chủ để": "Dao động cơ",
+            "Điểm": "6",
+            "Dạng bài đặc trưng": "Lý thuyết"
+        },
+        {
+            "Câu": "19",
+            "Chủ để": "Mạch LC - Sóng điện từ",
+            "Điểm": "7",
+            "Dạng bài đặc trưng": "Bài tập"
+        },
+        {
+            "Câu": "20",
+            "Chủ để": "Dòng điện không đổi",
+            "Điểm": "6",
+            "Dạng bài đặc trưng": "Bài tập"
+        },
+        {
+            "Câu": "21",
+            "Chủ để": "Sóng cơ",
+            "Điểm": "7",
+            "Dạng bài đặc trưng": "Tính cẩn thận"
+        },
+        {
+            "Câu": "22",
+            "Chủ để": "Điện xoay chiều",
+            "Điểm": "6",
+            "Dạng bài đặc trưng": "Bài tập"
+        },
+        {
+            "Câu": "23",
+            "Chủ để": "Điện tích - Điện trường",
+            "Điểm": "6",
+            "Dạng bài đặc trưng": "Bài tập"
+        },
+        {
+            "Câu": "24",
+            "Chủ để": "Dao động cơ",
+            "Điểm": "6",
+            "Dạng bài đặc trưng": "Bài tập"
+        },
+        {
+            "Câu": "25",
+            "Chủ để": "Sóng cơ",
+            "Điểm": "7",
+            "Dạng bài đặc trưng": "Bài tập"
+        },
+        {
+            "Câu": "26",
+            "Chủ để": "Điện xoay chiều",
+            "Điểm": "6",
+            "Dạng bài đặc trưng": "Bài tập"
+        },
+        {
+            "Câu": "27",
+            "Chủ để": "Sóng ánh sáng",
+            "Điểm": "6",
+            "Dạng bài đặc trưng": "Bài tập"
+        },
+        {
+            "Câu": "28",
+            "Chủ để": "Mạch LC - Sóng điện từ",
+            "Điểm": "7",
+            "Dạng bài đặc trưng": "Bài tập"
+        },
+        {
+            "Câu": "29",
+            "Chủ để": "Sóng ánh sáng",
+            "Điểm": "8",
+            "Dạng bài đặc trưng": "Bài tập"
+        },
+        {
+            "Câu": "30",
+            "Chủ để": "Sóng cơ",
+            "Điểm": "8",
+            "Dạng bài đặc trưng": "Bài tập"
+        },
+        {
+            "Câu": "31",
+            "Chủ để": "Sóng cơ",
+            "Điểm": "9",
+            "Dạng bài đặc trưng": "Bài tập"
+        },
+        {
+            "Câu": "32",
+            "Chủ để": "Sóng ánh sáng",
+            "Điểm": "8",
+            "Dạng bài đặc trưng": "Bài tập"
+        },
+        {
+            "Câu": "33",
+            "Chủ để": "Quang học",
+            "Điểm": "9",
+            "Dạng bài đặc trưng": "Bài tập"
+        },
+        {
+            "Câu": "34",
+            "Chủ để": "Điện xoay chiều",
+            "Điểm": "8",
+            "Dạng bài đặc trưng": "Đồ thị"
+        },
+        {
+            "Câu": "35",
+            "Chủ để": "Điện xoay chiều",
+            "Điểm": "9",
+            "Dạng bài đặc trưng": "Bài tập"
+        },
+        {
+            "Câu": "36",
+            "Chủ để": "Dao động cơ",
+            "Điểm": "10",
+            "Dạng bài đặc trưng": "Đồ thị"
+        },
+        {
+            "Câu": "37",
+            "Chủ để": "Sóng cơ",
+            "Điểm": "10",
+            "Dạng bài đặc trưng": "Bài tập khó"
+        },
+        {
+            "Câu": "38",
+            "Chủ để": "Dao động cơ",
+            "Điểm": "9",
+            "Dạng bài đặc trưng": "Đồ thị"
+        },
+        {
+            "Câu": "39",
+            "Chủ để": "Điện xoay chiều",
+            "Điểm": "10",
+            "Dạng bài đặc trưng": "Bài tập khó"
+        },
+        {
+            "Câu": "40",
+            "Chủ để": "Điện xoay chiều",
+            "Điểm": "10",
+            "Dạng bài đặc trưng": "Bài tập khó"
+        }
+    ],
+    "482": [
+        {
+            "Câu": "1",
+            "Chủ để": "Dao động cơ",
+            "Điểm": "3",
+            "Dạng bài đặc trưng": "Lý thuyết"
+        },
+        {
+            "Câu": "2",
+            "Chủ để": "Sóng cơ",
+            "Điểm": "3",
+            "Dạng bài đặc trưng": "Lý thuyết"
+        },
+        {
+            "Câu": "3",
+            "Chủ để": "Dao động cơ",
+            "Điểm": "3",
+            "Dạng bài đặc trưng": "Bẫy lý thuyết"
+        },
+        {
+            "Câu": "4",
+            "Chủ để": "Sóng cơ",
+            "Điểm": "3",
+            "Dạng bài đặc trưng": "Lý thuyết"
+        },
+        {
+            "Câu": "5",
+            "Chủ để": "Điện xoay chiều",
+            "Điểm": "3",
+            "Dạng bài đặc trưng": "Lý thuyết"
+        },
+        {
+            "Câu": "6",
+            "Chủ để": "Dao động cơ",
+            "Điểm": "3",
+            "Dạng bài đặc trưng": "Lý thuyết"
+        },
+        {
+            "Câu": "7",
+            "Chủ để": "Điện xoay chiều",
+            "Điểm": "3",
+            "Dạng bài đặc trưng": "Bài tập"
+        },
+        {
+            "Câu": "8",
+            "Chủ để": "Điện xoay chiều",
+            "Điểm": "3",
+            "Dạng bài đặc trưng": "Lý thuyết"
+        },
+        {
+            "Câu": "9",
+            "Chủ để": "Dao động cơ",
+            "Điểm": "3",
+            "Dạng bài đặc trưng": "Bài tập"
+        },
+        {
+            "Câu": "10",
+            "Chủ để": "Sóng cơ",
+            "Điểm": "3",
+            "Dạng bài đặc trưng": "Lý thuyết"
+        },
+        {
+            "Câu": "11",
+            "Chủ để": "Điện xoay chiều",
+            "Điểm": "5",
+            "Dạng bài đặc trưng": "Bẫy lý thuyết"
+        },
+        {
+            "Câu": "12",
+            "Chủ để": "Điện xoay chiều",
+            "Điểm": "3",
+            "Dạng bài đặc trưng": "Bài tập"
+        },
+        {
+            "Câu": "13",
+            "Chủ để": "Quang học",
+            "Điểm": "5",
+            "Dạng bài đặc trưng": "Lý thuyết"
+        },
+        {
+            "Câu": "14",
+            "Chủ để": "Mạch LC - Sóng điện từ",
+            "Điểm": "3",
+            "Dạng bài đặc trưng": "Lý thuyết"
+        },
+        {
+            "Câu": "15",
+            "Chủ để": "Dao động cơ",
+            "Điểm": "3",
+            "Dạng bài đặc trưng": "Lý thuyết"
+        },
+        {
+            "Câu": "16",
+            "Chủ để": "Sóng cơ",
+            "Điểm": "5",
+            "Dạng bài đặc trưng": "Bài tập"
+        },
+        {
+            "Câu": "17",
+            "Chủ để": "Điện xoay chiều",
+            "Điểm": "5",
+            "Dạng bài đặc trưng": "Lý thuyết"
+        },
+        {
+            "Câu": "18",
+            "Chủ để": "Sóng cơ",
+            "Điểm": "3",
+            "Dạng bài đặc trưng": "Bài tập"
+        },
+        {
+            "Câu": "19",
+            "Chủ để": "Dao động cơ",
+            "Điểm": "3",
+            "Dạng bài đặc trưng": "Bẫy lý thuyết"
+        },
+        {
+            "Câu": "20",
+            "Chủ để": "Mạch LC - Sóng điện từ",
+            "Điểm": "3",
+            "Dạng bài đặc trưng": "Lý thuyết"
+        },
+        {
+            "Câu": "21",
+            "Chủ để": "Điện xoay chiều",
+            "Điểm": "3",
+            "Dạng bài đặc trưng": "Lý thuyết"
+        },
+        {
+            "Câu": "22",
+            "Chủ để": "Sóng ánh sáng",
+            "Điểm": "3",
+            "Dạng bài đặc trưng": "Lý thuyết"
+        },
+        {
+            "Câu": "23",
+            "Chủ để": "Sóng cơ",
+            "Điểm": "3",
+            "Dạng bài đặc trưng": "Lý thuyết"
+        },
+        {
+            "Câu": "24",
+            "Chủ để": "Sóng cơ",
+            "Điểm": "7",
+            "Dạng bài đặc trưng": "Bài tập"
+        },
+        {
+            "Câu": "25",
+            "Chủ để": "Sóng ánh sáng",
+            "Điểm": "7",
+            "Dạng bài đặc trưng": "Bài tập"
+        },
+        {
+            "Câu": "26",
+            "Chủ để": "Sóng cơ",
+            "Điểm": "5",
+            "Dạng bài đặc trưng": "Bẫy đơn vị "
+        },
+        {
+            "Câu": "27",
+            "Chủ để": "Sóng ánh sáng",
+            "Điểm": "5",
+            "Dạng bài đặc trưng": "Bài tập"
+        },
+        {
+            "Câu": "28",
+            "Chủ để": "Dao động cơ",
+            "Điểm": "7",
+            "Dạng bài đặc trưng": "Bài tập",
+            "Tư vấn": "Dạng lạ"
+        },
+        {
+            "Câu": "29",
+            "Chủ để": "Mạch LC - Sóng điện từ",
+            "Điểm": "5",
+            "Dạng bài đặc trưng": "Đồ thị"
+        },
+        {
+            "Câu": "30",
+            "Chủ để": "Sóng cơ",
+            "Điểm": "5",
+            "Dạng bài đặc trưng": "Bài tập",
+            "Tư vấn": "Đề dài - Nghĩ khó"
+        },
+        {
+            "Câu": "31",
+            "Chủ để": "Dao động cơ",
+            "Điểm": "7",
+            "Dạng bài đặc trưng": "Bài tập"
+        },
+        {
+            "Câu": "32",
+            "Chủ để": "Dao động cơ",
+            "Điểm": "5",
+            "Dạng bài đặc trưng": "Bài tập"
+        },
+        {
+            "Câu": "33",
+            "Chủ để": "Điện xoay chiều",
+            "Điểm": "5",
+            "Dạng bài đặc trưng": "Bẫy lý thuyết"
+        },
+        {
+            "Câu": "34",
+            "Chủ để": "Sóng ánh sáng",
+            "Điểm": "3",
+            "Dạng bài đặc trưng": "Lý thuyết"
+        },
+        {
+            "Câu": "35",
+            "Chủ để": "Sóng ánh sáng",
+            "Điểm": "7",
+            "Dạng bài đặc trưng": "Bài tập"
+        },
+        {
+            "Câu": "36",
+            "Chủ để": "Điện xoay chiều",
+            "Điểm": "9",
+            "Dạng bài đặc trưng": "Bài tập khó"
+        },
+        {
+            "Câu": "37",
+            "Chủ để": "Mạch LC - Sóng điện từ",
+            "Điểm": "7",
+            "Dạng bài đặc trưng": "Bài tập"
+        },
+        {
+            "Câu": "38",
+            "Chủ để": "Điện xoay chiều",
+            "Điểm": "9",
+            "Dạng bài đặc trưng": "Bài tập khó"
+        },
+        {
+            "Câu": "39",
+            "Chủ để": "Sóng cơ",
+            "Điểm": "9",
+            "Dạng bài đặc trưng": "Bài tập khó"
+        },
+        {
+            "Câu": "40",
+            "Chủ để": "Điện xoay chiều",
+            "Điểm": "9",
+            "Dạng bài đặc trưng": "Bài tập khó"
+        }
+    ],
+    "483": [
+        {
+            "Câu": "1",
+            "Chủ để": "Dao động cơ"
+        },
+        {
+            "Câu": "2",
+            "Chủ để": "Điện xoay chiều"
+        },
+        {
+            "Câu": "3",
+            "Chủ để": "Mạch LC - Sóng điện từ"
+        },
+        {
+            "Câu": "4",
+            "Chủ để": "Dao động cơ"
+        },
+        {
+            "Câu": "5",
+            "Chủ để": "Sóng ánh sáng"
+        },
+        {
+            "Câu": "6",
+            "Chủ để": "Điện tích - Điện trường"
+        },
+        {
+            "Câu": "7",
+            "Chủ để": "Dao động cơ"
+        },
+        {
+            "Câu": "8",
+            "Chủ để": "Sóng cơ"
+        },
+        {
+            "Câu": "9",
+            "Chủ để": "Sóng cơ"
+        },
+        {
+            "Câu": "10",
+            "Chủ để": "Mạch LC - Sóng điện từ"
+        },
+        {
+            "Câu": "11",
+            "Chủ để": "Sóng cơ"
+        },
+        {
+            "Câu": "12",
+            "Chủ để": "Dao động cơ"
+        },
+        {
+            "Câu": "13",
+            "Chủ để": "Sóng ánh sáng"
+        },
+        {
+            "Câu": "14",
+            "Chủ để": "Điện xoay chiều"
+        },
+        {
+            "Câu": "15",
+            "Chủ để": "Sóng cơ"
+        },
+        {
+            "Câu": "16",
+            "Chủ để": "Sóng ánh sáng"
+        },
+        {
+            "Câu": "17",
+            "Chủ để": "Dao động cơ"
+        },
+        {
+            "Câu": "18",
+            "Chủ để": "Sóng cơ"
+        },
+        {
+            "Câu": "19",
+            "Chủ để": "Điện xoay chiều"
+        },
+        {
+            "Câu": "20",
+            "Chủ để": "Sóng cơ"
+        },
+        {
+            "Câu": "21",
+            "Chủ để": "Điện xoay chiều"
+        },
+        {
+            "Câu": "22",
+            "Chủ để": "Điện tích - Điện trường"
+        },
+        {
+            "Câu": "23",
+            "Chủ để": "Quang học"
+        },
+        {
+            "Câu": "24",
+            "Chủ để": "Dao động cơ"
+        },
+        {
+            "Câu": "25",
+            "Chủ để": "Mạch LC - Sóng điện từ"
+        },
+        {
+            "Câu": "26",
+            "Chủ để": "Dao động cơ"
+        },
+        {
+            "Câu": "27",
+            "Chủ để": "Điện xoay chiều"
+        },
+        {
+            "Câu": "28",
+            "Chủ để": "Sóng ánh sáng"
+        },
+        {
+            "Câu": "29",
+            "Chủ để": "Điện xoay chiều"
+        },
+        {
+            "Câu": "30",
+            "Chủ để": "Sóng ánh sáng"
+        },
+        {
+            "Câu": "31",
+            "Chủ để": "Sóng cơ"
+        },
+        {
+            "Câu": "32",
+            "Chủ để": "Sóng cơ"
+        },
+        {
+            "Câu": "33",
+            "Chủ để": "Dòng điện không đổi"
+        },
+        {
+            "Câu": "34",
+            "Chủ để": "Sóng cơ"
+        },
+        {
+            "Câu": "35",
+            "Chủ để": "Điện xoay chiều"
+        },
+        {
+            "Câu": "36",
+            "Chủ để": "Sóng cơ"
+        },
+        {
+            "Câu": "37",
+            "Chủ để": "Dao động cơ"
+        },
+        {
+            "Câu": "38",
+            "Chủ để": "Điện xoay chiều"
+        },
+        {
+            "Câu": "39",
+            "Chủ để": "Dao động cơ"
+        },
+        {
+            "Câu": "40",
+            "Chủ để": "Quang học"
+        }
+    ],
+    "486": [
+        {
+            "Câu": "1",
+            "Chủ để": "Dao động cơ",
+            "Điểm": "6",
+            "Dạng bài đặc trưng": "Lý thuyết"
+        },
+        {
+            "Câu": "2",
+            "Chủ để": "Mạch LC - Sóng điện từ",
+            "Điểm": "6",
+            "Dạng bài đặc trưng": "Bài tập"
+        },
+        {
+            "Câu": "3",
+            "Chủ để": "Dao động cơ",
+            "Điểm": "6",
+            "Dạng bài đặc trưng": "Bài tập"
+        },
+        {
+            "Câu": "4",
+            "Chủ để": "Điện xoay chiều",
+            "Điểm": "6",
+            "Dạng bài đặc trưng": "Lý thuyết"
+        },
+        {
+            "Câu": "5",
+            "Chủ để": "Sóng ánh sáng",
+            "Điểm": "6",
+            "Dạng bài đặc trưng": "Lý thuyết"
+        },
+        {
+            "Câu": "6",
+            "Chủ để": "Điện xoay chiều",
+            "Điểm": "6",
+            "Dạng bài đặc trưng": "Bài tập"
+        },
+        {
+            "Câu": "7",
+            "Chủ để": "Dao động cơ",
+            "Điểm": "6",
+            "Dạng bài đặc trưng": "Lý thuyết"
+        },
+        {
+            "Câu": "8",
+            "Chủ để": "Sóng ánh sáng",
+            "Điểm": "6",
+            "Dạng bài đặc trưng": "Lý thuyết"
+        },
+        {
+            "Câu": "9",
+            "Chủ để": "Mạch LC - Sóng điện từ",
+            "Điểm": "6",
+            "Dạng bài đặc trưng": "Lý thuyết"
+        },
+        {
+            "Câu": "10",
+            "Chủ để": "Sóng cơ",
+            "Điểm": "6",
+            "Dạng bài đặc trưng": "Lý thuyết"
+        },
+        {
+            "Câu": "11",
+            "Chủ để": "Sóng cơ",
+            "Điểm": "6",
+            "Dạng bài đặc trưng": "Lý thuyết"
+        },
+        {
+            "Câu": "12",
+            "Chủ để": "Dao động cơ",
+            "Điểm": "6",
+            "Dạng bài đặc trưng": "Lý thuyết"
+        },
+        {
+            "Câu": "13",
+            "Chủ để": "Sóng cơ",
+            "Điểm": "6",
+            "Dạng bài đặc trưng": "Bài tập"
+        },
+        {
+            "Câu": "14",
+            "Chủ để": "Mạch LC - Sóng điện từ",
+            "Điểm": "6",
+            "Dạng bài đặc trưng": "Lý thuyết"
+        },
+        {
+            "Câu": "15",
+            "Chủ để": "Dao động cơ",
+            "Điểm": "6",
+            "Dạng bài đặc trưng": "Lý thuyết"
+        },
+        {
+            "Câu": "16",
+            "Chủ để": "Sóng cơ",
+            "Điểm": "6",
+            "Dạng bài đặc trưng": "Lý thuyết"
+        },
+        {
+            "Câu": "17",
+            "Chủ để": "Điện xoay chiều",
+            "Điểm": "6",
+            "Dạng bài đặc trưng": "Lý thuyết"
+        },
+        {
+            "Câu": "18",
+            "Chủ để": "Dao động cơ",
+            "Điểm": "6",
+            "Dạng bài đặc trưng": "Bài tập"
+        },
+        {
+            "Câu": "19",
+            "Chủ để": "Điện xoay chiều",
+            "Điểm": "6",
+            "Dạng bài đặc trưng": "Bài tập"
+        },
+        {
+            "Câu": "20",
+            "Chủ để": "Dòng điện không đổi",
+            "Điểm": "6",
+            "Dạng bài đặc trưng": "Bài tập"
+        },
+        {
+            "Câu": "21",
+            "Chủ để": "Sóng cơ",
+            "Điểm": "7",
+            "Dạng bài đặc trưng": "Bài tập"
+        },
+        {
+            "Câu": "22",
+            "Chủ để": "Mạch LC - Sóng điện từ",
+            "Điểm": "7",
+            "Dạng bài đặc trưng": "Bài tập"
+        },
+        {
+            "Câu": "23",
+            "Chủ để": "Điện tích - Điện trường",
+            "Điểm": "6",
+            "Dạng bài đặc trưng": "Bài tập"
+        },
+        {
+            "Câu": "24",
+            "Chủ để": "Sóng cơ",
+            "Điểm": "7",
+            "Dạng bài đặc trưng": "Tính cẩn thận"
+        },
+        {
+            "Câu": "25",
+            "Chủ để": "Điện xoay chiều",
+            "Điểm": "6",
+            "Dạng bài đặc trưng": "Bài tập"
+        },
+        {
+            "Câu": "26",
+            "Chủ để": "Sóng ánh sáng",
+            "Điểm": "6",
+            "Dạng bài đặc trưng": "Bài tập"
+        },
+        {
+            "Câu": "27",
+            "Chủ để": "Mạch LC - Sóng điện từ",
+            "Điểm": "7",
+            "Dạng bài đặc trưng": "Bài tập"
+        },
+        {
+            "Câu": "28",
+            "Chủ để": "Dao động cơ",
+            "Điểm": "6",
+            "Dạng bài đặc trưng": "Bài tập"
+        },
+        {
+            "Câu": "29",
+            "Chủ để": "Điện xoay chiều",
+            "Điểm": "9",
+            "Dạng bài đặc trưng": "Bài tập"
+        },
+        {
+            "Câu": "30",
+            "Chủ để": "Sóng ánh sáng",
+            "Điểm": "9",
+            "Dạng bài đặc trưng": "Bài tập"
+        },
+        {
+            "Câu": "31",
+            "Chủ để": "Sóng cơ",
+            "Điểm": "8",
+            "Dạng bài đặc trưng": "Bài tập"
+        },
+        {
+            "Câu": "32",
+            "Chủ để": "Quang học",
+            "Điểm": "8",
+            "Dạng bài đặc trưng": "Bài tập"
+        },
+        {
+            "Câu": "33",
+            "Chủ để": "Sóng cơ",
+            "Điểm": "9",
+            "Dạng bài đặc trưng": "Bài tập"
+        },
+        {
+            "Câu": "34",
+            "Chủ để": "Điện xoay chiều",
+            "Điểm": "8",
+            "Dạng bài đặc trưng": "Đồ thị"
+        },
+        {
+            "Câu": "35",
+            "Chủ để": "Sóng ánh sáng",
+            "Điểm": "8",
+            "Dạng bài đặc trưng": "Bài tập"
+        },
+        {
+            "Câu": "36",
+            "Chủ để": "Dao động cơ",
+            "Điểm": "10",
+            "Dạng bài đặc trưng": "Bài tập khó"
+        },
+        {
+            "Câu": "37",
+            "Chủ để": "Dao động cơ",
+            "Điểm": "9",
+            "Dạng bài đặc trưng": "Đồ thị"
+        },
+        {
+            "Câu": "38",
+            "Chủ để": "Sóng cơ",
+            "Điểm": "10",
+            "Dạng bài đặc trưng": "Bài tập khó"
+        },
+        {
+            "Câu": "39",
+            "Chủ để": "Điện xoay chiều",
+            "Điểm": "10",
+            "Dạng bài đặc trưng": "Bài tập khó"
+        },
+        {
+            "Câu": "40",
+            "Chủ để": "Điện xoay chiều",
+            "Điểm": "10",
+            "Dạng bài đặc trưng": "Bài tập khó"
+        }
+    ],
+    "493": [
+        {
+            "Câu": "1",
+            "Chủ để": "Mạch LC - Sóng điện từ",
+            "Dạng bài đặc trưng": "Lý thuyết"
+        },
+        {
+            "Câu": "2",
+            "Chủ để": "Dao động cơ",
+            "Dạng bài đặc trưng": "Lý thuyết"
+        },
+        {
+            "Câu": "3",
+            "Chủ để": "Sóng cơ",
+            "Dạng bài đặc trưng": "Lý thuyết"
+        },
+        {
+            "Câu": "4",
+            "Chủ để": "Điện xoay chiều",
+            "Dạng bài đặc trưng": "Lý thuyết"
+        },
+        {
+            "Câu": "5",
+            "Chủ để": "Sóng cơ",
+            "Dạng bài đặc trưng": "Lý thuyết"
+        },
+        {
+            "Câu": "6",
+            "Chủ để": "Dao động cơ",
+            "Dạng bài đặc trưng": "Lý thuyết"
+        },
+        {
+            "Câu": "7",
+            "Chủ để": "Dao động cơ",
+            "Dạng bài đặc trưng": "Lý thuyết"
+        },
+        {
+            "Câu": "8",
+            "Chủ để": "Mạch LC - Sóng điện từ",
+            "Dạng bài đặc trưng": "Lý thuyết"
+        },
+        {
+            "Câu": "9",
+            "Chủ để": "Sóng ánh sáng",
+            "Dạng bài đặc trưng": "Bài tập"
+        },
+        {
+            "Câu": "10",
+            "Chủ để": "Dao động cơ",
+            "Dạng bài đặc trưng": "Lý thuyết"
+        },
+        {
+            "Câu": "11",
+            "Chủ để": "Dao động cơ",
+            "Dạng bài đặc trưng": "Lý thuyết"
+        },
+        {
+            "Câu": "12",
+            "Chủ để": "Dao động cơ",
+            "Dạng bài đặc trưng": "Lý thuyết"
+        },
+        {
+            "Câu": "13",
+            "Chủ để": "Điện xoay chiều",
+            "Dạng bài đặc trưng": "Lý thuyết"
+        },
+        {
+            "Câu": "14",
+            "Chủ để": "Sóng cơ",
+            "Dạng bài đặc trưng": "Lý thuyết"
+        },
+        {
+            "Câu": "15",
+            "Chủ để": "Điện xoay chiều",
+            "Dạng bài đặc trưng": "Truyển tải điện năng"
+        },
+        {
+            "Câu": "16",
+            "Chủ để": "Dao động cơ",
+            "Dạng bài đặc trưng": "Lý thuyết"
+        },
+        {
+            "Câu": "17",
+            "Chủ để": "Điện xoay chiều",
+            "Dạng bài đặc trưng": "Lý thuyết"
+        },
+        {
+            "Câu": "18",
+            "Chủ để": "Dao động cơ",
+            "Dạng bài đặc trưng": "Bài tập"
+        },
+        {
+            "Câu": "19",
+            "Chủ để": "Điện xoay chiều",
+            "Dạng bài đặc trưng": "Bài tập"
+        },
+        {
+            "Câu": "20",
+            "Chủ để": "Điện xoay chiều",
+            "Dạng bài đặc trưng": "Lý thuyết"
+        },
+        {
+            "Câu": "21",
+            "Chủ để": "Mạch LC - Sóng điện từ",
+            "Dạng bài đặc trưng": "Lý thuyết"
+        },
+        {
+            "Câu": "22",
+            "Chủ để": "Dao động cơ",
+            "Dạng bài đặc trưng": "Lý thuyết"
+        },
+        {
+            "Câu": "23",
+            "Chủ để": "Sóng cơ",
+            "Dạng bài đặc trưng": "Bài tập"
+        },
+        {
+            "Câu": "24",
+            "Chủ để": "Sóng cơ",
+            "Dạng bài đặc trưng": "Bài tập"
+        },
+        {
+            "Câu": "25",
+            "Chủ để": "Dao động cơ",
+            "Dạng bài đặc trưng": "Bài tập"
+        },
+        {
+            "Câu": "26",
+            "Chủ để": "Sóng cơ",
+            "Dạng bài đặc trưng": "Bài tập"
+        },
+        {
+            "Câu": "27",
+            "Chủ để": "Sóng ánh sáng",
+            "Dạng bài đặc trưng": "Lý thuyết"
+        },
+        {
+            "Câu": "28",
+            "Chủ để": "Điện xoay chiều",
+            "Dạng bài đặc trưng": "Bài tập khó"
+        },
+        {
+            "Câu": "29",
+            "Chủ để": "Điện xoay chiều",
+            "Dạng bài đặc trưng": "Bài tập"
+        },
+        {
+            "Câu": "30",
+            "Chủ để": "Sóng ánh sáng",
+            "Dạng bài đặc trưng": "Bài tập"
+        },
+        {
+            "Câu": "31",
+            "Chủ để": "Sóng cơ",
+            "Dạng bài đặc trưng": "Bài tập khó"
+        },
+        {
+            "Câu": "32",
+            "Chủ để": "Điện xoay chiều",
+            "Dạng bài đặc trưng": "Bài tập"
+        },
+        {
+            "Câu": "33",
+            "Chủ để": "Điện xoay chiều",
+            "Dạng bài đặc trưng": "Bài tập"
+        },
+        {
+            "Câu": "34",
+            "Chủ để": "Mạch LC - Sóng điện từ",
+            "Dạng bài đặc trưng": "Bài tập"
+        },
+        {
+            "Câu": "35",
+            "Chủ để": "Dao động cơ",
+            "Dạng bài đặc trưng": "Bài tập"
+        },
+        {
+            "Câu": "36",
+            "Chủ để": "Sóng ánh sáng",
+            "Dạng bài đặc trưng": "Bài tập"
+        },
+        {
+            "Câu": "37",
+            "Chủ để": "Điện xoay chiều",
+            "Dạng bài đặc trưng": "Bài tập khó"
+        },
+        {
+            "Câu": "38",
+            "Chủ để": "Điện xoay chiều",
+            "Dạng bài đặc trưng": "Truyển tải điện năng"
+        },
+        {
+            "Câu": "39",
+            "Chủ để": "Sóng cơ",
+            "Dạng bài đặc trưng": "Bài tập"
+        },
+        {
+            "Câu": "40",
+            "Chủ để": "Dao động cơ",
+            "Dạng bài đặc trưng": "Đồ thị"
+        }
+    ]
+}
